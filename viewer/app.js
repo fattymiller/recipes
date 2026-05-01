@@ -60,14 +60,10 @@ async function init() {
 
   renderRecipeList();
   renderPlanner();
-  renderShopping();
   lneInit();
 
-  // LNE is the default active tab, so kick off its data load on first paint.
-  const activeTab = document.querySelector(".tab.active");
-  if (activeTab && activeTab.dataset.view === "liteneasy") {
-    ensureLneLoaded();
-  }
+  const activeView = document.querySelector(".tab.active")?.dataset.view || "liteneasy";
+  switchView(activeView);
 }
 
 function switchView(view) {
