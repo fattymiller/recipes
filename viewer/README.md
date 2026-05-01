@@ -1,14 +1,13 @@
 # Viewer (Phase 1)
 
-A no-build static site that reads `../data/recipes/*.json` directly.
-
-Must be served from the **repo root** (so `../data/recipes/` is reachable):
+A no-build static site. Recipe JSON lives in `./data/recipes/`, alongside the
+HTML/CSS/JS, so the whole folder can be deployed as a single static bundle.
 
 ```bash
-./viewer/serve.sh                 # http://localhost:8000/viewer/
+./viewer/serve.sh                 # http://localhost:8000/
 # or, equivalently:
-cd /path/to/recipes && python3 -m http.server 8000
-# then open http://localhost:8000/viewer/
+cd viewer && python3 -m http.server 8000
+# then open http://localhost:8000/
 ```
 
 Three tabs:

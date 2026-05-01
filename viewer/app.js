@@ -1,9 +1,9 @@
 // Static-site Phase 1 viewer.
-// Loads ../data/recipes/index.json + per-recipe JSON files,
+// Loads ./data/recipes/index.json + per-recipe JSON files,
 // lets you browse, build a 5-day x 4-slot plan, and aggregate a shopping list.
 // Plan state is persisted in localStorage so refreshes don't blow it away.
 
-const DATA_BASE = "../data/recipes";
+const DATA_BASE = "./data/recipes";
 const DAYS = ["Mon", "Tue", "Wed", "Thu", "Fri"];
 const SLOTS = [
   { key: "am1", label: "Mid-morning #1" },
