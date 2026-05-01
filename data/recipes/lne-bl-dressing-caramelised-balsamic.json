@@ -1,0 +1,97 @@
+{
+  "id": "lne-bl-dressing-caramelised-balsamic",
+  "title": "Dressing, Caramelised Balsamic",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#224914027",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "25 g",
+  "servings": 1,
+  "serving_grams": 25.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Balsamic Vinegar (Red Wine Vinegar, Sugar)",
+      "name": "Balsamic Vinegar (Red Wine Vinegar, Sugar)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vinegar",
+      "name": "Vinegar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Molasses",
+      "name": "Molasses",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Red Wine Vinegar",
+      "name": "Red Wine Vinegar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "White Wine Vinegar",
+      "name": "White Wine Vinegar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Burnt Sugar",
+      "name": "Burnt Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vegetable Gum (Xanthan, Guar)",
+      "name": "Vegetable Gum (Xanthan, Guar)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 176.0,
+    "protein_g": 0.1,
+    "fat_g": 0.1,
+    "sat_fat_g": 0.1,
+    "carb_g": 10.1,
+    "sugar_g": 9.7,
+    "fibre_g": 0.1,
+    "sodium_mg": 2.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

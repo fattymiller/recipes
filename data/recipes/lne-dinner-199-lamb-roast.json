@@ -1,0 +1,184 @@
+{
+  "id": "lne-dinner-199-lamb-roast",
+  "title": "199 Lamb Roast",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999062",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "475 g",
+  "servings": 1,
+  "serving_grams": 475.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Potato (20%)",
+      "name": "Potato",
+      "percent": 20.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lamb (19%)",
+      "name": "Lamb",
+      "percent": 19.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Peas (10%)",
+      "name": "Peas",
+      "percent": 10.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Beef Stock",
+      "name": "Beef Stock",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sweet Potato (8%)",
+      "name": "Sweet Potato",
+      "percent": 8.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cauliflower (7%)",
+      "name": "Cauliflower",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot (7%)",
+      "name": "Carrot",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Milk Powder",
+      "name": "Milk Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade",
+      "name": "Marinade",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cheese (Contains Milk )",
+      "name": "Cheese (Contains Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Seasoning",
+      "name": "Seasoning",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion Extract",
+      "name": "Onion Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract (Contains Barley )",
+      "name": "Yeast Extract (Contains Barley )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract",
+      "name": "Yeast Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 1450.0,
+    "protein_g": 32.4,
+    "fat_g": 5.8,
+    "sat_fat_g": 1.8,
+    "carb_g": 36.5,
+    "sugar_g": 12.1,
+    "fibre_g": 8.5,
+    "sodium_mg": 967.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

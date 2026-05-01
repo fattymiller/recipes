@@ -1,0 +1,124 @@
+{
+  "id": "lne-bl-choc-nut-bar",
+  "title": "Choc Nut Bar",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#883035011",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "45 g",
+  "servings": 1,
+  "serving_grams": 45.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Peanuts (30%)",
+      "name": "Peanuts",
+      "percent": 30.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rice Syrup",
+      "name": "Rice Syrup",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Almonds (12%)",
+      "name": "Almonds",
+      "percent": 12.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Milk Chocolate (12%) (Sugar, Milk Powder, Cocoa Butter, Cocoa Mass, Emulsifier ( Soy Lecithin), Flavour)",
+      "name": "Milk Chocolate",
+      "percent": 12.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rice Bran Puff (Rice Flour, Rice Bran)",
+      "name": "Rice Bran Puff (Rice Flour, Rice Bran)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepitas",
+      "name": "Pepitas",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Puffed Quinoa",
+      "name": "Puffed Quinoa",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sesame Seeds",
+      "name": "Sesame Seeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Honey",
+      "name": "Honey",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cinnamon",
+      "name": "Cinnamon",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk",
+    "Peanut",
+    "Soy",
+    "Almond",
+    "Sesame"
+  ],
+  "nutrition": {
+    "energy_kj": 968.0,
+    "protein_g": 7.2,
+    "fat_g": 13.2,
+    "sat_fat_g": 2.5,
+    "carb_g": 19.5,
+    "sugar_g": 8.1,
+    "fibre_g": 2.8,
+    "sodium_mg": 9.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

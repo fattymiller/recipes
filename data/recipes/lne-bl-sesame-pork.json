@@ -1,0 +1,159 @@
+{
+  "id": "lne-bl-sesame-pork",
+  "title": "Sesame Pork",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#829823998",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "90 g",
+  "servings": 1,
+  "serving_grams": 90.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Pork (60%)",
+      "name": "Pork",
+      "percent": 60.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Oyster Sauce (Water, Sugar, Oyster Extract ( Mollusc ), Salt, Modified Corn Starch (1442), Yeast Extract)",
+      "name": "Oyster Sauce (Water, Sugar, Oyster Extract ( Mollusc ), Salt, Modified Corn Starch (1442), Yeast Extract)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ginger",
+      "name": "Ginger",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Honey",
+      "name": "Honey",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Light Soy Sauce (Contains Soy , Wheat )",
+      "name": "Light Soy Sauce (Contains Soy , Wheat )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sesame Oil (2.5%)",
+      "name": "Sesame Oil",
+      "percent": 2.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chilli",
+      "name": "Chilli",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lime Juice",
+      "name": "Lime Juice",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mushroom",
+      "name": "Mushroom",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lemongrass Puree (Contains Food Acid (Citric Acid))",
+      "name": "Lemongrass Puree (Contains Food Acid (Citric Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coriander",
+      "name": "Coriander",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Mollusc",
+    "Soy",
+    "Sesame"
+  ],
+  "nutrition": {
+    "energy_kj": 598.0,
+    "protein_g": 12.1,
+    "fat_g": 7.3,
+    "sat_fat_g": 2.2,
+    "carb_g": 6.6,
+    "sugar_g": 4.4,
+    "fibre_g": 1.8,
+    "sodium_mg": 438.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

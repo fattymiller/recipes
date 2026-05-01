@@ -1,0 +1,139 @@
+{
+  "id": "lne-bl-dressing-italian",
+  "title": "Dressing, Italian",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1704505161",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "15 g",
+  "servings": 1,
+  "serving_grams": 15.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Canola Oil",
+      "name": "Canola Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "White Vinegar",
+      "name": "White Vinegar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion Powder",
+      "name": "Onion Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs & Spices",
+      "name": "Herbs & Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lemon Juice",
+      "name": "Lemon Juice",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract",
+      "name": "Yeast Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Italian Spice Flavour",
+      "name": "Italian Spice Flavour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vegetable Gum (Xanthan)",
+      "name": "Vegetable Gum (Xanthan)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Acidity Regulator (Citric Acid)",
+      "name": "Acidity Regulator (Citric Acid)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Celery Extract",
+      "name": "Celery Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spice Extract",
+      "name": "Spice Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 204.0,
+    "protein_g": 0.1,
+    "fat_g": 4.5,
+    "sat_fat_g": 0.3,
+    "carb_g": 1.9,
+    "sugar_g": 1.6,
+    "fibre_g": 0.0,
+    "sodium_mg": 15.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

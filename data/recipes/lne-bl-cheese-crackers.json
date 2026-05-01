@@ -1,0 +1,129 @@
+{
+  "id": "lne-bl-cheese-crackers",
+  "title": "Cheese & Crackers",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999912",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "30 g",
+  "servings": 1,
+  "serving_grams": 30.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cheese (57%) [ Milk",
+      "name": "Cheese",
+      "percent": 57.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cultures ( Milk )",
+      "name": "Cultures ( Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Enzyme (Non-animal Rennet)]",
+      "name": "Enzyme (Non-animal Rennet)]",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Crackers (43%) { Wheat Flour",
+      "name": "Crackers",
+      "percent": 43.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vegetable Shortening [Antioxidant (307b)]",
+      "name": "Vegetable Shortening [Antioxidant (307b)]",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Glucose Syrup ( Wheat )",
+      "name": "Glucose Syrup ( Wheat )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Raising Agents (500, 450, 503, 504)",
+      "name": "Raising Agents (500, 450, 503, 504)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Malt Extract ( Barley )",
+      "name": "Malt Extract ( Barley )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Enzyme",
+      "name": "Enzyme",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Preservative (223)}",
+      "name": "Preservative (223)}",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 552.0,
+    "protein_g": 5.5,
+    "fat_g": 8.2,
+    "sat_fat_g": 5.2,
+    "carb_g": 8.2,
+    "sugar_g": 1.3,
+    "fibre_g": 0.4,
+    "sodium_mg": 202.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

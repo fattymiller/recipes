@@ -1,0 +1,144 @@
+{
+  "id": "lne-bl-muesli-bar-classic-choc-oats",
+  "title": "Muesli Bar, Classic Choc & Oats",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#749144453",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "32 g",
+  "servings": 1,
+  "serving_grams": 32.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Oats (28%)",
+      "name": "Oats",
+      "percent": 28.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Glucose Syrup",
+      "name": "Glucose Syrup",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Puffed Rice (Rice Flour, Rice Bran)",
+      "name": "Puffed Rice (Rice Flour, Rice Bran)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pumpkin Seeds",
+      "name": "Pumpkin Seeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Buckwheat",
+      "name": "Buckwheat",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Milk Chocolate (5%) (Sugar, Milk Powder, Cocoa Butter, Cocoa Mass, Emulsifier ( Soy Lecithin), Flavour)",
+      "name": "Milk Chocolate",
+      "percent": 5.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Seeds",
+      "name": "Sunflower Seeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Flaxseeds",
+      "name": "Flaxseeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sesame Seeds",
+      "name": "Sesame Seeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Invert Sugar",
+      "name": "Invert Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cinnamon",
+      "name": "Cinnamon",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Flavours",
+      "name": "Flavours",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Soy",
+    "Sesame"
+  ],
+  "nutrition": {
+    "energy_kj": 538.0,
+    "protein_g": 3.0,
+    "fat_g": 3.9,
+    "sat_fat_g": 0.8,
+    "carb_g": 19.1,
+    "sugar_g": 7.9,
+    "fibre_g": 2.0,
+    "sodium_mg": 35.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

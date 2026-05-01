@@ -1,0 +1,76 @@
+{
+  "id": "lne-bl-salad-caesar-wrap",
+  "title": "Salad, Caesar Wrap",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999342",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "155 g",
+  "servings": 1,
+  "serving_grams": 155.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Chicken Breast (38%)",
+      "name": "Chicken Breast",
+      "percent": 38.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lettuce",
+      "name": "Lettuce",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot",
+      "name": "Carrot",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ham (6%) (Pork, Water, Salt, Potato Starch, Sugar, Bamboo Fibre, Flavours, Preservative (250), Smoke)",
+      "name": "Ham",
+      "percent": 6.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade (Contains Flavour)",
+      "name": "Marinade (Contains Flavour)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 445.0,
+    "protein_g": 18.9,
+    "fat_g": 1.6,
+    "sat_fat_g": 0.5,
+    "carb_g": 3.2,
+    "sugar_g": 2.9,
+    "fibre_g": 1.9,
+    "sodium_mg": 204.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

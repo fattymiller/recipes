@@ -1,0 +1,66 @@
+{
+  "id": "lne-bl-choc-cranberry-trail-mix",
+  "title": "Choc Cranberry Trail Mix",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1533228010",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "25 g",
+  "servings": 1,
+  "serving_grams": 25.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Almonds",
+      "name": "Almonds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Dried Cranberries (27%) (Cranberries, Sugar)",
+      "name": "Dried Cranberries",
+      "percent": 27.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chocolate (22%) (Sugar, Cocoa Mass, Cocoa Butter, Milk Solids, Emulsifier ( Soy Lecithin))",
+      "name": "Chocolate",
+      "percent": 22.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepitas",
+      "name": "Pepitas",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk",
+    "Soy",
+    "Almond"
+  ],
+  "nutrition": {
+    "energy_kj": 413.0,
+    "protein_g": 5.0,
+    "fat_g": 1.8,
+    "sat_fat_g": 0.5,
+    "carb_g": 15.2,
+    "sugar_g": 9.0,
+    "fibre_g": 0.8,
+    "sodium_mg": 5.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

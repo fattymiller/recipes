@@ -1,0 +1,205 @@
+{
+  "id": "lne-dinner-14-roast-beef",
+  "title": "14 Roast Beef",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099998906",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "425 g",
+  "servings": 1,
+  "serving_grams": 425.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Beef Stock",
+      "name": "Beef Stock",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Beef (15%)",
+      "name": "Beef",
+      "percent": 15.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Potato (14%)",
+      "name": "Potato",
+      "percent": 14.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Peas (13%)",
+      "name": "Peas",
+      "percent": 13.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sweet Potato (10%)",
+      "name": "Sweet Potato",
+      "percent": 10.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot (8%)",
+      "name": "Carrot",
+      "percent": 8.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cauliflower (7%)",
+      "name": "Cauliflower",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cheese (Contains Milk )",
+      "name": "Cheese (Contains Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Paste (Contains Acidity Regulator (Citric Acid))",
+      "name": "Tomato Paste (Contains Acidity Regulator (Citric Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Milk Powder",
+      "name": "Milk Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Seasoning",
+      "name": "Seasoning",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade",
+      "name": "Marinade",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract (Contains Barley )",
+      "name": "Yeast Extract (Contains Barley )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic Extract",
+      "name": "Garlic Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Olive Oil",
+      "name": "Olive Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion Extract",
+      "name": "Onion Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 1510.0,
+    "protein_g": 32.4,
+    "fat_g": 8.7,
+    "sat_fat_g": 3.7,
+    "carb_g": 33.8,
+    "sugar_g": 13.7,
+    "fibre_g": 8.5,
+    "sodium_mg": 771.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

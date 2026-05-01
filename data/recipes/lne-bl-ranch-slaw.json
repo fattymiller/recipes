@@ -1,0 +1,62 @@
+{
+  "id": "lne-bl-ranch-slaw",
+  "title": "Ranch Slaw",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1102637910",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "132 g",
+  "servings": 1,
+  "serving_grams": 132.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cabbage",
+      "name": "Cabbage",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot",
+      "name": "Carrot",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cucumber",
+      "name": "Cucumber",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 122.0,
+    "protein_g": 1.4,
+    "fat_g": 0.1,
+    "sat_fat_g": 0.0,
+    "carb_g": 4.2,
+    "sugar_g": 4.0,
+    "fibre_g": 3.0,
+    "sodium_mg": 32.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

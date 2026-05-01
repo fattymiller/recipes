@@ -1,0 +1,59 @@
+{
+  "id": "lne-bl-english-muffin-fruit",
+  "title": "English Muffin, Fruit",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#489622235",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "67 g",
+  "servings": 1,
+  "serving_grams": 67.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Wheat Flour",
+      "name": "Wheat Flour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Dried Fruits (12%) (Sultanas (Sultanas, Cotton Seed Or Sunflower Oils), Currants, Candied Orange Peel (Orange Peel, Sugar Syrup, Sugar, Acidity Regulator (Citric Acid)), Yeast, Wheat Gluten, Maize, Sugar, Canola Oil, Salt, Oats And Wheat Fibre, Vinegar, Soy Flour, Raising Agent (341), Mixed Spices, Acidity Regulators (263, 262), Emulsifiers (481, 472e), Preservatives (200, 202), Vitamins (Thiamin, Folic Acid), Processing Aid ( Wheat )",
+      "name": "Dried Fruits",
+      "percent": 12.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 703.0,
+    "protein_g": 5.8,
+    "fat_g": 1.9,
+    "sat_fat_g": 0.3,
+    "carb_g": 30.5,
+    "sugar_g": 7.9,
+    "fibre_g": 2.1,
+    "sodium_mg": 228.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

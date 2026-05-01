@@ -1,0 +1,121 @@
+{
+  "id": "lne-bl-wrap-sourdough",
+  "title": "Wrap, Sourdough",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#81993661",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "58 g",
+  "servings": 1,
+  "serving_grams": 58.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Wheat Flour",
+      "name": "Wheat Flour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Modified Wheat Starch (1412)",
+      "name": "Modified Wheat Starch (1412)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Gluten",
+      "name": "Wheat Gluten",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheaten Sourdough ( Wheat )",
+      "name": "Wheaten Sourdough ( Wheat )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cultured Wheat Flour",
+      "name": "Cultured Wheat Flour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Raising Agent ((450, 500, 541), Mineral Salt (170))",
+      "name": "Raising Agent ((450, 500, 541), Mineral Salt (170))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vinegar",
+      "name": "Vinegar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Emulsifier (471)",
+      "name": "Emulsifier (471)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Iodised Salt",
+      "name": "Iodised Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat"
+  ],
+  "nutrition": {
+    "energy_kj": 702.0,
+    "protein_g": 5.7,
+    "fat_g": 5.0,
+    "sat_fat_g": 0.7,
+    "carb_g": 22.8,
+    "sugar_g": 0.8,
+    "fibre_g": 6.4,
+    "sodium_mg": 180.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

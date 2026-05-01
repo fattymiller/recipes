@@ -1,0 +1,93 @@
+{
+  "id": "lne-bl-oats-creamy-almond-vanilla",
+  "title": "Oats, Creamy Almond & Vanilla",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#2050042660",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "30 g",
+  "servings": 1,
+  "serving_grams": 30.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Oats (64%)",
+      "name": "Oats",
+      "percent": 64.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Currants",
+      "name": "Currants",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Barley",
+      "name": "Barley",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Almonds (5%)",
+      "name": "Almonds",
+      "percent": 5.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Linseed",
+      "name": "Linseed",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vanilla",
+      "name": "Vanilla",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Almond"
+  ],
+  "nutrition": {
+    "energy_kj": 480.0,
+    "protein_g": 2.9,
+    "fat_g": 3.0,
+    "sat_fat_g": 0.4,
+    "carb_g": 17.6,
+    "sugar_g": 4.1,
+    "fibre_g": 2.3,
+    "sodium_mg": 70.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

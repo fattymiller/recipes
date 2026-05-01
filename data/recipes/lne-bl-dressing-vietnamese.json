@@ -1,0 +1,113 @@
+{
+  "id": "lne-bl-dressing-vietnamese",
+  "title": "Dressing, Vietnamese",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#563485367",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "28 g",
+  "servings": 1,
+  "serving_grams": 28.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Fish Sauce (Anchovy Extract, Salt, Sugar)",
+      "name": "Fish Sauce (Anchovy Extract, Salt, Sugar)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vinegar",
+      "name": "Vinegar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lime Juice",
+      "name": "Lime Juice",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot",
+      "name": "Carrot",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Daikon",
+      "name": "Daikon",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs & Spices",
+      "name": "Herbs & Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Burnt Sugar",
+      "name": "Burnt Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Fish"
+  ],
+  "nutrition": {
+    "energy_kj": 78.0,
+    "protein_g": 0.3,
+    "fat_g": 0.0,
+    "sat_fat_g": 0.0,
+    "carb_g": 3.9,
+    "sugar_g": 2.9,
+    "fibre_g": 0.1,
+    "sodium_mg": 223.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

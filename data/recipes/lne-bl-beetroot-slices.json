@@ -1,0 +1,69 @@
+{
+  "id": "lne-bl-beetroot-slices",
+  "title": "Beetroot Slices",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999923",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "35 g",
+  "servings": 1,
+  "serving_grams": 35.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Beetroot",
+      "name": "Beetroot",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Food Acid (Acetic)",
+      "name": "Food Acid (Acetic)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 78.0,
+    "protein_g": 0.4,
+    "fat_g": 0.1,
+    "sat_fat_g": 0.0,
+    "carb_g": 3.6,
+    "sugar_g": 3.4,
+    "fibre_g": 0.8,
+    "sodium_mg": 88.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

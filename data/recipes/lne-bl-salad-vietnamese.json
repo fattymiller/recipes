@@ -1,0 +1,76 @@
+{
+  "id": "lne-bl-salad-vietnamese",
+  "title": "Salad, Vietnamese",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1861725329",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "95 g",
+  "servings": 1,
+  "serving_grams": 95.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Carrot",
+      "name": "Carrot",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cabbage",
+      "name": "Cabbage",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chinese Cabbage",
+      "name": "Chinese Cabbage",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach",
+      "name": "Spinach",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Daikon",
+      "name": "Daikon",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 94.0,
+    "protein_g": 1.4,
+    "fat_g": 0.1,
+    "sat_fat_g": 0.0,
+    "carb_g": 2.8,
+    "sugar_g": 2.7,
+    "fibre_g": 2.4,
+    "sodium_mg": 33.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

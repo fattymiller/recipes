@@ -1,0 +1,165 @@
+{
+  "id": "lne-bl-creamy-tasmanian-salmon-risoni",
+  "title": "Creamy Tasmanian Salmon Risoni",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099998972",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "270 g",
+  "servings": 1,
+  "serving_grams": 270.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cooked Pasta (31%) (Water, Wheat Flour)",
+      "name": "Cooked Pasta",
+      "percent": 31.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salmon (19%) ( Fish )",
+      "name": "Salmon",
+      "percent": 19.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Peas (12%)",
+      "name": "Peas",
+      "percent": 12.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Zucchini",
+      "name": "Zucchini",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Fennel",
+      "name": "Fennel",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cream (3%) ( Milk )",
+      "name": "Cream",
+      "percent": 3.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Celery",
+      "name": "Celery",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "White Wine",
+      "name": "White Wine",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lemon",
+      "name": "Lemon",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract",
+      "name": "Yeast Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Olive Oil",
+      "name": "Olive Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Fish",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 1330.0,
+    "protein_g": 19.6,
+    "fat_g": 10.4,
+    "sat_fat_g": 3.1,
+    "carb_g": 33.8,
+    "sugar_g": 3.6,
+    "fibre_g": 4.4,
+    "sodium_mg": 558.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

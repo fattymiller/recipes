@@ -1,0 +1,155 @@
+{
+  "id": "lne-dinner-227-spicy-thai-green-chicken-curry",
+  "title": "227 Spicy Thai Green Chicken Curry",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999028",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "445 g",
+  "servings": 1,
+  "serving_grams": 445.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cooked Long Grain Rice (27%) (Water, Long Grain Rice)",
+      "name": "Cooked Long Grain Rice",
+      "percent": 27.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chicken Breast (16%)",
+      "name": "Chicken Breast",
+      "percent": 16.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cauliflower",
+      "name": "Cauliflower",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Zucchini (10%)",
+      "name": "Zucchini",
+      "percent": 10.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot (9%)",
+      "name": "Carrot",
+      "percent": 9.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Beans (4%)",
+      "name": "Beans",
+      "percent": 4.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coconut Cream",
+      "name": "Coconut Cream",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Choy Sum (2%)",
+      "name": "Choy Sum",
+      "percent": 2.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Curry Paste (Contains Food Acid (Citric))",
+      "name": "Curry Paste (Contains Food Acid (Citric))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lime Juice",
+      "name": "Lime Juice",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Fish Sauce (Contains Fish )",
+      "name": "Fish Sauce (Contains Fish )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade",
+      "name": "Marinade",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Fish"
+  ],
+  "nutrition": {
+    "energy_kj": 1550.0,
+    "protein_g": 24.6,
+    "fat_g": 5.6,
+    "sat_fat_g": 3.4,
+    "carb_g": 52.1,
+    "sugar_g": 13.1,
+    "fibre_g": 5.3,
+    "sodium_mg": 1270.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

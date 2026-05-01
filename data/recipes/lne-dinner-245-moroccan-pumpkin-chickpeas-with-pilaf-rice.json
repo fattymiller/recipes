@@ -1,0 +1,232 @@
+{
+  "id": "lne-dinner-245-moroccan-pumpkin-chickpeas-with-pilaf-rice",
+  "title": "245 Moroccan Pumpkin & Chickpeas with Pilaf Rice",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999018",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "460 g",
+  "servings": 1,
+  "serving_grams": 460.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cooked Long Grain Rice (18%) (Water, Long Grain Rice)",
+      "name": "Cooked Long Grain Rice",
+      "percent": 18.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pumpkin (15%)",
+      "name": "Pumpkin",
+      "percent": 15.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Chickpeas (14%) (Chickpeas, Water, Salt)",
+      "name": "Cooked Chickpeas",
+      "percent": 14.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cauliflower (11%)",
+      "name": "Cauliflower",
+      "percent": 11.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Zucchini (7%)",
+      "name": "Zucchini",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Pulp (Tomato, Citric Acid)",
+      "name": "Tomato Pulp (Tomato, Citric Acid)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot (4%)",
+      "name": "Carrot",
+      "percent": 4.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sultanas (3%)",
+      "name": "Sultanas",
+      "percent": 3.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum (2.5%)",
+      "name": "Capsicum",
+      "percent": 2.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yoghurt (Contains Milk )",
+      "name": "Yoghurt (Contains Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Currants",
+      "name": "Currants",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cream ( Milk )",
+      "name": "Cream ( Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lemon",
+      "name": "Lemon",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Olive Oil",
+      "name": "Olive Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract",
+      "name": "Yeast Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ginger",
+      "name": "Ginger",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coriander",
+      "name": "Coriander",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chilli",
+      "name": "Chilli",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 1670.0,
+    "protein_g": 14.4,
+    "fat_g": 7.4,
+    "sat_fat_g": 2.0,
+    "carb_g": 61.7,
+    "sugar_g": 24.1,
+    "fibre_g": 12.6,
+    "sodium_mg": 884.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

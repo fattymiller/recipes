@@ -1,0 +1,50 @@
+{
+  "id": "lne-bl-almonds-dry-roasted",
+  "title": "Almonds, Dry Roasted",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1169228539",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "20 g",
+  "servings": 1,
+  "serving_grams": 20.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Almonds",
+      "name": "Almonds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Almond"
+  ],
+  "nutrition": {
+    "energy_kj": 487.0,
+    "protein_g": 4.6,
+    "fat_g": 9.4,
+    "sat_fat_g": 0.7,
+    "carb_g": 2.8,
+    "sugar_g": 1.1,
+    "fibre_g": 1.7,
+    "sodium_mg": 78.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

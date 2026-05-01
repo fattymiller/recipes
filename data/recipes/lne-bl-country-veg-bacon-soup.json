@@ -1,0 +1,106 @@
+{
+  "id": "lne-bl-country-veg-bacon-soup",
+  "title": "Country Veg & Bacon Soup",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#923423705",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "215 g",
+  "servings": 1,
+  "serving_grams": 215.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vegetables (39%) (Sweet Potato, Carrot, Onion)",
+      "name": "Vegetables",
+      "percent": 39.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Chickpeas (Chickpeas, Water, Salt)",
+      "name": "Cooked Chickpeas (Chickpeas, Water, Salt)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Bacon (4.5%) (Contains Flavours (Yeast Extract, Citrus Extract, Natural Flavour), Preservative (Sodium Nitrite))",
+      "name": "Bacon",
+      "percent": 4.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepitas",
+      "name": "Pepitas",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Paste (Contains Acidity Regulator (Citric Acid))",
+      "name": "Tomato Paste (Contains Acidity Regulator (Citric Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract (Contains Barley )",
+      "name": "Yeast Extract (Contains Barley )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract",
+      "name": "Yeast Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten"
+  ],
+  "nutrition": {
+    "energy_kj": 438.0,
+    "protein_g": 6.3,
+    "fat_g": 1.9,
+    "sat_fat_g": 0.4,
+    "carb_g": 13.5,
+    "sugar_g": 5.3,
+    "fibre_g": 4.1,
+    "sodium_mg": 664.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

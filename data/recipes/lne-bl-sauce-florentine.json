@@ -1,0 +1,142 @@
+{
+  "id": "lne-bl-sauce-florentine",
+  "title": "Sauce, Florentine",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#2068810041",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "40 g",
+  "servings": 1,
+  "serving_grams": 40.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cannellini Beans (Water, Salt, Ascorbic Acid)",
+      "name": "Cannellini Beans (Water, Salt, Ascorbic Acid)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Butter",
+      "name": "Butter",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Egg",
+      "name": "Egg",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lemon Juice",
+      "name": "Lemon Juice",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Milk Powder",
+      "name": "Milk Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Flour",
+      "name": "Corn Flour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Food Acid (Acetic, Citric)",
+      "name": "Food Acid (Acetic, Citric)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vegetable Gum (Xanthan, Guar)",
+      "name": "Vegetable Gum (Xanthan, Guar)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Colour (Beta Carotene)",
+      "name": "Colour (Beta Carotene)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spice Extract",
+      "name": "Spice Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Egg",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 276.0,
+    "protein_g": 1.2,
+    "fat_g": 5.7,
+    "sat_fat_g": 1.6,
+    "carb_g": 2.3,
+    "sugar_g": 0.5,
+    "fibre_g": 0.0,
+    "sodium_mg": 168.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

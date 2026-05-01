@@ -1,0 +1,192 @@
+{
+  "id": "lne-dinner-241-tofu-katsu-curry",
+  "title": "241 Tofu Katsu Curry",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999011",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "415 g",
+  "servings": 1,
+  "serving_grams": 415.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Carrot (19%)",
+      "name": "Carrot",
+      "percent": 19.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Rice (17%) (Water, Rice)",
+      "name": "Cooked Rice",
+      "percent": 17.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tofu (10%) ( Soybean , Water, Mineral Salt (511))",
+      "name": "Tofu",
+      "percent": 10.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pumpkin (10%)",
+      "name": "Pumpkin",
+      "percent": 10.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Soybeans (7%)",
+      "name": "Soybeans",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Beans (5%)",
+      "name": "Beans",
+      "percent": 5.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Daikon (4.5%)",
+      "name": "Daikon",
+      "percent": 4.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Soy Sauce (Contains Soy , Wheat )",
+      "name": "Soy Sauce (Contains Soy , Wheat )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Breadcrumbs (Contains Wheat , Colours (Turmeric, Paprika))",
+      "name": "Breadcrumbs (Contains Wheat , Colours (Turmeric, Paprika))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Honey",
+      "name": "Honey",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Sauce (Contains Food Acid (Acetic, Citric), Flavours)",
+      "name": "Tomato Sauce (Contains Food Acid (Acetic, Citric), Flavours)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Flour",
+      "name": "Wheat Flour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Olive Oil",
+      "name": "Olive Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract (Contains Barley )",
+      "name": "Yeast Extract (Contains Barley )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ginger",
+      "name": "Ginger",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 1720.0,
+    "protein_g": 19.2,
+    "fat_g": 12.2,
+    "sat_fat_g": 1.8,
+    "carb_g": 50.2,
+    "sugar_g": 14.3,
+    "fibre_g": 9.9,
+    "sodium_mg": 929.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

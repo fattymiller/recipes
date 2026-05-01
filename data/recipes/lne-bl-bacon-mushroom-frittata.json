@@ -1,0 +1,136 @@
+{
+  "id": "lne-bl-bacon-mushroom-frittata",
+  "title": "Bacon & Mushroom Frittata",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999420",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "80 g",
+  "servings": 1,
+  "serving_grams": 80.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Bacon (20%) (Pork, Water, Salt, Potato Starch, Sugar, Vegetable Fibre, Flavours (Yeast Extract, Citrus Extract, Natural Flavour), Preservative (Sodium Nitrite), Smoke)",
+      "name": "Bacon",
+      "percent": 20.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mushroom (20%)",
+      "name": "Mushroom",
+      "percent": 20.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Egg",
+      "name": "Egg",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cheese ( Milk , Salt, Culture, Enzyme (Non-animal Rennet), Anticaking Agent (Cellulose), Preservative (200))",
+      "name": "Cheese ( Milk , Salt, Culture, Enzyme (Non-animal Rennet), Anticaking Agent (Cellulose), Preservative (200))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cauliflower",
+      "name": "Cauliflower",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cream ( Milk )",
+      "name": "Cream ( Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract",
+      "name": "Yeast Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Parmesan Cheese (Contains Milk )",
+      "name": "Parmesan Cheese (Contains Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Canola Oil (Contains Soy )",
+      "name": "Canola Oil (Contains Soy )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Egg",
+    "Milk",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 441.0,
+    "protein_g": 11.3,
+    "fat_g": 5.3,
+    "sat_fat_g": 2.6,
+    "carb_g": 2.7,
+    "sugar_g": 1.6,
+    "fibre_g": 1.1,
+    "sodium_mg": 280.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

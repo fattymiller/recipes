@@ -1,0 +1,131 @@
+{
+  "id": "lne-bl-muffin-banana-date",
+  "title": "Muffin, Banana & Date",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999404",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "72 g",
+  "servings": 1,
+  "serving_grams": 72.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Wheat Flour ( Wheat Flour, Raising Agents (339, 341, 450, 500))",
+      "name": "Wheat Flour ( Wheat Flour, Raising Agents (339, 341, 450, 500))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Banana Puree (17%) (Banana, Food Acids (Citric, Ascorbic))",
+      "name": "Banana Puree",
+      "percent": 17.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Dates (12%) (Dates, Rice Flour)",
+      "name": "Dates",
+      "percent": 12.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Bran",
+      "name": "Wheat Bran",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cottage Cheese ( Milk , Cream, Salt, Preservative (202), Thickeners (412, 415, 410, 407), Food Acid (Citric), Cultures)",
+      "name": "Cottage Cheese ( Milk , Cream, Salt, Preservative (202), Thickeners (412, 415, 410, 407), Food Acid (Citric), Cultures)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Egg",
+      "name": "Egg",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Milk Powder",
+      "name": "Milk Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Raising Agent (450, 500)",
+      "name": "Raising Agent (450, 500)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices ( Barley , Oats , Wheat )",
+      "name": "Spices ( Barley , Oats , Wheat )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Canola Oil (Contains Soy )",
+      "name": "Canola Oil (Contains Soy )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Egg",
+    "Milk",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 684.0,
+    "protein_g": 4.5,
+    "fat_g": 1.1,
+    "sat_fat_g": 0.3,
+    "carb_g": 31.2,
+    "sugar_g": 17.8,
+    "fibre_g": 4.6,
+    "sodium_mg": 215.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

@@ -1,0 +1,173 @@
+{
+  "id": "lne-dinner-173-tasmanian-salmon-pasta",
+  "title": "173 Tasmanian Salmon Pasta",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099998514",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "453 g",
+  "servings": 1,
+  "serving_grams": 453.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Pasta (33%) (Water, Semolina ( Wheat ), Durum Wheat Flour, Vitamin B3, Mineral (Iron), Vitamins (Vitamin B1, Vitamin B2, Folic Acid))",
+      "name": "Cooked Pasta",
+      "percent": 33.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salmon (11%) ( Fish )",
+      "name": "Salmon",
+      "percent": 11.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Broccoli (7%)",
+      "name": "Broccoli",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato (5%)",
+      "name": "Tomato",
+      "percent": 5.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Milk Powder",
+      "name": "Milk Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Skim Milk Concentrate",
+      "name": "Skim Milk Concentrate",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Parmesan Cheese (1%) (Contains Milk )",
+      "name": "Parmesan Cheese",
+      "percent": 1.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Modified Starch (1442)",
+      "name": "Modified Starch (1442)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cheese (Contains Milk )",
+      "name": "Cheese (Contains Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Maltodextrin",
+      "name": "Maltodextrin",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Dijon Mustard",
+      "name": "Dijon Mustard",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Crab Extract (Contains Crustacean )",
+      "name": "Crab Extract (Contains Crustacean )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion Extract",
+      "name": "Onion Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract (Contains Barley )",
+      "name": "Yeast Extract (Contains Barley )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Crustacean",
+    "Fish",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 1850.0,
+    "protein_g": 28.6,
+    "fat_g": 9.0,
+    "sat_fat_g": 2.4,
+    "carb_g": 58.9,
+    "sugar_g": 8.8,
+    "fibre_g": 3.7,
+    "sodium_mg": 759.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

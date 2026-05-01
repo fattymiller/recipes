@@ -1,0 +1,71 @@
+{
+  "id": "lne-bl-coconut-espresso-cashew-clusters",
+  "title": "Coconut, Espresso & Cashew Clusters",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#2026669493",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "25 g",
+  "servings": 1,
+  "serving_grams": 25.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cashews (70%)",
+      "name": "Cashews",
+      "percent": 70.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coconut Sugar (14%)",
+      "name": "Coconut Sugar",
+      "percent": 14.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coconut (8%)",
+      "name": "Coconut",
+      "percent": 8.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Espresso Coffee (7%)",
+      "name": "Espresso Coffee",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wattleseed",
+      "name": "Wattleseed",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Cashew"
+  ],
+  "nutrition": {
+    "energy_kj": 520.0,
+    "protein_g": 3.9,
+    "fat_g": 7.1,
+    "sat_fat_g": 3.2,
+    "carb_g": 9.9,
+    "sugar_g": 3.8,
+    "fibre_g": 2.9,
+    "sodium_mg": 4.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

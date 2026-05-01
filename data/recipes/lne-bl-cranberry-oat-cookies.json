@@ -1,0 +1,156 @@
+{
+  "id": "lne-bl-cranberry-oat-cookies",
+  "title": "Cranberry Oat Cookies",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999445",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "36 g",
+  "servings": 1,
+  "serving_grams": 36.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Wheat Flour ( Wheat Flour, Vitamins (Thiamin, Folate))",
+      "name": "Wheat Flour ( Wheat Flour, Vitamins (Thiamin, Folate))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vegetable Margarine [(Canola Oil, Palm Free Hard Fraction, Coconut Oil)",
+      "name": "Vegetable Margarine [(Canola Oil, Palm Free Hard Fraction, Coconut Oil)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Emulsifiers (471, 322)",
+      "name": "Emulsifiers (471, 322)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Natural Flavour",
+      "name": "Natural Flavour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vitamins (D, E)",
+      "name": "Vitamins (D, E)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Colour (Beta Carotene)]",
+      "name": "Colour (Beta Carotene)]",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rolled Oats (19%)",
+      "name": "Rolled Oats",
+      "percent": 19.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Brown Sugar",
+      "name": "Brown Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Oligofructose Powder (Oligofructose, Glucose, Fructose, Sucrose)",
+      "name": "Oligofructose Powder (Oligofructose, Glucose, Fructose, Sucrose)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Golden Syrup",
+      "name": "Golden Syrup",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Currants (Currants, Sunflower Oil)",
+      "name": "Currants (Currants, Sunflower Oil)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sweetened Dried Cranberries (3.8%)",
+      "name": "Sweetened Dried Cranberries",
+      "percent": 3.8,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Quinoa Flakes",
+      "name": "Quinoa Flakes",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Baking Powder",
+      "name": "Baking Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vanilla Extract",
+      "name": "Vanilla Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat"
+  ],
+  "nutrition": {
+    "energy_kj": 659.0,
+    "protein_g": 2.3,
+    "fat_g": 6.4,
+    "sat_fat_g": 1.8,
+    "carb_g": 19.5,
+    "sugar_g": 8.2,
+    "fibre_g": 4.3,
+    "sodium_mg": 50.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

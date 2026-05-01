@@ -1,0 +1,97 @@
+{
+  "id": "lne-bl-tomato-bruschetta",
+  "title": "Tomato Bruschetta",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#970669729",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "70 g",
+  "servings": 1,
+  "serving_grams": 70.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Tomato (78%)",
+      "name": "Tomato",
+      "percent": 78.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Semi Dried Tomatoes (14%)",
+      "name": "Semi Dried Tomatoes",
+      "percent": 14.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Balsamic Vinegar",
+      "name": "Balsamic Vinegar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Olive Oil",
+      "name": "Olive Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Basil (Contains Antioxidant (Ascorbic Acid))",
+      "name": "Basil (Contains Antioxidant (Ascorbic Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 168.0,
+    "protein_g": 1.0,
+    "fat_g": 1.7,
+    "sat_fat_g": 0.3,
+    "carb_g": 4.5,
+    "sugar_g": 3.2,
+    "fibre_g": 1.5,
+    "sodium_mg": 156.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

@@ -1,0 +1,143 @@
+{
+  "id": "lne-bl-bread-multigrain-2-slices",
+  "title": "Bread, Multigrain (2 slices)",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1763742970",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "79 g",
+  "servings": 1,
+  "serving_grams": 79.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Wholemeal Wheat Flour (37%)",
+      "name": "Wholemeal Wheat Flour",
+      "percent": 37.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mixed Grains (12%) (Triticale ( Wheat , Rye ), Wheat , Rye , Corn, Buckwheat, Millet, Barley , Oats , Purple Wheat )",
+      "name": "Mixed Grains",
+      "percent": 12.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Gluten",
+      "name": "Wheat Gluten",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Seeds (Linseed, Sunflower Seeds)",
+      "name": "Seeds (Linseed, Sunflower Seeds)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast",
+      "name": "Yeast",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Soy",
+      "name": "Soy",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Canola Oil",
+      "name": "Canola Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vinegar",
+      "name": "Vinegar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Soy Flour",
+      "name": "Soy Flour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Flour",
+      "name": "Wheat Flour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Emulsifiers (472e, 481)",
+      "name": "Emulsifiers (472e, 481)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vitamins (Thiamin, Folic Acid)",
+      "name": "Vitamins (Thiamin, Folic Acid)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Processing Aid ( Wheat )",
+      "name": "Processing Aid ( Wheat )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 820.0,
+    "protein_g": 9.8,
+    "fat_g": 5.1,
+    "sat_fat_g": 0.6,
+    "carb_g": 24.2,
+    "sugar_g": 1.5,
+    "fibre_g": 6.9,
+    "sodium_mg": 292.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

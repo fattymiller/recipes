@@ -1,0 +1,99 @@
+{
+  "id": "lne-bl-salad-beetroot-lentil-walnut",
+  "title": "Salad, Beetroot Lentil & Walnut",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999326",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "190 g",
+  "servings": 1,
+  "serving_grams": 190.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Lentils (21%) (Water, Lentils, Salt)",
+      "name": "Cooked Lentils",
+      "percent": 21.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Beetroot (16%)",
+      "name": "Beetroot",
+      "percent": 16.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Quinoa (Quinoa, Water)",
+      "name": "Cooked Quinoa (Quinoa, Water)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Walnuts (8%)",
+      "name": "Walnuts",
+      "percent": 8.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rocket",
+      "name": "Rocket",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach",
+      "name": "Spinach",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Walnut"
+  ],
+  "nutrition": {
+    "energy_kj": 881.0,
+    "protein_g": 7.8,
+    "fat_g": 11.2,
+    "sat_fat_g": 0.8,
+    "carb_g": 16.8,
+    "sugar_g": 4.6,
+    "fibre_g": 6.1,
+    "sodium_mg": 441.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

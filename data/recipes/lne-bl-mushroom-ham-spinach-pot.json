@@ -1,0 +1,55 @@
+{
+  "id": "lne-bl-mushroom-ham-spinach-pot",
+  "title": "Mushroom Ham & Spinach Pot",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#818496280",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "45 g",
+  "servings": 1,
+  "serving_grams": 45.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Mushroom (44%) (Mushroom, Water, Salt, Food Acid (Citric), Antioxidant (Ascorbic Acid))",
+      "name": "Mushroom",
+      "percent": 44.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach (33%)",
+      "name": "Spinach",
+      "percent": 33.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ham (22%) (Pork, Water, Salt, Potato Starch, Sugar, Bamboo Fibre, Flavours, Preservative (250), Smoke)",
+      "name": "Ham",
+      "percent": 22.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 83.0,
+    "protein_g": 3.3,
+    "fat_g": 0.4,
+    "sat_fat_g": 0.3,
+    "carb_g": 0.6,
+    "sugar_g": 0.3,
+    "fibre_g": 1.2,
+    "sodium_mg": 142.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "lne-dinner-6517-chicken-avocado-salad",
+  "title": "6517 Chicken & Avocado Salad",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999360",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "340 g",
+  "servings": 1,
+  "serving_grams": 340.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Chicken Breast (26%)",
+      "name": "Chicken Breast",
+      "percent": 26.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lettuce",
+      "name": "Lettuce",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cucumber",
+      "name": "Cucumber",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Avocado (12%)",
+      "name": "Avocado",
+      "percent": 12.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Creamy Ranch Dressing (Canola Oil, Vinegar, Water, Sugar, Salt, Buttermilk Powder ( Milk ), Egg Yolk Powder, Onion, Mustard, Garlic, Herbs, Spices, Xanthan Gum, Yeast Extract, Citrus Fibre, Citric Acid)",
+      "name": "Creamy Ranch Dressing (Canola Oil, Vinegar, Water, Sugar, Salt, Buttermilk Powder ( Milk ), Egg Yolk Powder, Onion, Mustard, Garlic, Herbs, Spices, Xanthan Gum, Yeast Extract, Citrus Fibre, Citric Acid)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade (Contains Flavour)",
+      "name": "Marinade (Contains Flavour)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Egg",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 1590.0,
+    "protein_g": 27.0,
+    "fat_g": 25.0,
+    "sat_fat_g": 3.7,
+    "carb_g": 9.5,
+    "sugar_g": 8.2,
+    "fibre_g": 5.5,
+    "sodium_mg": 545.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

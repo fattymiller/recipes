@@ -1,0 +1,81 @@
+{
+  "id": "lne-bl-bircher-muesli-maple-pear-walnut",
+  "title": "Bircher Muesli, Maple Pear Walnut",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#898390780",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "153 g",
+  "servings": 1,
+  "serving_grams": 153.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Yoghurt ( Milk , Water, Milk Solids, Sugar, Thickener (Pectin), Vanilla Flavour, Cultures ( Milk ))",
+      "name": "Yoghurt ( Milk , Water, Milk Solids, Sugar, Thickener (Pectin), Vanilla Flavour, Cultures ( Milk ))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pear Juice (23%)",
+      "name": "Pear Juice",
+      "percent": 23.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Muesli (20%) ( Oats , Sultanas (Sultanas, Sunflower Oil), Hazelnuts , Sunflower Seeds, Currants, Sugar, Vanilla, Cinnamon)",
+      "name": "Muesli",
+      "percent": 20.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pear (5%) (Pear, Fruit Juice (Apple, Grape, Peach, Pear), Food Acid (Citric Acid))",
+      "name": "Pear",
+      "percent": 5.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Maple Syrup (3.5%)",
+      "name": "Maple Syrup",
+      "percent": 3.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Walnuts (3.5%)",
+      "name": "Walnuts",
+      "percent": 3.5,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Hazelnut",
+    "Walnut"
+  ],
+  "nutrition": {
+    "energy_kj": 1030.0,
+    "protein_g": 8.3,
+    "fat_g": 8.4,
+    "sat_fat_g": 2.0,
+    "carb_g": 31.8,
+    "sugar_g": 19.4,
+    "fibre_g": 3.9,
+    "sodium_mg": 22.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

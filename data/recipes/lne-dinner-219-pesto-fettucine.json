@@ -1,0 +1,179 @@
+{
+  "id": "lne-dinner-219-pesto-fettucine",
+  "title": "219 Pesto Fettucine",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099998509",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "365 g",
+  "servings": 1,
+  "serving_grams": 365.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cooked Pasta (27%) (Water, Semolina ( Wheat ), Durum Wheat Flour, Vitamin B3, Mineral (Iron), Vitamins (Vitamin B1, Vitamin B2, Folic Acid))",
+      "name": "Cooked Pasta",
+      "percent": 27.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pumpkin (20%)",
+      "name": "Pumpkin",
+      "percent": 20.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Semi Dried Tomatoes (10%)",
+      "name": "Semi Dried Tomatoes",
+      "percent": 10.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Zucchini (8%)",
+      "name": "Zucchini",
+      "percent": 8.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cream ( Milk )",
+      "name": "Cream ( Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Peas (4%)",
+      "name": "Peas",
+      "percent": 4.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cauliflower",
+      "name": "Cauliflower",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Basil (3%)",
+      "name": "Basil",
+      "percent": 3.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Parmesan Cheese (Contains Milk )",
+      "name": "Parmesan Cheese (Contains Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pine Nuts",
+      "name": "Pine Nuts",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Olive Oil",
+      "name": "Olive Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract",
+      "name": "Yeast Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Dijon Mustard",
+      "name": "Dijon Mustard",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Milk",
+    "Pine Nut"
+  ],
+  "nutrition": {
+    "energy_kj": 1630.0,
+    "protein_g": 14.7,
+    "fat_g": 15.3,
+    "sat_fat_g": 5.7,
+    "carb_g": 44.1,
+    "sugar_g": 11.3,
+    "fibre_g": 8.3,
+    "sodium_mg": 768.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

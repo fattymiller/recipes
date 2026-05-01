@@ -1,0 +1,48 @@
+{
+  "id": "lne-bl-baked-beans",
+  "title": "Baked Beans",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#128972341",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "100 g",
+  "servings": 1,
+  "serving_grams": 100.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Navy Beans (60%)",
+      "name": "Navy Beans",
+      "percent": 60.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Sauce (Water, Tomato Paste, Sugar, Thickener (1422), Salt, Flavours)",
+      "name": "Tomato Sauce (Water, Tomato Paste, Sugar, Thickener (1422), Salt, Flavours)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 437.0,
+    "protein_g": 5.8,
+    "fat_g": 0.6,
+    "sat_fat_g": 0.1,
+    "carb_g": 16.5,
+    "sugar_g": 5.4,
+    "fibre_g": 4.4,
+    "sodium_mg": 300.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

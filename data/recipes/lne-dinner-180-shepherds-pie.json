@@ -1,0 +1,241 @@
+{
+  "id": "lne-dinner-180-shepherds-pie",
+  "title": "180 Shepherds Pie",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999065",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "471 g",
+  "servings": 1,
+  "serving_grams": 471.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Beef (17%)",
+      "name": "Beef",
+      "percent": 17.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Potatoes (17%)",
+      "name": "Potatoes",
+      "percent": 17.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot (10%)",
+      "name": "Carrot",
+      "percent": 10.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sweet Potato",
+      "name": "Sweet Potato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Beef Stock",
+      "name": "Beef Stock",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cauliflower (6%)",
+      "name": "Cauliflower",
+      "percent": 6.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Celery",
+      "name": "Celery",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Beans",
+      "name": "Beans",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Peas (5%)",
+      "name": "Peas",
+      "percent": 5.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Parmesan Cheese (Contains Milk )",
+      "name": "Parmesan Cheese (Contains Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Skim Milk Concentrate",
+      "name": "Skim Milk Concentrate",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Paste (Contains Acidity Regulator (Citric Acid))",
+      "name": "Tomato Paste (Contains Acidity Regulator (Citric Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Port (Contains Milk )",
+      "name": "Port (Contains Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Milk Powder",
+      "name": "Milk Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cheese (Contains Milk )",
+      "name": "Cheese (Contains Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Worcestershire Sauce (Contains Barley , Fish , Flavours)",
+      "name": "Worcestershire Sauce (Contains Barley , Fish , Flavours)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Olive Oil",
+      "name": "Olive Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract (Contains Barley )",
+      "name": "Yeast Extract (Contains Barley )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Seasoning",
+      "name": "Seasoning",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mushroom",
+      "name": "Mushroom",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Fish",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 1720.0,
+    "protein_g": 33.1,
+    "fat_g": 8.9,
+    "sat_fat_g": 4.1,
+    "carb_g": 43.9,
+    "sugar_g": 13.4,
+    "fibre_g": 10.1,
+    "sodium_mg": 878.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

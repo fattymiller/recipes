@@ -1,0 +1,55 @@
+{
+  "id": "lne-bl-rocket-spinach-tomato",
+  "title": "Rocket Spinach & Tomato",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999335",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "55 g",
+  "servings": 1,
+  "serving_grams": 55.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Tomato (73%)",
+      "name": "Tomato",
+      "percent": 73.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rocket (14%)",
+      "name": "Rocket",
+      "percent": 14.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach (14%)",
+      "name": "Spinach",
+      "percent": 14.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 40.0,
+    "protein_g": 0.9,
+    "fat_g": 0.1,
+    "sat_fat_g": 0.0,
+    "carb_g": 1.0,
+    "sugar_g": 0.9,
+    "fibre_g": 0.8,
+    "sodium_mg": 13.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

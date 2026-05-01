@@ -1,0 +1,226 @@
+{
+  "id": "lne-dinner-221-chargrilled-chicken-potato-bake",
+  "title": "221 Chargrilled Chicken & Potato Bake",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999042",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "420 g",
+  "servings": 1,
+  "serving_grams": 420.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Potato (21%)",
+      "name": "Potato",
+      "percent": 21.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chicken Breast (19%)",
+      "name": "Chicken Breast",
+      "percent": 19.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot (13%)",
+      "name": "Carrot",
+      "percent": 13.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Broccoli (10%)",
+      "name": "Broccoli",
+      "percent": 10.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn (10%)",
+      "name": "Corn",
+      "percent": 10.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Beef Stock",
+      "name": "Beef Stock",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cream (2.5%) ( Milk )",
+      "name": "Cream",
+      "percent": 2.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cauliflower",
+      "name": "Cauliflower",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Parmesan Cheese (Contains Milk )",
+      "name": "Parmesan Cheese (Contains Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Butter (Contains Milk )",
+      "name": "Butter (Contains Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Seasoning",
+      "name": "Seasoning",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract",
+      "name": "Yeast Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade",
+      "name": "Marinade",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Olive Oil",
+      "name": "Olive Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion Extract",
+      "name": "Onion Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract (Contains Barley )",
+      "name": "Yeast Extract (Contains Barley )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic Extract",
+      "name": "Garlic Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Dijon Mustard",
+      "name": "Dijon Mustard",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 1520.0,
+    "protein_g": 32.6,
+    "fat_g": 9.6,
+    "sat_fat_g": 4.3,
+    "carb_g": 32.2,
+    "sugar_g": 8.8,
+    "fibre_g": 8.0,
+    "sodium_mg": 868.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "lne-bl-peanuts",
+  "title": "Peanuts",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#2017112022",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "15 g",
+  "servings": 1,
+  "serving_grams": 15.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Peanuts",
+      "name": "Peanuts",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Peanut Oil",
+      "name": "Peanut Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Peanut"
+  ],
+  "nutrition": {
+    "energy_kj": 401.0,
+    "protein_g": 3.8,
+    "fat_g": 7.9,
+    "sat_fat_g": 1.2,
+    "carb_g": 2.1,
+    "sugar_g": 0.7,
+    "fibre_g": 1.2,
+    "sodium_mg": 0.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

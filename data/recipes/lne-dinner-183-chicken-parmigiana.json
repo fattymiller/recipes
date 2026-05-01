@@ -1,0 +1,221 @@
+{
+  "id": "lne-dinner-183-chicken-parmigiana",
+  "title": "183 Chicken Parmigiana",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099998907",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "445 g",
+  "servings": 1,
+  "serving_grams": 445.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Crumbed Chicken (22%) (Chicken, Wheat Flour, Canola Oil, Water, Wheat Gluten, Salt, Starches ( Wheat , Maize), Dehydrated Vegetables, Fibre ( Wheat , Plant, Vegetable), Egg White, Yeast, Flavour, Sugar, Seaweed Extract, Yeast Extract, Herb Extract, Colours (Turmeric, Paprika), Processing Aid ( Wheat ))",
+      "name": "Crumbed Chicken",
+      "percent": 22.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Potato (18%)",
+      "name": "Potato",
+      "percent": 18.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cauliflower (11%)",
+      "name": "Cauliflower",
+      "percent": 11.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Pulp (8%) (Tomato, Citric Acid)",
+      "name": "Tomato Pulp",
+      "percent": 8.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Beans (7%)",
+      "name": "Beans",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot (7%)",
+      "name": "Carrot",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ham (4.5%) (Contains Flavours, Preservative (250))",
+      "name": "Ham",
+      "percent": 4.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn (4.5%)",
+      "name": "Corn",
+      "percent": 4.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Jam (Contains Food Acid (Citric))",
+      "name": "Tomato Jam (Contains Food Acid (Citric))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Parmesan Cheese (1.5%) (Contains Milk )",
+      "name": "Parmesan Cheese",
+      "percent": 1.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Milk Powder",
+      "name": "Milk Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cheese (Contains Milk )",
+      "name": "Cheese (Contains Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Olive Oil",
+      "name": "Olive Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Seasoning",
+      "name": "Seasoning",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Egg Powder",
+      "name": "Egg Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lemon Juice",
+      "name": "Lemon Juice",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract (Contains Barley )",
+      "name": "Yeast Extract (Contains Barley )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Egg",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 1790.0,
+    "protein_g": 30.8,
+    "fat_g": 12.8,
+    "sat_fat_g": 2.7,
+    "carb_g": 42.9,
+    "sugar_g": 12.0,
+    "fibre_g": 7.3,
+    "sodium_mg": 929.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

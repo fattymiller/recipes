@@ -1,0 +1,130 @@
+{
+  "id": "lne-bl-cake-sultana-tea",
+  "title": "Cake, Sultana Tea",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999386",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "50 g",
+  "servings": 1,
+  "serving_grams": 50.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Sweet Potato",
+      "name": "Sweet Potato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Flour ( Wheat Flour, Raising Agents (339, 341, 450, 500))",
+      "name": "Wheat Flour ( Wheat Flour, Raising Agents (339, 341, 450, 500))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Egg",
+      "name": "Egg",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sultanas (7%)",
+      "name": "Sultanas",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Orange Juice (Contains Vitamin C, Food Acid (Citric), Flavour)",
+      "name": "Orange Juice (Contains Vitamin C, Food Acid (Citric), Flavour)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vanilla Essence (Contains Flavour)",
+      "name": "Vanilla Essence (Contains Flavour)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices ( Barley , Oats , Wheat )",
+      "name": "Spices ( Barley , Oats , Wheat )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Raising Agent (500)",
+      "name": "Raising Agent (500)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Gluten",
+      "name": "Wheat Gluten",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Canola Oil (Contains Soy )",
+      "name": "Canola Oil (Contains Soy )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Egg",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 550.0,
+    "protein_g": 3.1,
+    "fat_g": 3.3,
+    "sat_fat_g": 0.5,
+    "carb_g": 20.8,
+    "sugar_g": 9.3,
+    "fibre_g": 2.5,
+    "sodium_mg": 235.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

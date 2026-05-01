@@ -1,0 +1,75 @@
+{
+  "id": "lne-bl-choc-nut-mix",
+  "title": "Choc & Nut Mix",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#61842935",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "45 g",
+  "servings": 1,
+  "serving_grams": 45.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Blanched Peanuts (40%) ( Peanuts , Peanut Oil)",
+      "name": "Blanched Peanuts",
+      "percent": 40.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salted Almonds (23%) ( Almonds , Salt)",
+      "name": "Salted Almonds",
+      "percent": 23.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Hazelnuts (22%)",
+      "name": "Hazelnuts",
+      "percent": 22.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Dark Chocolate (7.5%) (Sugar, Cocoa Mass, Cocoa Butter, Emulsifier ( Soy Lecithin))",
+      "name": "Dark Chocolate",
+      "percent": 7.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Milk Chocolate (7.5%) (Sugar, Milk Powder, Cocoa Butter, Cocoa Mass, Emulsifier ( Soy Lecithin))",
+      "name": "Milk Chocolate",
+      "percent": 7.5,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk",
+    "Peanut",
+    "Soy",
+    "Almond",
+    "Hazelnut"
+  ],
+  "nutrition": {
+    "energy_kj": 1170.0,
+    "protein_g": 8.5,
+    "fat_g": 23.3,
+    "sat_fat_g": 3.3,
+    "carb_g": 7.7,
+    "sugar_g": 5.5,
+    "fibre_g": 1.9,
+    "sodium_mg": 5.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

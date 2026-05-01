@@ -1,0 +1,41 @@
+{
+  "id": "lne-bl-tomato",
+  "title": "Tomato",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#53906392",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "75 g",
+  "servings": 1,
+  "serving_grams": 75.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 53.0,
+    "protein_g": 0.5,
+    "fat_g": 0.0,
+    "sat_fat_g": 0.0,
+    "carb_g": 2.3,
+    "sugar_g": 1.9,
+    "fibre_g": 0.8,
+    "sodium_mg": 3.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

@@ -1,0 +1,155 @@
+{
+  "id": "lne-dinner-189-chargrilled-steak-mushroom-sauce",
+  "title": "189 Chargrilled Steak & Mushroom Sauce",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999048",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "420 g",
+  "servings": 1,
+  "serving_grams": 420.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Beef (23%)",
+      "name": "Beef",
+      "percent": 23.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Potato (16%)",
+      "name": "Potato",
+      "percent": 16.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Beans (14%)",
+      "name": "Beans",
+      "percent": 14.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot (14%)",
+      "name": "Carrot",
+      "percent": 14.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Beef Stock",
+      "name": "Beef Stock",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Broccoli (7%)",
+      "name": "Broccoli",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mushroom (6%)",
+      "name": "Mushroom",
+      "percent": 6.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cream ( Milk )",
+      "name": "Cream ( Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade",
+      "name": "Marinade",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Port (Contains Milk )",
+      "name": "Port (Contains Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Seasoning",
+      "name": "Seasoning",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 1250.0,
+    "protein_g": 34.8,
+    "fat_g": 7.1,
+    "sat_fat_g": 3.2,
+    "carb_g": 19.3,
+    "sugar_g": 6.3,
+    "fibre_g": 8.0,
+    "sodium_mg": 873.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

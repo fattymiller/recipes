@@ -1,0 +1,85 @@
+{
+  "id": "lne-bl-pizza-topping-pumpkin-spinach-fetta",
+  "title": "Pizza Topping, Pumpkin, Spinach & Fetta",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#634817817",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "135 g",
+  "servings": 1,
+  "serving_grams": 135.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Pumpkin (44%)",
+      "name": "Pumpkin",
+      "percent": 44.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Zucchini",
+      "name": "Zucchini",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Fetta Cheese (19%) ( Milk , Brine, Culture, Enzyme (Non-animal Rennet), Food Acid (Acetic))",
+      "name": "Fetta Cheese",
+      "percent": 19.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach (7%)",
+      "name": "Spinach",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 418.0,
+    "protein_g": 7.9,
+    "fat_g": 4.5,
+    "sat_fat_g": 2.8,
+    "carb_g": 5.7,
+    "sugar_g": 4.2,
+    "fibre_g": 2.6,
+    "sodium_mg": 382.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

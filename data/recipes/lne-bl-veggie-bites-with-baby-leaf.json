@@ -1,0 +1,64 @@
+{
+  "id": "lne-bl-veggie-bites-with-baby-leaf",
+  "title": "Veggie Bites with Baby Leaf",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099998961",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "93 g",
+  "servings": 1,
+  "serving_grams": 93.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Veggie Bites (52%) (Water, Chickpea, Lentil, Zucchini, Carrot, Sorghum Flour, Soybean Oil ( Soybean Oil, Antioxidants (319, 320), Antifoaming Agent (900a)), Sugar, Garlic, Onion, Vegetable Stock Powder, Shallots, Pepper)",
+      "name": "Veggie Bites",
+      "percent": 52.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cabbage",
+      "name": "Cabbage",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot",
+      "name": "Carrot",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Baby Leaf Mix (11%)",
+      "name": "Baby Leaf Mix",
+      "percent": 11.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 507.0,
+    "protein_g": 4.9,
+    "fat_g": 3.9,
+    "sat_fat_g": 0.8,
+    "carb_g": 13.4,
+    "sugar_g": 3.8,
+    "fibre_g": 7.8,
+    "sodium_mg": 110.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

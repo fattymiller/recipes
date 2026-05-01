@@ -1,0 +1,111 @@
+{
+  "id": "lne-bl-salad-asian-beef",
+  "title": "Salad, Asian Beef",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999438",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "240 g",
+  "servings": 1,
+  "serving_grams": 240.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Beef (22%)",
+      "name": "Beef",
+      "percent": 22.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot",
+      "name": "Carrot",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cucumber",
+      "name": "Cucumber",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Quinoa (Quinoa, Water)",
+      "name": "Cooked Quinoa (Quinoa, Water)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rocket",
+      "name": "Rocket",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach",
+      "name": "Spinach",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Powder",
+      "name": "Tomato Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade",
+      "name": "Marinade",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 680.0,
+    "protein_g": 19.4,
+    "fat_g": 2.9,
+    "sat_fat_g": 1.1,
+    "carb_g": 12.2,
+    "sugar_g": 5.9,
+    "fibre_g": 4.5,
+    "sodium_mg": 166.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

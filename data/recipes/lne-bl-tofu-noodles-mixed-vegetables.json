@@ -1,0 +1,66 @@
+{
+  "id": "lne-bl-tofu-noodles-mixed-vegetables",
+  "title": "Tofu, Noodles & Mixed Vegetables",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999343",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "215 g",
+  "servings": 1,
+  "serving_grams": 215.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Vegetables (65%) (Carrot, Capsicum, Choy Sum, Soybeans , Daikon, Shallots)",
+      "name": "Vegetables",
+      "percent": 65.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Hokkien Noodles (21%) ( Wheat Flour, Water, Canola Oil, Wheat Gluten, Salt, Emulsifying Salt (451, 450), Potato Starch, Lye Water, Thickener (Xanthan Gum), Preservative (202), Colour (160b, 100, 160a), Raising Agent (500, 450, 341))",
+      "name": "Hokkien Noodles",
+      "percent": 21.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Fried Tofu (14%) ( Soybeans , Water, Sunflower Oil, Mineral Salt (511))",
+      "name": "Fried Tofu",
+      "percent": 14.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coriander",
+      "name": "Coriander",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 820.0,
+    "protein_g": 11.6,
+    "fat_g": 4.0,
+    "sat_fat_g": 0.6,
+    "carb_g": 25.3,
+    "sugar_g": 5.7,
+    "fibre_g": 6.4,
+    "sodium_mg": 144.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

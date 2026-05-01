@@ -1,0 +1,121 @@
+{
+  "id": "lne-bl-maple-cashew-crunch",
+  "title": "Maple Cashew Crunch",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#20570969",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "25 g",
+  "servings": 1,
+  "serving_grams": 25.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Coconut",
+      "name": "Coconut",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cashew (16%)",
+      "name": "Cashew",
+      "percent": 16.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Maple Syrup (12%)",
+      "name": "Maple Syrup",
+      "percent": 12.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sesame Seeds",
+      "name": "Sesame Seeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepitas",
+      "name": "Pepitas",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Seeds",
+      "name": "Sunflower Seeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rice Syrup",
+      "name": "Rice Syrup",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Linseeds",
+      "name": "Linseeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Quinoa",
+      "name": "Quinoa",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chia Seeds",
+      "name": "Chia Seeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coconut Oil",
+      "name": "Coconut Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Millet",
+      "name": "Millet",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Cashew",
+    "Sesame"
+  ],
+  "nutrition": {
+    "energy_kj": 599.0,
+    "protein_g": 4.1,
+    "fat_g": 10.1,
+    "sat_fat_g": 4.8,
+    "carb_g": 8.3,
+    "sugar_g": 3.9,
+    "fibre_g": 1.7,
+    "sodium_mg": 4.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

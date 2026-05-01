@@ -1,0 +1,93 @@
+{
+  "id": "lne-bl-oats-creamy-blueberry",
+  "title": "Oats, Creamy Blueberry",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#762632770",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "30 g",
+  "servings": 1,
+  "serving_grams": 30.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Oats (33%)",
+      "name": "Oats",
+      "percent": 33.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Banana Chips (Green Banana, Coconut Oil, Sugar, Natural Flavouring, Honey)",
+      "name": "Banana Chips (Green Banana, Coconut Oil, Sugar, Natural Flavouring, Honey)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Skim Milk Powder",
+      "name": "Skim Milk Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Dried Blueberries (13%) (Blueberries, Sugar, Sunflower Oil)",
+      "name": "Dried Blueberries",
+      "percent": 13.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepitas",
+      "name": "Pepitas",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chia Seeds",
+      "name": "Chia Seeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vanilla Powder",
+      "name": "Vanilla Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cinnamon",
+      "name": "Cinnamon",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 513.0,
+    "protein_g": 3.9,
+    "fat_g": 4.5,
+    "sat_fat_g": 2.2,
+    "carb_g": 15.6,
+    "sugar_g": 5.2,
+    "fibre_g": 2.2,
+    "sodium_mg": 23.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

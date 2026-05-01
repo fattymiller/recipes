@@ -1,0 +1,139 @@
+{
+  "id": "lne-bl-cake-apple-cherry-almond",
+  "title": "Cake, Apple, Cherry & Almond",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999390",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "45 g",
+  "servings": 1,
+  "serving_grams": 45.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Milk",
+      "name": "Milk",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Flour ( Wheat Flour, Raising Agents (339, 341, 450, 500))",
+      "name": "Wheat Flour ( Wheat Flour, Raising Agents (339, 341, 450, 500))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Dried Cherries (13%)",
+      "name": "Dried Cherries",
+      "percent": 13.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Honey",
+      "name": "Honey",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Egg",
+      "name": "Egg",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Dried Apple (5%)",
+      "name": "Dried Apple",
+      "percent": 5.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Oats",
+      "name": "Oats",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Bran",
+      "name": "Wheat Bran",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Almonds (3%)",
+      "name": "Almonds",
+      "percent": 3.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Raising Agent (450, 500)",
+      "name": "Raising Agent (450, 500)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Canola Oil (Contains Soy )",
+      "name": "Canola Oil (Contains Soy )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Egg",
+    "Milk",
+    "Soy",
+    "Almond"
+  ],
+  "nutrition": {
+    "energy_kj": 509.0,
+    "protein_g": 2.9,
+    "fat_g": 1.8,
+    "sat_fat_g": 0.3,
+    "carb_g": 21.6,
+    "sugar_g": 13.1,
+    "fibre_g": 3.0,
+    "sodium_mg": 91.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

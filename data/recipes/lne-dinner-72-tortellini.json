@@ -1,0 +1,179 @@
+{
+  "id": "lne-dinner-72-tortellini",
+  "title": "72 Tortellini",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999061",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "395 g",
+  "servings": 1,
+  "serving_grams": 395.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Tortellini (Durum Wheat Semolina, Water, Ricotta Cheese (Whey ( Milk ), Milk , Salt, Food Acid (260, 270)), Breadcrumb ( Wheat Flour, Salt, Sugar, Yeast), Spinach, Egg , Spinach Flakes, Bamboo Fibre, Canola Oil, Potato Flakes (Potatoes, Emulsifier (471), Acidity Regulator (330)), Salt, Wheat Fibre)",
+      "name": "Tortellini (Durum Wheat Semolina, Water, Ricotta Cheese (Whey ( Milk ), Milk , Salt, Food Acid (260, 270)), Breadcrumb ( Wheat Flour, Salt, Sugar, Yeast), Spinach, Egg , Spinach Flakes, Bamboo Fibre, Canola Oil, Potato Flakes (Potatoes, Emulsifier (471), Acidity Regulator (330)), Salt, Wheat Fibre)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Milk",
+      "name": "Milk",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Broccoli (18%)",
+      "name": "Broccoli",
+      "percent": 18.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn (16%)",
+      "name": "Corn",
+      "percent": 16.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cauliflower",
+      "name": "Cauliflower",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Leek",
+      "name": "Leek",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Parmesan Cheese (1.5%) (Contains Milk )",
+      "name": "Parmesan Cheese",
+      "percent": 1.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "White Wine",
+      "name": "White Wine",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach (1%)",
+      "name": "Spinach",
+      "percent": 1.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cheese Powder (1%) (Contains Milk , Animal Rennet)",
+      "name": "Cheese Powder",
+      "percent": 1.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Skim Milk Concentrate",
+      "name": "Skim Milk Concentrate",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract (Contains Barley )",
+      "name": "Yeast Extract (Contains Barley )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Olive Oil",
+      "name": "Olive Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion Extract",
+      "name": "Onion Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Egg",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 1720.0,
+    "protein_g": 21.3,
+    "fat_g": 7.4,
+    "sat_fat_g": 3.8,
+    "carb_g": 59.5,
+    "sugar_g": 9.1,
+    "fibre_g": 8.5,
+    "sodium_mg": 860.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

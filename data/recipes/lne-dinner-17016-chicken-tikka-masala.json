@@ -1,0 +1,197 @@
+{
+  "id": "lne-dinner-17016-chicken-tikka-masala",
+  "title": "17016 Chicken Tikka Masala",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999567",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "430 g",
+  "servings": 1,
+  "serving_grams": 430.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cooked Long Grain Rice (33%) (Water, Long Grain Rice)",
+      "name": "Cooked Long Grain Rice",
+      "percent": 33.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chicken Breast (17%)",
+      "name": "Chicken Breast",
+      "percent": 17.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Pulp (12%) (Tomato, Citric Acid)",
+      "name": "Tomato Pulp",
+      "percent": 12.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum (4.5%)",
+      "name": "Capsicum",
+      "percent": 4.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cauliflower (4.5%)",
+      "name": "Cauliflower",
+      "percent": 4.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cream ( Milk )",
+      "name": "Cream ( Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Paste (Contains Acidity Regulator (Citric Acid))",
+      "name": "Tomato Paste (Contains Acidity Regulator (Citric Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lemon Juice",
+      "name": "Lemon Juice",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract",
+      "name": "Yeast Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ginger",
+      "name": "Ginger",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade",
+      "name": "Marinade",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion Extract",
+      "name": "Onion Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coriander",
+      "name": "Coriander",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chilli",
+      "name": "Chilli",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 1970.0,
+    "protein_g": 27.0,
+    "fat_g": 12.4,
+    "sat_fat_g": 2.7,
+    "carb_g": 59.7,
+    "sugar_g": 7.6,
+    "fibre_g": 5.2,
+    "sodium_mg": 941.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

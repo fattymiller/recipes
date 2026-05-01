@@ -1,0 +1,148 @@
+{
+  "id": "lne-dinner-6556-chicken-burrito-bowl",
+  "title": "6556 Chicken Burrito Bowl",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099998865",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "325 g",
+  "servings": 1,
+  "serving_grams": 325.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Flavoured Rice (Rice, Chicken Broth (Chicken Bones, Water, Apple Cider Vinegar), Sunflower Oil, Salt)",
+      "name": "Flavoured Rice (Rice, Chicken Broth (Chicken Bones, Water, Apple Cider Vinegar), Sunflower Oil, Salt)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chicken Breast (20%)",
+      "name": "Chicken Breast",
+      "percent": 20.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Pinto Beans (Water, Pinto Beans, Salt)",
+      "name": "Cooked Pinto Beans (Water, Pinto Beans, Salt)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Avocado",
+      "name": "Avocado",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cheese (Contains Milk )",
+      "name": "Cheese (Contains Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn (Contains Food Acid (Citric Acid))",
+      "name": "Corn (Contains Food Acid (Citric Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mexican Sauce (Contains Food Acid (Citric Acid, Acetic Acid))",
+      "name": "Mexican Sauce (Contains Food Acid (Citric Acid, Acetic Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mexican Seasoning (0.5%)",
+      "name": "Mexican Seasoning",
+      "percent": 0.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Olive Oil",
+      "name": "Olive Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade (Contains Flavour)",
+      "name": "Marinade (Contains Flavour)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lime Juice",
+      "name": "Lime Juice",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coriander",
+      "name": "Coriander",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 2020.0,
+    "protein_g": 30.3,
+    "fat_g": 14.0,
+    "sat_fat_g": 5.2,
+    "carb_g": 54.7,
+    "sugar_g": 2.9,
+    "fibre_g": 7.6,
+    "sodium_mg": 973.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

@@ -1,0 +1,131 @@
+{
+  "id": "lne-bl-lemongrass-chicken-bites",
+  "title": "Lemongrass Chicken Bites",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999593",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "85 g",
+  "servings": 1,
+  "serving_grams": 85.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Chicken Breast",
+      "name": "Chicken Breast",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chicken Thigh",
+      "name": "Chicken Thigh",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Breadcrumbs (Contains Wheat , Colours (Turmeric, Paprika))",
+      "name": "Breadcrumbs (Contains Wheat , Colours (Turmeric, Paprika))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Egg",
+      "name": "Egg",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Fish Sauce (Contains Fish )",
+      "name": "Fish Sauce (Contains Fish )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lemongrass Puree (Contains Food Acid (Citric Acid))",
+      "name": "Lemongrass Puree (Contains Food Acid (Citric Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Soy Sauce (Contains Soy , Wheat )",
+      "name": "Soy Sauce (Contains Soy , Wheat )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coriander",
+      "name": "Coriander",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Curry Paste (Contains Food Acid (Citric))",
+      "name": "Curry Paste (Contains Food Acid (Citric))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Seasoning (Contains Acidity Regulator (Citric Acid))",
+      "name": "Seasoning (Contains Acidity Regulator (Citric Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Kaffir Lime Leaves",
+      "name": "Kaffir Lime Leaves",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Egg",
+    "Fish",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 396.0,
+    "protein_g": 13.8,
+    "fat_g": 2.4,
+    "sat_fat_g": 0.7,
+    "carb_g": 3.9,
+    "sugar_g": 1.4,
+    "fibre_g": 1.0,
+    "sodium_mg": 300.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

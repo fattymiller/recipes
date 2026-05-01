@@ -1,0 +1,187 @@
+{
+  "id": "lne-dinner-10-sweet-sour-chicken",
+  "title": "10 Sweet & Sour Chicken",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999054",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "430 g",
+  "servings": 1,
+  "serving_grams": 430.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Chicken Breast (20%)",
+      "name": "Chicken Breast",
+      "percent": 20.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum (18%)",
+      "name": "Capsicum",
+      "percent": 18.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Basmati Rice (16%) (Water, Basmati Rice)",
+      "name": "Cooked Basmati Rice",
+      "percent": 16.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pineapple (7%)",
+      "name": "Pineapple",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot (7%)",
+      "name": "Carrot",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Sauce (Contains Food Acid (Acetic, Citric), Flavours)",
+      "name": "Tomato Sauce (Contains Food Acid (Acetic, Citric), Flavours)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vinegar",
+      "name": "Vinegar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ginger",
+      "name": "Ginger",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Oyster Sauce (Contains Mollusc )",
+      "name": "Oyster Sauce (Contains Mollusc )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sesame Oil",
+      "name": "Sesame Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Light Soy Sauce (Contains Soy , Wheat )",
+      "name": "Light Soy Sauce (Contains Soy , Wheat )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract",
+      "name": "Yeast Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade",
+      "name": "Marinade",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Red Rice Powder",
+      "name": "Red Rice Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Mollusc",
+    "Soy",
+    "Sesame"
+  ],
+  "nutrition": {
+    "energy_kj": 1520.0,
+    "protein_g": 26.5,
+    "fat_g": 4.7,
+    "sat_fat_g": 1.0,
+    "carb_g": 50.8,
+    "sugar_g": 24.1,
+    "fibre_g": 5.5,
+    "sodium_mg": 754.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

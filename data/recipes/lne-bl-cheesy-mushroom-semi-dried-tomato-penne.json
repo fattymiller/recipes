@@ -1,0 +1,158 @@
+{
+  "id": "lne-bl-cheesy-mushroom-semi-dried-tomato-penne",
+  "title": "Cheesy Mushroom & Semi Dried Tomato Penne",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099998984",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "215 g",
+  "servings": 1,
+  "serving_grams": 215.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cooked Pasta (23%) (Durum Wheat Semolina, Water)",
+      "name": "Cooked Pasta",
+      "percent": 23.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mushroom (13%)",
+      "name": "Mushroom",
+      "percent": 13.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn",
+      "name": "Corn",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Peas (11%)",
+      "name": "Peas",
+      "percent": 11.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cheese (9%) ( Milk , Salt, Culture, Enzyme (Non-animal Rennet), Anticaking Agent (Cellulose), Preservative (200))",
+      "name": "Cheese",
+      "percent": 9.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cauliflower",
+      "name": "Cauliflower",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Semi Dried Tomatoes (4.5%)",
+      "name": "Semi Dried Tomatoes",
+      "percent": 4.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Leek",
+      "name": "Leek",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cashews",
+      "name": "Cashews",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract",
+      "name": "Yeast Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Dijon Mustard",
+      "name": "Dijon Mustard",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Milk",
+    "Cashew"
+  ],
+  "nutrition": {
+    "energy_kj": 972.0,
+    "protein_g": 13.9,
+    "fat_g": 6.8,
+    "sat_fat_g": 3.3,
+    "carb_g": 26.0,
+    "sugar_g": 4.4,
+    "fibre_g": 5.3,
+    "sodium_mg": 410.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

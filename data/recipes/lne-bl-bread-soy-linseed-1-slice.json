@@ -1,0 +1,129 @@
+{
+  "id": "lne-bl-bread-soy-linseed-1-slice",
+  "title": "Bread, Soy & Linseed (1 slice)",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#877996978",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "41.5 g",
+  "servings": 1,
+  "serving_grams": 41.5,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Flour",
+      "name": "Wheat Flour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Soy (9%)",
+      "name": "Soy",
+      "percent": 9.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Linseed (9%)",
+      "name": "Linseed",
+      "percent": 9.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Gluten",
+      "name": "Wheat Gluten",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat",
+      "name": "Wheat",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vinegar",
+      "name": "Vinegar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast",
+      "name": "Yeast",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Fermented Wheat Flour",
+      "name": "Fermented Wheat Flour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Canola Oil",
+      "name": "Canola Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vitamins (Thiamin, Folic Acid)",
+      "name": "Vitamins (Thiamin, Folic Acid)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Processing Aid ( Wheat )",
+      "name": "Processing Aid ( Wheat )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 440.0,
+    "protein_g": 6.2,
+    "fat_g": 2.9,
+    "sat_fat_g": 0.4,
+    "carb_g": 11.7,
+    "sugar_g": 0.6,
+    "fibre_g": 3.2,
+    "sodium_mg": 146.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

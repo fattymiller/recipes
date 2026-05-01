@@ -1,0 +1,148 @@
+{
+  "id": "lne-bl-chicken-burrito-mix",
+  "title": "Chicken Burrito Mix",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#434520948",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "125 g",
+  "servings": 1,
+  "serving_grams": 125.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Chicken Breast (27%)",
+      "name": "Chicken Breast",
+      "percent": 27.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mexican Sauce (Tomato Puree (Tomato, Food Acid (Citric Acid)), Refried Beans (Pinto Beans, Water, Canola/sunflower Oil, Onion, Salt), Water, Onion, Coriander, Corn Starch, Garlic, Tomato Paste (Contains Food Acid (Citric Acid)), Cayenne Chilli Puree (Contains Food Acid (Acetic Acid)), Spices, Chipotle Puree, Canola Oil, Sugar, Salt, Pepper, Spices)",
+      "name": "Mexican Sauce (Tomato Puree (Tomato, Food Acid (Citric Acid)), Refried Beans (Pinto Beans, Water, Canola/sunflower Oil, Onion, Salt), Water, Onion, Coriander, Corn Starch, Garlic, Tomato Paste (Contains Food Acid (Citric Acid)), Cayenne Chilli Puree (Contains Food Acid (Acetic Acid)), Spices, Chipotle Puree, Canola Oil, Sugar, Salt, Pepper, Spices)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Zucchini",
+      "name": "Zucchini",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach",
+      "name": "Spinach",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Black Beans (Black Beans, Water, Salt)",
+      "name": "Cooked Black Beans (Black Beans, Water, Salt)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cheese (Contains Milk )",
+      "name": "Cheese (Contains Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Turmeric Rice",
+      "name": "Cooked Turmeric Rice",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn",
+      "name": "Corn",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lime Juice",
+      "name": "Lime Juice",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade (Contains Flavour)",
+      "name": "Marinade (Contains Flavour)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coriander",
+      "name": "Coriander",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 475.0,
+    "protein_g": 13.3,
+    "fat_g": 2.8,
+    "sat_fat_g": 1.2,
+    "carb_g": 7.6,
+    "sugar_g": 2.1,
+    "fibre_g": 2.0,
+    "sodium_mg": 399.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

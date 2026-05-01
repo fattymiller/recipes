@@ -1,0 +1,50 @@
+{
+  "id": "lne-bl-salad-pot-egg-spinach",
+  "title": "Salad Pot, Egg & Spinach",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#244857315",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "85 g",
+  "servings": 1,
+  "serving_grams": 85.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Egg (82%)",
+      "name": "Egg",
+      "percent": 82.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach (18%)",
+      "name": "Spinach",
+      "percent": 18.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Egg"
+  ],
+  "nutrition": {
+    "energy_kj": 384.0,
+    "protein_g": 9.2,
+    "fat_g": 5.9,
+    "sat_fat_g": 1.6,
+    "carb_g": 0.2,
+    "sugar_g": 0.2,
+    "fibre_g": 0.4,
+    "sodium_mg": 118.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

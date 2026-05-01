@@ -1,0 +1,78 @@
+{
+  "id": "lne-bl-yoghurt-strawberry",
+  "title": "Yoghurt, Strawberry",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999367",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "100 g",
+  "servings": 1,
+  "serving_grams": 100.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Yoghurt ( Milk , Water, Milk Solids, Sugar, Thickener (Pectin), Vanilla Flavour , Cultures ( Milk ))",
+      "name": "Yoghurt ( Milk , Water, Milk Solids, Sugar, Thickener (Pectin), Vanilla Flavour , Cultures ( Milk ))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Strawberry (5%)",
+      "name": "Strawberry",
+      "percent": 5.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Starch",
+      "name": "Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Flavour",
+      "name": "Flavour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Color (Beet Red)",
+      "name": "Color (Beet Red)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 392.0,
+    "protein_g": 5.8,
+    "fat_g": 2.4,
+    "sat_fat_g": 1.4,
+    "carb_g": 12.1,
+    "sugar_g": 11.8,
+    "fibre_g": 0.1,
+    "sodium_mg": 20.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

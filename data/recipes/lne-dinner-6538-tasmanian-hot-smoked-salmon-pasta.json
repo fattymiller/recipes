@@ -1,0 +1,123 @@
+{
+  "id": "lne-dinner-6538-tasmanian-hot-smoked-salmon-pasta",
+  "title": "6538 Tasmanian Hot Smoked Salmon Pasta",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999361",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "358 g",
+  "servings": 1,
+  "serving_grams": 358.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Zucchini",
+      "name": "Zucchini",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Pasta (25%) (Durum Wheat Semolina, Water)",
+      "name": "Cooked Pasta",
+      "percent": 25.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Hot Smoked Salmon (15%) (Salmon ( Fish ), Salt, Woodsmoke, Spice, Pepper)",
+      "name": "Hot Smoked Salmon",
+      "percent": 15.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cream Cheese ( Milk , Cream, Water, Milk Solids, Salt, Vegetable Gums (410, 412), Preservative (200), Starter Culture, Enzymes (Non-animal Rennet))",
+      "name": "Cream Cheese ( Milk , Cream, Water, Milk Solids, Salt, Vegetable Gums (410, 412), Preservative (200), Starter Culture, Enzymes (Non-animal Rennet))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rocket",
+      "name": "Rocket",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach",
+      "name": "Spinach",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Olive Oil",
+      "name": "Olive Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Fish",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 1790.0,
+    "protein_g": 23.9,
+    "fat_g": 20.7,
+    "sat_fat_g": 6.4,
+    "carb_g": 34.1,
+    "sugar_g": 5.9,
+    "fibre_g": 4.1,
+    "sodium_mg": 734.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

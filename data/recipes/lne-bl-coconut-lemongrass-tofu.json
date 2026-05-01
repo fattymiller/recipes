@@ -1,0 +1,229 @@
+{
+  "id": "lne-bl-coconut-lemongrass-tofu",
+  "title": "Coconut & Lemongrass Tofu",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#279052251",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "315 g",
+  "servings": 1,
+  "serving_grams": 315.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cooked Jasmine Rice (15%) (Water, Jasmine Rice)",
+      "name": "Cooked Jasmine Rice",
+      "percent": 15.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Fried Tofu (15%) ( Soybeans , Water, Sunflower Oil, Mineral Salt (511))",
+      "name": "Fried Tofu",
+      "percent": 15.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cabbage",
+      "name": "Cabbage",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cauliflower",
+      "name": "Cauliflower",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot",
+      "name": "Carrot",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Soybeans (4.5%)",
+      "name": "Soybeans",
+      "percent": 4.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coconut Cream (2.5%)",
+      "name": "Coconut Cream",
+      "percent": 2.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Milk",
+      "name": "Milk",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Peanuts",
+      "name": "Peanuts",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yoghurt (Contains Milk )",
+      "name": "Yoghurt (Contains Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lime Juice",
+      "name": "Lime Juice",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract",
+      "name": "Yeast Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ginger",
+      "name": "Ginger",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Soy Sauce (Contains Soy , Wheat )",
+      "name": "Soy Sauce (Contains Soy , Wheat )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chilli",
+      "name": "Chilli",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Thai Seasoning (Contains Flavours)",
+      "name": "Thai Seasoning (Contains Flavours)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lemongrass Puree (Contains Food Acid (Citric Acid))",
+      "name": "Lemongrass Puree (Contains Food Acid (Citric Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Kaffir Lime Leaves",
+      "name": "Kaffir Lime Leaves",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coriander",
+      "name": "Coriander",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Milk",
+    "Peanut",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 1330.0,
+    "protein_g": 17.1,
+    "fat_g": 11.7,
+    "sat_fat_g": 3.7,
+    "carb_g": 32.1,
+    "sugar_g": 11.4,
+    "fibre_g": 7.9,
+    "sodium_mg": 589.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

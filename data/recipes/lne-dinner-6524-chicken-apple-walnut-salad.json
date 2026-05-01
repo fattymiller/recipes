@@ -1,0 +1,127 @@
+{
+  "id": "lne-dinner-6524-chicken-apple-walnut-salad",
+  "title": "6524 Chicken, Apple & Walnut Salad",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999308",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "370 g",
+  "servings": 1,
+  "serving_grams": 370.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cooked Lentils (Water, Lentils, Salt)",
+      "name": "Cooked Lentils (Water, Lentils, Salt)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chicken Breast (21%)",
+      "name": "Chicken Breast",
+      "percent": 21.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Caramelised Balsamic Vinaigrette (Sugar, Balsamic Vinegar (Red Wine Vinegar, Sugar), Water, Vinegar, Red Wine Vinegar, White Wine Vinegar, Molasses, Burnt Sugar, Vegetable Gum (Xanthan, Guar))",
+      "name": "Caramelised Balsamic Vinaigrette (Sugar, Balsamic Vinegar (Red Wine Vinegar, Sugar), Water, Vinegar, Red Wine Vinegar, White Wine Vinegar, Molasses, Burnt Sugar, Vegetable Gum (Xanthan, Guar))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Celery",
+      "name": "Celery",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Apple (8%)",
+      "name": "Apple",
+      "percent": 8.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Baby Leaf Mix",
+      "name": "Baby Leaf Mix",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Walnuts (4%)",
+      "name": "Walnuts",
+      "percent": 4.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade (Contains Flavour)",
+      "name": "Marinade (Contains Flavour)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Walnut"
+  ],
+  "nutrition": {
+    "energy_kj": 1660.0,
+    "protein_g": 30.8,
+    "fat_g": 12.6,
+    "sat_fat_g": 1.4,
+    "carb_g": 36.0,
+    "sugar_g": 21.8,
+    "fibre_g": 7.6,
+    "sodium_mg": 495.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

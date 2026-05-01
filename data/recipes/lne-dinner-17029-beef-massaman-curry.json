@@ -1,0 +1,192 @@
+{
+  "id": "lne-dinner-17029-beef-massaman-curry",
+  "title": "17029 Beef Massaman Curry",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999517",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "385 g",
+  "servings": 1,
+  "serving_grams": 385.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cooked Long Grain Rice (24%) (Water, Long Grain Rice)",
+      "name": "Cooked Long Grain Rice",
+      "percent": 24.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Beef (13%)",
+      "name": "Beef",
+      "percent": 13.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Potato",
+      "name": "Potato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coconut Cream (Coconut Cream, Vegetable Gums (Xanthan, Guar))",
+      "name": "Coconut Cream (Coconut Cream, Vegetable Gums (Xanthan, Guar))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cauliflower (8%)",
+      "name": "Cauliflower",
+      "percent": 8.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Broccoli (8%)",
+      "name": "Broccoli",
+      "percent": 8.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Brown Rice (6%) (Water, Brown Rice)",
+      "name": "Cooked Brown Rice",
+      "percent": 6.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Massaman Curry Paste (3.5%) (Contains Soybeans )",
+      "name": "Massaman Curry Paste",
+      "percent": 3.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Peanuts (2.5%)",
+      "name": "Peanuts",
+      "percent": 2.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Fish Sauce (Contains Fish )",
+      "name": "Fish Sauce (Contains Fish )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Powder",
+      "name": "Tomato Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lime Juice",
+      "name": "Lime Juice",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade",
+      "name": "Marinade",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Kaffir Lime Leaves",
+      "name": "Kaffir Lime Leaves",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coriander",
+      "name": "Coriander",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Fish",
+    "Peanut",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 2150.0,
+    "protein_g": 26.2,
+    "fat_g": 18.6,
+    "sat_fat_g": 10.5,
+    "carb_g": 57.1,
+    "sugar_g": 11.8,
+    "fibre_g": 5.3,
+    "sodium_mg": 928.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

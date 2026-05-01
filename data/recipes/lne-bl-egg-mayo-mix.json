@@ -1,0 +1,57 @@
+{
+  "id": "lne-bl-egg-mayo-mix",
+  "title": "Egg & Mayo Mix",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099998955",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "60 g",
+  "servings": 1,
+  "serving_grams": 60.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Egg (84%) ( Egg , Food Acids (Acetic Acid, Citric Acid))",
+      "name": "Egg",
+      "percent": 84.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mayo (16%) (Water, Canola Oil, Liquid Sugar, Egg , White Vinegar, Corn Starch, Salt, Mustard, Modified Starch (1450), Flavours, Vegetable Gum (Xanthan, Guar), Lemon Juice, Spice Extract, Acidity Regulator (Citric Acid), Color (161b))",
+      "name": "Mayo",
+      "percent": 16.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Egg"
+  ],
+  "nutrition": {
+    "energy_kj": 437.0,
+    "protein_g": 6.3,
+    "fat_g": 8.3,
+    "sat_fat_g": 1.6,
+    "carb_g": 1.2,
+    "sugar_g": 0.6,
+    "fibre_g": 0.0,
+    "sodium_mg": 132.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

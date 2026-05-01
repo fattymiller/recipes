@@ -1,0 +1,158 @@
+{
+  "id": "lne-dinner-54-homestyle-macaroni",
+  "title": "54 Homestyle Macaroni",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999059",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "445 g",
+  "servings": 1,
+  "serving_grams": 445.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Pasta (27%) (Water, Wheat Flour)",
+      "name": "Cooked Pasta",
+      "percent": 27.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato (13%)",
+      "name": "Tomato",
+      "percent": 13.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Parmesan Cheese (4.5%) (Contains Milk )",
+      "name": "Parmesan Cheese",
+      "percent": 4.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Skim Milk Concentrate",
+      "name": "Skim Milk Concentrate",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cheese (4%) (Contains Milk )",
+      "name": "Cheese",
+      "percent": 4.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Milk Powder",
+      "name": "Milk Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Modified Starch (1442)",
+      "name": "Modified Starch (1442)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Breadcrumbs (Contains Wheat , Colours (Turmeric, Paprika))",
+      "name": "Breadcrumbs (Contains Wheat , Colours (Turmeric, Paprika))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Almonds",
+      "name": "Almonds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Dijon Mustard",
+      "name": "Dijon Mustard",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion Extract",
+      "name": "Onion Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract (Contains Barley )",
+      "name": "Yeast Extract (Contains Barley )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Milk",
+    "Almond"
+  ],
+  "nutrition": {
+    "energy_kj": 2040.0,
+    "protein_g": 28.1,
+    "fat_g": 11.0,
+    "sat_fat_g": 6.3,
+    "carb_g": 67.1,
+    "sugar_g": 16.4,
+    "fibre_g": 3.1,
+    "sodium_mg": 1260.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

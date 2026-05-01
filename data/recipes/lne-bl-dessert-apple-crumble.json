@@ -1,0 +1,80 @@
+{
+  "id": "lne-bl-dessert-apple-crumble",
+  "title": "Dessert, Apple Crumble",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099998764",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "165 g",
+  "servings": 1,
+  "serving_grams": 165.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Apple (48%) (Apple, Water, Antioxidant (Ascorbic Acid, Citric Acid))",
+      "name": "Apple",
+      "percent": 48.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Custard (Water, Milk Powder, Sugar, Modified Starch (1442), Vanilla Essence (Contains Flavour), Salt, Carrot Extract (Contains Flavour))",
+      "name": "Custard (Water, Milk Powder, Sugar, Modified Starch (1442), Vanilla Essence (Contains Flavour), Salt, Carrot Extract (Contains Flavour))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Crumble (9%) (Crumb ( Wheat Flour, Sugar, Canola Oil, Glucose Syrup, Malt Extract ( Barley ), Raising Agent (Sodium Bicarbonate), Salt, Flavour), Oats , Coconut, Salt, Flavour (Contains Milk ))",
+      "name": "Crumble",
+      "percent": 9.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sultanas (4.5%)",
+      "name": "Sultanas",
+      "percent": 4.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 770.0,
+    "protein_g": 3.3,
+    "fat_g": 3.2,
+    "sat_fat_g": 1.7,
+    "carb_g": 33.6,
+    "sugar_g": 25.0,
+    "fibre_g": 2.4,
+    "sodium_mg": 95.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

@@ -1,0 +1,121 @@
+{
+  "id": "lne-bl-salad-bbq-chicken-pasta",
+  "title": "Salad, BBQ Chicken & Pasta",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999315",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "270 g",
+  "servings": 1,
+  "serving_grams": 270.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cooked Pasta (24%) (Durum Wheat Semolina, Water)",
+      "name": "Cooked Pasta",
+      "percent": 24.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chicken Breast (18%)",
+      "name": "Chicken Breast",
+      "percent": 18.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Kidney Beans (Kidney Beans, Water, Salt)",
+      "name": "Cooked Kidney Beans (Kidney Beans, Water, Salt)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn (Corn, Sugar, Salt)",
+      "name": "Corn (Corn, Sugar, Salt)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Zucchini",
+      "name": "Zucchini",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rocket",
+      "name": "Rocket",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach",
+      "name": "Spinach",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Bbq Seasoning (0.5%) (Contains Flavour)",
+      "name": "Bbq Seasoning",
+      "percent": 0.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade (Contains Flavour)",
+      "name": "Marinade (Contains Flavour)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat"
+  ],
+  "nutrition": {
+    "energy_kj": 1020.0,
+    "protein_g": 20.7,
+    "fat_g": 2.3,
+    "sat_fat_g": 0.6,
+    "carb_g": 32.6,
+    "sugar_g": 4.9,
+    "fibre_g": 4.9,
+    "sodium_mg": 425.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

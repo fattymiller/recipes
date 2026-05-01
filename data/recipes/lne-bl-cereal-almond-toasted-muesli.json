@@ -1,0 +1,100 @@
+{
+  "id": "lne-bl-cereal-almond-toasted-muesli",
+  "title": "Cereal, Almond Toasted Muesli",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1858868474",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "35 g",
+  "servings": 1,
+  "serving_grams": 35.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Oats",
+      "name": "Oats",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sultanas",
+      "name": "Sultanas",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cranberries (Cranberries, Sugar, Sunflower Oil)",
+      "name": "Cranberries (Cranberries, Sugar, Sunflower Oil)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Seeds",
+      "name": "Sunflower Seeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Almonds (5%)",
+      "name": "Almonds",
+      "percent": 5.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepitas",
+      "name": "Pepitas",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Honey",
+      "name": "Honey",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cinnamon",
+      "name": "Cinnamon",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Almond"
+  ],
+  "nutrition": {
+    "energy_kj": 609.0,
+    "protein_g": 3.6,
+    "fat_g": 4.2,
+    "sat_fat_g": 0.6,
+    "carb_g": 21.7,
+    "sugar_g": 12.0,
+    "fibre_g": 2.9,
+    "sodium_mg": 3.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

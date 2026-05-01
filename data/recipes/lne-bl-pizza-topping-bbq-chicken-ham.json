@@ -1,0 +1,97 @@
+{
+  "id": "lne-bl-pizza-topping-bbq-chicken-ham",
+  "title": "Pizza Topping, BBQ Chicken & Ham",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999521",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "130 g",
+  "servings": 1,
+  "serving_grams": 130.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mushroom (Mushroom, Water, Salt, Food Acid (Citric), Antioxidant (Ascorbic Acid))",
+      "name": "Mushroom (Mushroom, Water, Salt, Food Acid (Citric), Antioxidant (Ascorbic Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chicken Breast (23%)",
+      "name": "Chicken Breast",
+      "percent": 23.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Bbq Sauce (Fruit & Vegetables (Tomato, Apple, Plum, Lemon), Sugar, Vinegar, Salt, Starch, Yeast Extract, Caramelised Sugar Syrup, Smoke Flavour, Bourbon, Spices, Xanthan Gum, Garlic, Citric Acid)",
+      "name": "Bbq Sauce (Fruit & Vegetables (Tomato, Apple, Plum, Lemon), Sugar, Vinegar, Salt, Starch, Yeast Extract, Caramelised Sugar Syrup, Smoke Flavour, Bourbon, Spices, Xanthan Gum, Garlic, Citric Acid)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ham (4%) (Contains Flavours, Preservative (250))",
+      "name": "Ham",
+      "percent": 4.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Semi Dried Tomatoes",
+      "name": "Semi Dried Tomatoes",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade (Contains Flavour)",
+      "name": "Marinade (Contains Flavour)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 388.0,
+    "protein_g": 11.3,
+    "fat_g": 1.1,
+    "sat_fat_g": 0.6,
+    "carb_g": 8.5,
+    "sugar_g": 7.0,
+    "fibre_g": 2.5,
+    "sodium_mg": 311.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

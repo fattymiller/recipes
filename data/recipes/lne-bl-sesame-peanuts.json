@@ -1,0 +1,58 @@
+{
+  "id": "lne-bl-sesame-peanuts",
+  "title": "Sesame Peanuts",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1981693918",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "25 g",
+  "servings": 1,
+  "serving_grams": 25.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Peanuts (76%)",
+      "name": "Peanuts",
+      "percent": 76.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coconut Sugar",
+      "name": "Coconut Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sesame Seeds (9%)",
+      "name": "Sesame Seeds",
+      "percent": 9.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Peanut",
+    "Sesame"
+  ],
+  "nutrition": {
+    "energy_kj": 563.0,
+    "protein_g": 4.9,
+    "fat_g": 9.9,
+    "sat_fat_g": 1.2,
+    "carb_g": 6.0,
+    "sugar_g": 5.4,
+    "fibre_g": 1.3,
+    "sodium_mg": 4.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

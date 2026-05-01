@@ -1,0 +1,230 @@
+{
+  "id": "lne-dinner-6736-sweet-sour-chicken",
+  "title": "6736 Sweet & Sour Chicken",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099998517",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "395 g",
+  "servings": 1,
+  "serving_grams": 395.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Crumbed Chicken (32%) (Chicken Breast, Wheat Flour, Salt, Water, Canola Oil, Sugar, Plant & Vegetable Fibre, Seaweed Extract, Wheat Bran, Yeast Extracts, Herb Extracts, Dehydrated Vegetables (Onion, Garlic), Flavour)",
+      "name": "Crumbed Chicken",
+      "percent": 32.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Long Grain Rice (20%) (Water, Long Grain Rice)",
+      "name": "Cooked Long Grain Rice",
+      "percent": 20.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pineapple (7%)",
+      "name": "Pineapple",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum (6%)",
+      "name": "Capsicum",
+      "percent": 6.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Sauce (Contains Food Acid (Acetic, Citric), Flavours)",
+      "name": "Tomato Sauce (Contains Food Acid (Acetic, Citric), Flavours)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vinegar",
+      "name": "Vinegar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn (2.5%)",
+      "name": "Corn",
+      "percent": 2.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Peas (2.5%)",
+      "name": "Peas",
+      "percent": 2.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot (2%)",
+      "name": "Carrot",
+      "percent": 2.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Egg (1.5%)",
+      "name": "Egg",
+      "percent": 1.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ham (1.5%) (Contains Flavours, Preservative (250))",
+      "name": "Ham",
+      "percent": 1.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion (1.5%)",
+      "name": "Onion",
+      "percent": 1.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sesame Oil",
+      "name": "Sesame Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ginger",
+      "name": "Ginger",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Oyster Sauce (Contains Mollusc )",
+      "name": "Oyster Sauce (Contains Mollusc )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract",
+      "name": "Yeast Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sweet Soy Sauce (Contains Soy , Wheat )",
+      "name": "Sweet Soy Sauce (Contains Soy , Wheat )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sweet Chilli Sauce",
+      "name": "Sweet Chilli Sauce",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Red Rice Powder",
+      "name": "Red Rice Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lemon Juice",
+      "name": "Lemon Juice",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Egg",
+    "Mollusc",
+    "Soy",
+    "Sesame"
+  ],
+  "nutrition": {
+    "energy_kj": 2140.0,
+    "protein_g": 32.5,
+    "fat_g": 15.5,
+    "sat_fat_g": 2.5,
+    "carb_g": 58.1,
+    "sugar_g": 20.2,
+    "fibre_g": 5.2,
+    "sodium_mg": 1140.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

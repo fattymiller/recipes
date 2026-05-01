@@ -1,0 +1,114 @@
+{
+  "id": "lne-bl-cereal-honey-muesli-flakes",
+  "title": "Cereal, Honey Muesli Flakes",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1557122199",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "35 g",
+  "servings": 1,
+  "serving_grams": 35.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Wheat Flakes (33%) ( Wheat , Salt, Vitamins (Niacin, Folate, Riboflavin, Thiamin))",
+      "name": "Wheat Flakes",
+      "percent": 33.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sultanas (Sultanas, Sunflower Oil)",
+      "name": "Sultanas (Sultanas, Sunflower Oil)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Oats (20%)",
+      "name": "Oats",
+      "percent": 20.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Apple (Apple, Food Acid (Ascorbic))",
+      "name": "Apple (Apple, Food Acid (Ascorbic))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Kernels",
+      "name": "Sunflower Kernels",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepitas",
+      "name": "Pepitas",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Honey (1%)",
+      "name": "Honey",
+      "percent": 1.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chia Seeds",
+      "name": "Chia Seeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Linseeds",
+      "name": "Linseeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat"
+  ],
+  "nutrition": {
+    "energy_kj": 559.0,
+    "protein_g": 3.4,
+    "fat_g": 2.2,
+    "sat_fat_g": 0.4,
+    "carb_g": 23.1,
+    "sugar_g": 10.9,
+    "fibre_g": 3.1,
+    "sodium_mg": 48.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

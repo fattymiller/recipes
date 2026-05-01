@@ -1,0 +1,117 @@
+{
+  "id": "lne-bl-bread-banana-apple",
+  "title": "Bread, Banana & Apple",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099998939",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "50 g",
+  "servings": 1,
+  "serving_grams": 50.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Wheat Flour ( Wheat Flour, Raising Agents (339, 341, 450, 500))",
+      "name": "Wheat Flour ( Wheat Flour, Raising Agents (339, 341, 450, 500))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Banana Puree (24%) (Banana, Food Acids (Citric, Ascorbic))",
+      "name": "Banana Puree",
+      "percent": 24.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Apple (20%) (Apple, Water, Antioxidant (Ascorbic Acid, Citric Acid))",
+      "name": "Apple",
+      "percent": 20.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Egg White",
+      "name": "Egg White",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chia Seed",
+      "name": "Chia Seed",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Milk Powder",
+      "name": "Milk Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Bran",
+      "name": "Wheat Bran",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Honey",
+      "name": "Honey",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Canola Oil (Contains Soy )",
+      "name": "Canola Oil (Contains Soy )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Egg",
+    "Milk",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 449.0,
+    "protein_g": 2.8,
+    "fat_g": 0.7,
+    "sat_fat_g": 0.1,
+    "carb_g": 20.7,
+    "sugar_g": 9.7,
+    "fibre_g": 2.8,
+    "sodium_mg": 119.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

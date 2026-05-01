@@ -1,0 +1,72 @@
+{
+  "id": "lne-bl-cereal-apple-cranberry-bran-flakes",
+  "title": "Cereal, Apple, Cranberry & Bran Flakes",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1852711361",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "40 g",
+  "servings": 1,
+  "serving_grams": 40.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Wheat Bran Flakes (60%)",
+      "name": "Wheat Bran Flakes",
+      "percent": 60.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Puffed Purple Wheat",
+      "name": "Puffed Purple Wheat",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cranberries (15%) (Cranberries, Sugar, Sunflower Oil)",
+      "name": "Cranberries",
+      "percent": 15.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepitas",
+      "name": "Pepitas",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Apple (5%) (Apple, Ascorbic Acid)",
+      "name": "Apple",
+      "percent": 5.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat"
+  ],
+  "nutrition": {
+    "energy_kj": 524.0,
+    "protein_g": 4.6,
+    "fat_g": 2.4,
+    "sat_fat_g": 0.4,
+    "carb_g": 19.0,
+    "sugar_g": 8.8,
+    "fibre_g": 4.4,
+    "sodium_mg": 159.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

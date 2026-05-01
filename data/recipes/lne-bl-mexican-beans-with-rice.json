@@ -1,0 +1,106 @@
+{
+  "id": "lne-bl-mexican-beans-with-rice",
+  "title": "Mexican Beans with Rice",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999330",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "285 g",
+  "servings": 1,
+  "serving_grams": 285.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Mexican Sauce (27%) (Tomato Puree (Tomato, Food Acid (Citric Acid)), Refried Beans (Pinto Beans, Water, Canola/sunflower Oil, Onion, Salt), Water, Onion, Coriander, Corn Starch, Garlic, Tomato Paste (Contains Food Acid (Citric Acid)), Cayenne Chilli Puree (Contains Food Acid (Acetic Acid)), Spices, Chipotle Puree, Canola Oil, Sugar, Salt, Pepper, Spices)",
+      "name": "Mexican Sauce",
+      "percent": 27.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Turmeric Rice (22%) (Water, Long Grain Rice, Sunflower Oil, Spice)",
+      "name": "Cooked Turmeric Rice",
+      "percent": 22.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Black Beans (14%) (Black Beans, Water, Salt)",
+      "name": "Cooked Black Beans",
+      "percent": 14.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn (Corn, Sugar, Salt)",
+      "name": "Corn (Corn, Sugar, Salt)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Black Rice (4.5%)",
+      "name": "Cooked Black Rice",
+      "percent": 4.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cheese (Contains Milk )",
+      "name": "Cheese (Contains Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coriander",
+      "name": "Coriander",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 1260.0,
+    "protein_g": 12.0,
+    "fat_g": 5.9,
+    "sat_fat_g": 2.1,
+    "carb_g": 46.0,
+    "sugar_g": 5.6,
+    "fibre_g": 6.2,
+    "sodium_mg": 443.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

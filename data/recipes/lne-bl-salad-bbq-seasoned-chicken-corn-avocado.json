@@ -1,0 +1,104 @@
+{
+  "id": "lne-bl-salad-bbq-seasoned-chicken-corn-avocado",
+  "title": "Salad, BBQ Seasoned Chicken Corn & Avocado",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999333",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "245 g",
+  "servings": 1,
+  "serving_grams": 245.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Chicken Breast (23%)",
+      "name": "Chicken Breast",
+      "percent": 23.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn (17%) (Corn, Sugar, Salt)",
+      "name": "Corn",
+      "percent": 17.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Avocado (16%)",
+      "name": "Avocado",
+      "percent": 16.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rocket",
+      "name": "Rocket",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach",
+      "name": "Spinach",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Bbq Seasoning (0.5%) (Contains Flavour)",
+      "name": "Bbq Seasoning",
+      "percent": 0.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade (Contains Flavour)",
+      "name": "Marinade (Contains Flavour)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 964.0,
+    "protein_g": 19.0,
+    "fat_g": 11.4,
+    "sat_fat_g": 2.4,
+    "carb_g": 10.3,
+    "sugar_g": 5.6,
+    "fibre_g": 5.8,
+    "sodium_mg": 530.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

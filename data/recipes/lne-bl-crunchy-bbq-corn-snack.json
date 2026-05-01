@@ -1,0 +1,62 @@
+{
+  "id": "lne-bl-crunchy-bbq-corn-snack",
+  "title": "Crunchy BBQ Corn Snack",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#2019941173",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "20 g",
+  "servings": 1,
+  "serving_grams": 20.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Corn (84%)",
+      "name": "Corn",
+      "percent": 84.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 391.0,
+    "protein_g": 1.6,
+    "fat_g": 3.0,
+    "sat_fat_g": 0.6,
+    "carb_g": 14.5,
+    "sugar_g": 0.2,
+    "fibre_g": 0.6,
+    "sodium_mg": 158.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

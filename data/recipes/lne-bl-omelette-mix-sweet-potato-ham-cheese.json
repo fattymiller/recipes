@@ -1,0 +1,92 @@
+{
+  "id": "lne-bl-omelette-mix-sweet-potato-ham-cheese",
+  "title": "Omelette Mix, Sweet Potato, Ham & Cheese",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#962311923",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "101 g",
+  "servings": 1,
+  "serving_grams": 101.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Sweet Potato (39%)",
+      "name": "Sweet Potato",
+      "percent": 39.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cheese (20%) ( Milk , Salt, Culture, Enzyme (Non-animal Rennet))",
+      "name": "Cheese",
+      "percent": 20.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ham (15%) (Pork, Water, Salt, Potato Starch, Sugar, Bamboo Fibre, Flavours, Preservative (250), Smoke)",
+      "name": "Ham",
+      "percent": 15.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Zucchini",
+      "name": "Zucchini",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Seasoning",
+      "name": "Seasoning",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 549.0,
+    "protein_g": 10.6,
+    "fat_g": 6.0,
+    "sat_fat_g": 3.2,
+    "carb_g": 7.9,
+    "sugar_g": 3.7,
+    "fibre_g": 2.0,
+    "sodium_mg": 278.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

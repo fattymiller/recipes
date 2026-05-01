@@ -1,0 +1,102 @@
+{
+  "id": "lne-bl-dressing-soy-sesame",
+  "title": "Dressing, Soy Sesame",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#848466814",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "20 g",
+  "servings": 1,
+  "serving_grams": 20.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Soy Sauce (46%) (Water, Soybeans , Wheat , Salt, Alcohol, Sugar, Food Acids (262, Lactic, Acetic))",
+      "name": "Soy Sauce",
+      "percent": 46.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Honey",
+      "name": "Honey",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lime Juice",
+      "name": "Lime Juice",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sesame Oil (4.6%)",
+      "name": "Sesame Oil",
+      "percent": 4.6,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coriander",
+      "name": "Coriander",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ginger Puree",
+      "name": "Ginger Puree",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chilli Puree",
+      "name": "Chilli Puree",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vegetable Gum (Xanthan)",
+      "name": "Vegetable Gum (Xanthan)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Soy",
+    "Sesame"
+  ],
+  "nutrition": {
+    "energy_kj": 161.0,
+    "protein_g": 0.8,
+    "fat_g": 0.9,
+    "sat_fat_g": 0.1,
+    "carb_g": 5.7,
+    "sugar_g": 5.2,
+    "fibre_g": 0.1,
+    "sodium_mg": 288.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

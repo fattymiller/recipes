@@ -1,0 +1,99 @@
+{
+  "id": "lne-bl-cream-cheese",
+  "title": "Cream Cheese",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#959498483",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "37.5 g",
+  "servings": 1,
+  "serving_grams": 37.5,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Milk",
+      "name": "Milk",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cream",
+      "name": "Cream",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Milk Solids",
+      "name": "Milk Solids",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vegetable Gums (410, 412)",
+      "name": "Vegetable Gums (410, 412)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Preservative (200)",
+      "name": "Preservative (200)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Starter Culture",
+      "name": "Starter Culture",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Enzymes (Non-animal Rennet)",
+      "name": "Enzymes (Non-animal Rennet)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 267.0,
+    "protein_g": 3.0,
+    "fat_g": 5.1,
+    "sat_fat_g": 3.6,
+    "carb_g": 1.5,
+    "sugar_g": 1.5,
+    "fibre_g": 0.0,
+    "sodium_mg": 98.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

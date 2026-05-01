@@ -1,0 +1,215 @@
+{
+  "id": "lne-dinner-17041-beef-miso-noodle-stir-fry",
+  "title": "17041 Beef & Miso Noodle Stir Fry",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999473",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "360 g",
+  "servings": 1,
+  "serving_grams": 360.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Hokkien Noodles (29%) ( Wheat Flour, Water, Canola Oil, Wheat Gluten, Salt, Emulsifying Salts (451, 450), Potato Starch, Lye Water, Thickener (Xanthan Gum), Preservative (202), Colours (160b, 100, 160a), Raising Agents (500, 450, 341))",
+      "name": "Hokkien Noodles",
+      "percent": 29.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Beef (12%)",
+      "name": "Beef",
+      "percent": 12.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cauliflower (10%)",
+      "name": "Cauliflower",
+      "percent": 10.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Baby Broccoli",
+      "name": "Baby Broccoli",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Broccoli (6%)",
+      "name": "Broccoli",
+      "percent": 6.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mushroom (6%)",
+      "name": "Mushroom",
+      "percent": 6.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Soy Sauce (5%) (Water, Soybean , Wheat , Salt, Alcohol, Sugar, Food Acid (262, 270, 260))",
+      "name": "Soy Sauce",
+      "percent": 5.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum (4%)",
+      "name": "Capsicum",
+      "percent": 4.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Peanuts (2.5%)",
+      "name": "Peanuts",
+      "percent": 2.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lime Juice",
+      "name": "Lime Juice",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mirin",
+      "name": "Mirin",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Soybeans (1%)",
+      "name": "Soybeans",
+      "percent": 1.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Miso Paste (1%) (Contains Soybean )",
+      "name": "Miso Paste",
+      "percent": 1.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ginger",
+      "name": "Ginger",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sake",
+      "name": "Sake",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Powder",
+      "name": "Tomato Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sesame Oil",
+      "name": "Sesame Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chilli",
+      "name": "Chilli",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade",
+      "name": "Marinade",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract",
+      "name": "Yeast Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Peanut",
+    "Soy",
+    "Sesame"
+  ],
+  "nutrition": {
+    "energy_kj": 2050.0,
+    "protein_g": 30.4,
+    "fat_g": 10.4,
+    "sat_fat_g": 2.2,
+    "carb_g": 64.1,
+    "sugar_g": 16.7,
+    "fibre_g": 6.4,
+    "sodium_mg": 1250.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

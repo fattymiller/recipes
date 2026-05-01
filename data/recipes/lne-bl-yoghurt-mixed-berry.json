@@ -1,0 +1,106 @@
+{
+  "id": "lne-bl-yoghurt-mixed-berry",
+  "title": "Yoghurt, Mixed Berry",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999359",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "100 g",
+  "servings": 1,
+  "serving_grams": 100.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Yoghurt ( Milk , Water, Milk Solids, Sugar, Thickener (Pectin), Vanilla Flavour, Cultures ( Milk ))",
+      "name": "Yoghurt ( Milk , Water, Milk Solids, Sugar, Thickener (Pectin), Vanilla Flavour, Cultures ( Milk ))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Blueberries (2%)",
+      "name": "Blueberries",
+      "percent": 2.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Raspberries (2%)",
+      "name": "Raspberries",
+      "percent": 2.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Blackberries (2%)",
+      "name": "Blackberries",
+      "percent": 2.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Strawberries (2%)",
+      "name": "Strawberries",
+      "percent": 2.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Starch",
+      "name": "Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Acidity Regulator (Sodium Citrate)",
+      "name": "Acidity Regulator (Sodium Citrate)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Color (Black Carrot)",
+      "name": "Color (Black Carrot)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 384.0,
+    "protein_g": 5.8,
+    "fat_g": 2.4,
+    "sat_fat_g": 1.4,
+    "carb_g": 11.7,
+    "sugar_g": 11.6,
+    "fibre_g": 0.1,
+    "sodium_mg": 25.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

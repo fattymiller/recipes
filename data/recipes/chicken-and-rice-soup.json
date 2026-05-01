@@ -1,0 +1,124 @@
+{
+  "id": "chicken-and-rice-soup",
+  "title": "Chicken and Rice Soup",
+  "source_url": "https://www.recipetineats.com/chicken-and-rice/",
+  "host": "recipetineats.com",
+  "image": "https://www.recipetineats.com/tachyon/2018/04/Chicken-and-Rice-Soup_8-1.jpg",
+  "yields": "5 servings",
+  "servings": 5,
+  "total_time": 60,
+  "prep_time": 15,
+  "cook_time": 55,
+  "ingredients": [
+    {
+      "raw": "1 tbsp olive oil",
+      "quantity": 1.0,
+      "unit": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "raw": "1 tbsp butter (or more oil)",
+      "quantity": 1.0,
+      "unit": "tbsp",
+      "name": "butter (or more oil)"
+    },
+    {
+      "raw": "2 garlic cloves (, minced)",
+      "quantity": 2.0,
+      "unit": null,
+      "name": "garlic cloves (, minced)"
+    },
+    {
+      "raw": "1 onion (, chopped)",
+      "quantity": 1.0,
+      "unit": null,
+      "name": "onion (, chopped)"
+    },
+    {
+      "raw": "3 carrots (, halved then cut into 1cm / 2/5\" slices (quarter if really thick))",
+      "quantity": 3.0,
+      "unit": null,
+      "name": "carrots (, halved then cut into 1cm / 2/5\" slices (quarter if really thick))"
+    },
+    {
+      "raw": "3 celery ribs (, cut into 1 cm / 2/5\" slices)",
+      "quantity": 3.0,
+      "unit": null,
+      "name": "celery ribs (, cut into 1 cm / 2/5\" slices)"
+    },
+    {
+      "raw": "3 tsp Vegeta stock powder (, or 2 x vegetable or chicken bouillon cube, or 2 tsp powder (Note 2))",
+      "quantity": 3.0,
+      "unit": "tsp",
+      "name": "Vegeta stock powder (, or 2 x vegetable or chicken bouillon cube, or 2 tsp powder (Note 2))"
+    },
+    {
+      "raw": "1/2 tsp dried parsley",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "name": "dried parsley"
+    },
+    {
+      "raw": "1/2 tsp dried thyme, optional",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "name": "dried thyme, optional"
+    },
+    {
+      "raw": "1/4 tsp black pepper (, finely ground)",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "name": "black pepper (, finely ground)"
+    },
+    {
+      "raw": "4 cups (1 litre) chicken broth (, low sodium)",
+      "quantity": 4.0,
+      "unit": "cups",
+      "name": "(1 litre) chicken broth (, low sodium)"
+    },
+    {
+      "raw": "4 cups (1 litre) water",
+      "quantity": 4.0,
+      "unit": "cups",
+      "name": "(1 litre) water"
+    },
+    {
+      "raw": "600 g (1.2 lb) bone in (, skinless chicken thighs, 4 x 150g/5oz (Note 1))",
+      "quantity": 600.0,
+      "unit": "g",
+      "name": "(1.2 lb) bone in (, skinless chicken thighs, 4 x 150g/5oz (Note 1))"
+    },
+    {
+      "raw": "1 cup (180g) long grain white rice (, uncooked (Note 3))",
+      "quantity": 1.0,
+      "unit": "cup",
+      "name": "(180g) long grain white rice (, uncooked (Note 3))"
+    },
+    {
+      "raw": "Salt, adjust to taste",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt, adjust to taste"
+    },
+    {
+      "raw": "1 tbsp finely chopped parsley (optional)",
+      "quantity": 1.0,
+      "unit": "tbsp",
+      "name": "finely chopped parsley (optional)"
+    }
+  ],
+  "instructions": [
+    "Place oil and butter in a large pot over medium high heat. Add onion and garlic, cook for 5 minutes until onion is translucent.",
+    "Add carrots and celery, stir for 1 minute.",
+    "Add stock powder, dried parsley, thyme (if using), pepper, chicken broth, water. Stir, then add chicken.",
+    "Cover with lid, simmer on medium low for 30 minutes. Adjust heat so it's bubbling a nice amount, but not crazy energetically or super slowly. Skim off excess foam build up once or twice (not critical, just makes broth clearer).",
+    "Remove lid, add rice. Stir, cover, simmer 15 minutes.",
+    "Remove soup from stove.",
+    "Remove chicken into large bowl. Shred with 2 forks, discard bones then stir into soup.",
+    "Stir in half the parsley, taste for salt and add if required. Serve, then garnish with extra parsley."
+  ],
+  "tags": [
+    "Chicken and Rice Soup"
+  ],
+  "scraped_at": "2026-05-01T08:43:24+00:00"
+}

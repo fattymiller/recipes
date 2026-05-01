@@ -1,0 +1,124 @@
+{
+  "id": "lne-bl-cake-walnut-date",
+  "title": "Cake, Walnut & Date",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099998913",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "50 g",
+  "servings": 1,
+  "serving_grams": 50.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Milk",
+      "name": "Milk",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Flour ( Wheat Flour, Raising Agents (339, 341, 450, 500))",
+      "name": "Wheat Flour ( Wheat Flour, Raising Agents (339, 341, 450, 500))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Dates (11%) (Dates, Rice Flour)",
+      "name": "Dates",
+      "percent": 11.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Apple (Apple, Water, Antioxidant (Ascorbic Acid, Citric Acid))",
+      "name": "Apple (Apple, Water, Antioxidant (Ascorbic Acid, Citric Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sultanas",
+      "name": "Sultanas",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Bran",
+      "name": "Wheat Bran",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Honey",
+      "name": "Honey",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Walnuts (4%)",
+      "name": "Walnuts",
+      "percent": 4.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Maltodextrin",
+      "name": "Maltodextrin",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Raising Agent (500)",
+      "name": "Raising Agent (500)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Canola Oil (Contains Soy )",
+      "name": "Canola Oil (Contains Soy )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Milk",
+    "Soy",
+    "Walnut"
+  ],
+  "nutrition": {
+    "energy_kj": 514.0,
+    "protein_g": 2.8,
+    "fat_g": 2.0,
+    "sat_fat_g": 0.3,
+    "carb_g": 21.9,
+    "sugar_g": 11.6,
+    "fibre_g": 2.4,
+    "sodium_mg": 131.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "lne-bl-cheese-tasty",
+  "title": "Cheese, Tasty",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#700979198",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "20 g",
+  "servings": 1,
+  "serving_grams": 20.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Milk",
+      "name": "Milk",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cultures",
+      "name": "Cultures",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Enzyme (Non-animal Rennet)",
+      "name": "Enzyme (Non-animal Rennet)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 286.0,
+    "protein_g": 5.8,
+    "fat_g": 4.9,
+    "sat_fat_g": 3.4,
+    "carb_g": 0.1,
+    "sugar_g": 0.1,
+    "fibre_g": 0.1,
+    "sodium_mg": 134.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

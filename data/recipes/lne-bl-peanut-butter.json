@@ -1,0 +1,64 @@
+{
+  "id": "lne-bl-peanut-butter",
+  "title": "Peanut Butter",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#2068891641",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "11 g",
+  "servings": 1,
+  "serving_grams": 11.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Peanuts",
+      "name": "Peanuts",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vegetable Oils (Contains Antioxidant (320))",
+      "name": "Vegetable Oils (Contains Antioxidant (320))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Peanut"
+  ],
+  "nutrition": {
+    "energy_kj": 290.0,
+    "protein_g": 2.2,
+    "fat_g": 5.9,
+    "sat_fat_g": 1.1,
+    "carb_g": 1.7,
+    "sugar_g": 0.8,
+    "fibre_g": 0.7,
+    "sodium_mg": 70.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

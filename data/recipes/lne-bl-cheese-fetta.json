@@ -1,0 +1,71 @@
+{
+  "id": "lne-bl-cheese-fetta",
+  "title": "Cheese, Fetta",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1530565883",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "10 g",
+  "servings": 1,
+  "serving_grams": 10.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Milk",
+      "name": "Milk",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Brine (Water, Salt, Mineral Salt (Calcium Chloride), Food Acid (Acetic Acid))",
+      "name": "Brine (Water, Salt, Mineral Salt (Calcium Chloride), Food Acid (Acetic Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Food Acid (Acetic)",
+      "name": "Food Acid (Acetic)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Culture",
+      "name": "Culture",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Enzyme (Non-animal Rennet)",
+      "name": "Enzyme (Non-animal Rennet)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 105.0,
+    "protein_g": 2.4,
+    "fat_g": 1.6,
+    "sat_fat_g": 1.1,
+    "carb_g": 0.3,
+    "sugar_g": 0.2,
+    "fibre_g": 0.0,
+    "sodium_mg": 140.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

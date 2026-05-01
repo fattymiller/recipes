@@ -1,0 +1,79 @@
+{
+  "id": "lne-bl-salad-noodle",
+  "title": "Salad, Noodle",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999310",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "195 g",
+  "servings": 1,
+  "serving_grams": 195.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Hokkien Noodles (31%) ( Wheat Flour, Water, Canola Oil, Wheat Gluten, Salt, Emulsifying Salt (451, 450), Potato Starch, Lye Water, Thickener (Xanthan Gum), Preservative (202), Colour (160b, 100, 160a), Raising Agent (500, 450, 341))",
+      "name": "Hokkien Noodles",
+      "percent": 31.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cabbage",
+      "name": "Cabbage",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Zucchini",
+      "name": "Zucchini",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Choy Sum",
+      "name": "Choy Sum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat"
+  ],
+  "nutrition": {
+    "energy_kj": 648.0,
+    "protein_g": 6.2,
+    "fat_g": 1.5,
+    "sat_fat_g": 0.2,
+    "carb_g": 27.3,
+    "sugar_g": 3.9,
+    "fibre_g": 3.5,
+    "sodium_mg": 157.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

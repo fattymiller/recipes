@@ -1,0 +1,90 @@
+{
+  "id": "lne-bl-salad-chicken-avocado",
+  "title": "Salad, Chicken & Avocado",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1314491267",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "225 g",
+  "servings": 1,
+  "serving_grams": 225.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Chicken Breast (31%)",
+      "name": "Chicken Breast",
+      "percent": 31.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lettuce",
+      "name": "Lettuce",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Avocado (13%)",
+      "name": "Avocado",
+      "percent": 13.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cucumber",
+      "name": "Cucumber",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade",
+      "name": "Marinade",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 746.0,
+    "protein_g": 19.3,
+    "fat_g": 8.7,
+    "sat_fat_g": 2.1,
+    "carb_g": 3.9,
+    "sugar_g": 3.3,
+    "fibre_g": 3.9,
+    "sodium_mg": 190.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

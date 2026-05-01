@@ -1,0 +1,117 @@
+{
+  "id": "lne-bl-bread-ciabatta-1-slice",
+  "title": "Bread, Ciabatta (1 slice)",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1225099458",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "30 g",
+  "servings": 1,
+  "serving_grams": 30.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Wheat Flour ( Wheat Flour, Thiamine, Folic Acid)",
+      "name": "Wheat Flour ( Wheat Flour, Thiamine, Folic Acid)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sourdough Culture (Fermented Rye Meal Culture, Wheat Flour, Rye Flour, Whey Protein Powder ( Milk ), Spice, Food Acids (Acetic Acid, Citric Acid))",
+      "name": "Sourdough Culture (Fermented Rye Meal Culture, Wheat Flour, Rye Flour, Whey Protein Powder ( Milk ), Spice, Food Acids (Acetic Acid, Citric Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rye Flour",
+      "name": "Rye Flour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ciabatta Mix (Calcium Carbonate, Gluten, Malt Flour, Rye , Flour Treatment Agent (Ascorbic Acid), Enzymes)",
+      "name": "Ciabatta Mix (Calcium Carbonate, Gluten, Malt Flour, Rye , Flour Treatment Agent (Ascorbic Acid), Enzymes)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Grain Mix (1.4%) (Kibbled Wheat , Kibbled Corn, Kibbled Rye , Malted Wheat , Linseed)",
+      "name": "Grain Mix",
+      "percent": 1.4,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast (Potato Starch, Canola Oil)",
+      "name": "Yeast (Potato Starch, Canola Oil)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sesame Seed",
+      "name": "Sesame Seed",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Poppy Seed",
+      "name": "Poppy Seed",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Bread Improver ( Wheat Flour, Malt Flour, Soya Flour, Emulsifier (472), Dry Yeast)",
+      "name": "Bread Improver ( Wheat Flour, Malt Flour, Soya Flour, Emulsifier (472), Dry Yeast)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Milk",
+    "Soy",
+    "Sesame"
+  ],
+  "nutrition": {
+    "energy_kj": 297.0,
+    "protein_g": 2.4,
+    "fat_g": 0.5,
+    "sat_fat_g": 0.1,
+    "carb_g": 13.4,
+    "sugar_g": 0.8,
+    "fibre_g": 0.9,
+    "sodium_mg": 90.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

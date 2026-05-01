@@ -1,0 +1,150 @@
+{
+  "id": "lne-dinner-239-honey-soy-tofu-vegetables",
+  "title": "239 Honey Soy Tofu & Vegetables",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999019",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "375 g",
+  "servings": 1,
+  "serving_grams": 375.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cooked Long Grain Rice (19%) (Water, Long Grain Rice)",
+      "name": "Cooked Long Grain Rice",
+      "percent": 19.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tofu (12%) ( Soybean , Water, Mineral Salt (511))",
+      "name": "Tofu",
+      "percent": 12.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Broccoli (10%)",
+      "name": "Broccoli",
+      "percent": 10.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum (10%)",
+      "name": "Capsicum",
+      "percent": 10.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot (10%)",
+      "name": "Carrot",
+      "percent": 10.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cauliflower (7%)",
+      "name": "Cauliflower",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Soybeans (7%)",
+      "name": "Soybeans",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Soy Sauce (3.5%) (Contains Soy , Wheat )",
+      "name": "Soy Sauce",
+      "percent": 3.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Honey (3.5%)",
+      "name": "Honey",
+      "percent": 3.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sweet Soy Sauce (3%) (Contains Soy , Wheat )",
+      "name": "Sweet Soy Sauce",
+      "percent": 3.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Olive Oil",
+      "name": "Olive Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract",
+      "name": "Yeast Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 1790.0,
+    "protein_g": 20.7,
+    "fat_g": 10.5,
+    "sat_fat_g": 1.7,
+    "carb_g": 58.1,
+    "sugar_g": 26.2,
+    "fibre_g": 7.3,
+    "sodium_mg": 912.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "lne-bl-salad-smoked-salmon-quinoa",
+  "title": "Salad, Smoked Salmon & Quinoa",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999831",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "260 g",
+  "servings": 1,
+  "serving_grams": 260.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cooked Quinoa (27%) (Quinoa, Water)",
+      "name": "Cooked Quinoa",
+      "percent": 27.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Hot Smoked Salmon (15%) (Salmon ( Fish ), Salt, Woodsmoke, Spice, Pepper)",
+      "name": "Hot Smoked Salmon",
+      "percent": 15.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cucumber",
+      "name": "Cucumber",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Roasted Capsicum (Capsicum, Vinegar, Salt, Sugar, Firming Agent (Calcium Chloride))",
+      "name": "Roasted Capsicum (Capsicum, Vinegar, Salt, Sugar, Firming Agent (Calcium Chloride))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Celery",
+      "name": "Celery",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rocket",
+      "name": "Rocket",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach",
+      "name": "Spinach",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lemon Juice (Contains Preservative (223), Antioxidant (Ascorbic Acid))",
+      "name": "Lemon Juice (Contains Preservative (223), Antioxidant (Ascorbic Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Fish"
+  ],
+  "nutrition": {
+    "energy_kj": 872.0,
+    "protein_g": 14.4,
+    "fat_g": 8.3,
+    "sat_fat_g": 1.4,
+    "carb_g": 17.0,
+    "sugar_g": 3.5,
+    "fibre_g": 5.1,
+    "sodium_mg": 442.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

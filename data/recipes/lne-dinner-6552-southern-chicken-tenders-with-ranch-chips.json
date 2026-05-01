@@ -1,0 +1,107 @@
+{
+  "id": "lne-dinner-6552-southern-chicken-tenders-with-ranch-chips",
+  "title": "6552 Southern Chicken Tenders with Ranch & Chips",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999388",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "315 g",
+  "servings": 1,
+  "serving_grams": 315.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Potato (37%)",
+      "name": "Potato",
+      "percent": 37.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Southern Style Chicken Tenders (32%) (Chicken Breast, Water, Flour (Besan, Rice), Tapioca Starch, Canola Oil, Salt, Fibre Extract, Yeast Extract, Spices, Sugar, Vegetable Powders, Seaweed Extract, Herbs, Mineral Salt (341), Spice Extract, Herb Extract)",
+      "name": "Southern Style Chicken Tenders",
+      "percent": 32.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Creamy Ranch Dressing (8%) (Canola Oil, Vinegar, Water, Sugar, Salt, Buttermilk Powder ( Milk ), Egg Yolk Powder, Onion, Mustard, Garlic, Herbs, Spices, Xanthan Gum, Yeast Extract, Citrus Fibre, Citric Acid)",
+      "name": "Creamy Ranch Dressing",
+      "percent": 8.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot",
+      "name": "Carrot",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Celery",
+      "name": "Celery",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Zucchini",
+      "name": "Zucchini",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Seasoning",
+      "name": "Seasoning",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Egg",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 1690.0,
+    "protein_g": 24.9,
+    "fat_g": 16.9,
+    "sat_fat_g": 1.9,
+    "carb_g": 34.2,
+    "sugar_g": 6.1,
+    "fibre_g": 7.2,
+    "sodium_mg": 594.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

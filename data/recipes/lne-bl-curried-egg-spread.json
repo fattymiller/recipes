@@ -1,0 +1,71 @@
+{
+  "id": "lne-bl-curried-egg-spread",
+  "title": "Curried Egg Spread",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099998929",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "60 g",
+  "servings": 1,
+  "serving_grams": 60.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Egg (77%) ( Egg , Food Acids (Acetic Acid, Citric Acid))",
+      "name": "Egg",
+      "percent": 77.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mayo (Water, Canola Oil, Liquid Sugar, Egg , White Vinegar, Corn Starch, Salt, Mustard, Modified Starch (1450), Flavours, Vegetable Gum (Xanthan, Guar), Lemon Juice, Spice Extract, Acidity Regulator (Citric Acid), Color (161b))",
+      "name": "Mayo (Water, Canola Oil, Liquid Sugar, Egg , White Vinegar, Corn Starch, Salt, Mustard, Modified Starch (1450), Flavours, Vegetable Gum (Xanthan, Guar), Lemon Juice, Spice Extract, Acidity Regulator (Citric Acid), Color (161b))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Curry Paste (1.5%) (Contains Food Acid (Acetic Acid))",
+      "name": "Curry Paste",
+      "percent": 1.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Egg"
+  ],
+  "nutrition": {
+    "energy_kj": 418.0,
+    "protein_g": 5.9,
+    "fat_g": 7.9,
+    "sat_fat_g": 1.4,
+    "carb_g": 1.4,
+    "sugar_g": 0.8,
+    "fibre_g": 0.2,
+    "sodium_mg": 258.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

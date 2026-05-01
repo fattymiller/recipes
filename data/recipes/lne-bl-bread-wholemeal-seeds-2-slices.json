@@ -1,0 +1,143 @@
+{
+  "id": "lne-bl-bread-wholemeal-seeds-2-slices",
+  "title": "Bread, Wholemeal & Seeds (2 slices)",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1267962973",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "83 g",
+  "servings": 1,
+  "serving_grams": 83.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wholemeal Wheat Flour (25%)",
+      "name": "Wholemeal Wheat Flour",
+      "percent": 25.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mixed Grains (9%) ( Rye , Wheat , Purple Wheat , Buckwheat, Corn, Oats , Barley , Triticale ( Wheat , Rye ))",
+      "name": "Mixed Grains",
+      "percent": 9.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Gluten",
+      "name": "Wheat Gluten",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mixed Seeds (6%) (Poppy Seeds, Linseed, Sunflower Seeds)",
+      "name": "Mixed Seeds",
+      "percent": 6.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Soy",
+      "name": "Soy",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Canola Oil",
+      "name": "Canola Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Bran",
+      "name": "Wheat Bran",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Germ",
+      "name": "Wheat Germ",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast",
+      "name": "Yeast",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vinegar",
+      "name": "Vinegar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Fermented Wheat Flour",
+      "name": "Fermented Wheat Flour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vitamins (Thiamin, Folic Acid)",
+      "name": "Vitamins (Thiamin, Folic Acid)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Processing Aid ( Wheat )",
+      "name": "Processing Aid ( Wheat )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 863.0,
+    "protein_g": 10.2,
+    "fat_g": 6.3,
+    "sat_fat_g": 0.7,
+    "carb_g": 23.6,
+    "sugar_g": 1.1,
+    "fibre_g": 6.9,
+    "sodium_mg": 285.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

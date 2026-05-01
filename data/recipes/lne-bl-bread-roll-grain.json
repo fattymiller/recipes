@@ -1,0 +1,122 @@
+{
+  "id": "lne-bl-bread-roll-grain",
+  "title": "Bread Roll, Grain",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#407312224",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "65 g",
+  "servings": 1,
+  "serving_grams": 65.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Wheat Flour ( Wheat Flour, Thiamine, Folic Acid)",
+      "name": "Wheat Flour ( Wheat Flour, Thiamine, Folic Acid)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wholemeal Wheat Flour",
+      "name": "Wholemeal Wheat Flour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Grain Mix (3.8%) (Kibbled Wheat , Kibbled Corn, Kibbled Rye , Malted Wheat , Linseed)",
+      "name": "Grain Mix",
+      "percent": 3.8,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Soy Flour",
+      "name": "Soy Flour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Bread Mix (Calcium Carbonate, Fermented Wheat & Rye Flour, Ascorbic Acid, Plant-based Enzymes)",
+      "name": "Bread Mix (Calcium Carbonate, Fermented Wheat & Rye Flour, Ascorbic Acid, Plant-based Enzymes)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast",
+      "name": "Yeast",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Canola Oil",
+      "name": "Canola Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Gluten",
+      "name": "Wheat Gluten",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Dark Malt Flour",
+      "name": "Dark Malt Flour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rosemary",
+      "name": "Rosemary",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 687.0,
+    "protein_g": 5.7,
+    "fat_g": 2.0,
+    "sat_fat_g": 0.2,
+    "carb_g": 28.6,
+    "sugar_g": 1.0,
+    "fibre_g": 3.6,
+    "sodium_mg": 297.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "lne-bl-smoothie-base-mango-coconut",
+  "title": "Smoothie Base, Mango Coconut",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999751",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "180 g",
+  "servings": 1,
+  "serving_grams": 180.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Banana Puree (72%) (Banana, Food Acids (Ascorbic, Citric))",
+      "name": "Banana Puree",
+      "percent": 72.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mango Puree (13%)",
+      "name": "Mango Puree",
+      "percent": 13.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coconut Milk (5%)",
+      "name": "Coconut Milk",
+      "percent": 5.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Flavour",
+      "name": "Flavour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Food Acid (Citric)",
+      "name": "Food Acid (Citric)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Plant Extract",
+      "name": "Plant Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 782.0,
+    "protein_g": 1.6,
+    "fat_g": 1.6,
+    "sat_fat_g": 1.3,
+    "carb_g": 38.2,
+    "sugar_g": 32.4,
+    "fibre_g": 5.8,
+    "sodium_mg": 5.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "lne-bl-chutney-fruit",
+  "title": "Chutney, Fruit",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1073146603",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "13 g",
+  "servings": 1,
+  "serving_grams": 13.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Fruit & Vegetables (Tomato, Apple, Onion, Apricot, Plum, Currants, Lemon)",
+      "name": "Fruit & Vegetables (Tomato, Apple, Onion, Apricot, Plum, Currants, Lemon)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vinegar",
+      "name": "Vinegar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Molasses",
+      "name": "Molasses",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cornflour",
+      "name": "Cornflour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mustard Seends",
+      "name": "Mustard Seends",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 85.0,
+    "protein_g": 0.1,
+    "fat_g": 0.1,
+    "sat_fat_g": 0.1,
+    "carb_g": 4.6,
+    "sugar_g": 4.3,
+    "fibre_g": 0.3,
+    "sodium_mg": 56.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "lne-bl-pistachios-white-chocolate-strawberries",
+  "title": "Pistachios, White Chocolate & Strawberries",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#140547860",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "25 g",
+  "servings": 1,
+  "serving_grams": 25.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Pistachios (32%)",
+      "name": "Pistachios",
+      "percent": 32.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cranberries (Cranberries, Sugar, Sunflower Oil)",
+      "name": "Cranberries (Cranberries, Sugar, Sunflower Oil)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "White Chocolate (20%) (Sugar, Milk Solids, Cocoa Butter, Emulsifier ( Soy Lecithin), Flavour)",
+      "name": "White Chocolate",
+      "percent": 20.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepitas",
+      "name": "Pepitas",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Strawberries (4%)",
+      "name": "Strawberries",
+      "percent": 4.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk",
+    "Soy",
+    "Pistachio"
+  ],
+  "nutrition": {
+    "energy_kj": 518.0,
+    "protein_g": 3.2,
+    "fat_g": 8.3,
+    "sat_fat_g": 1.9,
+    "carb_g": 8.4,
+    "sugar_g": 7.7,
+    "fibre_g": 0.7,
+    "sodium_mg": 6.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

@@ -1,0 +1,145 @@
+{
+  "id": "lne-dinner-6549-asian-beef-salad",
+  "title": "6549 Asian Beef Salad",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999371",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "360 g",
+  "servings": 1,
+  "serving_grams": 360.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Beef (15%)",
+      "name": "Beef",
+      "percent": 15.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot",
+      "name": "Carrot",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cucumber",
+      "name": "Cucumber",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sweet Chilli & Soy Dressing (11%) (Water, Sugar, Soy Sauce (Contains Soybeans , Wheat ), Vinegar, Chilli, Salt, Sesame Oil, Ginger, Garlic, Tamarind, Cornflour, Caramelised Sugar Syrup, Xanthan Gum, Spice (Contains Wheat ))",
+      "name": "Sweet Chilli & Soy Dressing",
+      "percent": 11.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Quinoa (Water, Quinoa)",
+      "name": "Cooked Quinoa (Water, Quinoa)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Choy Sum",
+      "name": "Choy Sum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Beans",
+      "name": "Beans",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Peanuts ( Peanuts , Peanut Oil)",
+      "name": "Peanuts ( Peanuts , Peanut Oil)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rocket",
+      "name": "Rocket",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach",
+      "name": "Spinach",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Powder",
+      "name": "Tomato Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade",
+      "name": "Marinade",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Peanut",
+    "Soy",
+    "Sesame"
+  ],
+  "nutrition": {
+    "energy_kj": 1440.0,
+    "protein_g": 25.1,
+    "fat_g": 11.6,
+    "sat_fat_g": 2.8,
+    "carb_g": 30.7,
+    "sugar_g": 20.5,
+    "fibre_g": 8.1,
+    "sodium_mg": 568.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

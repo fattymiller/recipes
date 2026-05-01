@@ -1,0 +1,90 @@
+{
+  "id": "lne-bl-pizza-topping-pepperoni",
+  "title": "Pizza Topping, Pepperoni",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999889",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "145 g",
+  "servings": 1,
+  "serving_grams": 145.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Tomato (41%)",
+      "name": "Tomato",
+      "percent": 41.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chicken Pepperoni (24%) (Chicken, Water, Potato Starch, Salt, Spice, Flavour, Dextrose, Hydrolysed Vegetable Protein, Fermented Rice, Herbs, Vegetable Powder, Smoke Flavour, Wood Smoke)",
+      "name": "Chicken Pepperoni",
+      "percent": 24.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum (20%)",
+      "name": "Capsicum",
+      "percent": 20.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion (7%)",
+      "name": "Onion",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rocket",
+      "name": "Rocket",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach",
+      "name": "Spinach",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Basil (Contains Antioxidant (Ascorbic Acid))",
+      "name": "Basil (Contains Antioxidant (Ascorbic Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 329.0,
+    "protein_g": 6.8,
+    "fat_g": 2.5,
+    "sat_fat_g": 0.7,
+    "carb_g": 6.1,
+    "sugar_g": 3.2,
+    "fibre_g": 1.7,
+    "sodium_mg": 316.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

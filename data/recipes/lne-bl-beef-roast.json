@@ -1,0 +1,41 @@
+{
+  "id": "lne-bl-beef-roast",
+  "title": "Beef, Roast",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#24131135",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "35 g",
+  "servings": 1,
+  "serving_grams": 35.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Beef (Marinade)",
+      "name": "Beef (Marinade)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 231.0,
+    "protein_g": 9.1,
+    "fat_g": 1.9,
+    "sat_fat_g": 0.9,
+    "carb_g": 0.3,
+    "sugar_g": 0.3,
+    "fibre_g": 0.1,
+    "sodium_mg": 78.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

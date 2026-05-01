@@ -1,0 +1,145 @@
+{
+  "id": "lne-bl-cake-double-chocolate",
+  "title": "Cake, Double Chocolate",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099998942",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "50 g",
+  "servings": 1,
+  "serving_grams": 50.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Flour",
+      "name": "Wheat Flour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Apple Puree (Apple, Antioxidant (Ascorbic Acid))",
+      "name": "Apple Puree (Apple, Antioxidant (Ascorbic Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yoghurt ( Milk , Water, Milk Solids, Cultures ( Milk ))",
+      "name": "Yoghurt ( Milk , Water, Milk Solids, Cultures ( Milk ))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Skim Milk Concentrate",
+      "name": "Skim Milk Concentrate",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chocolate (7%) (Sugar, Cocoa Mass, Cocoa Butter, Emulsifier ( Soy Lecithin), Milk Solids)",
+      "name": "Chocolate",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cocoa",
+      "name": "Cocoa",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coffee",
+      "name": "Coffee",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Egg",
+      "name": "Egg",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Egg White",
+      "name": "Egg White",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vanilla Essence (Contains Flavour)",
+      "name": "Vanilla Essence (Contains Flavour)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Oats",
+      "name": "Oats",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Bran",
+      "name": "Wheat Bran",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Raising Agent (450, 500)",
+      "name": "Raising Agent (450, 500)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Canola Oil (Contains Soy )",
+      "name": "Canola Oil (Contains Soy )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Egg",
+    "Milk",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 534.0,
+    "protein_g": 3.8,
+    "fat_g": 2.3,
+    "sat_fat_g": 1.8,
+    "carb_g": 21.4,
+    "sugar_g": 13.9,
+    "fibre_g": 3.0,
+    "sodium_mg": 204.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

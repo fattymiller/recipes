@@ -1,0 +1,138 @@
+{
+  "id": "lne-bl-cereal-maple-pear-wheat-flakes",
+  "title": "Cereal, Maple Pear & Wheat Flakes",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999984",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "35 g",
+  "servings": 1,
+  "serving_grams": 35.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Wheat Flakes (40%) ( Wheat , Salt, Malt Extract)",
+      "name": "Wheat Flakes",
+      "percent": 40.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pear (14%) (Pears, Preservative (220) ( Sulphites ))",
+      "name": "Pear",
+      "percent": 14.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Almonds",
+      "name": "Almonds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coconut",
+      "name": "Coconut",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Apple",
+      "name": "Apple",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Puffed Purple Wheat",
+      "name": "Puffed Purple Wheat",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepitas",
+      "name": "Pepitas",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Honey",
+      "name": "Honey",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chia Seeds",
+      "name": "Chia Seeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Maple Syrup (1%)",
+      "name": "Maple Syrup",
+      "percent": 1.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coconut Oil",
+      "name": "Coconut Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cinnamon",
+      "name": "Cinnamon",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sesame Seeds",
+      "name": "Sesame Seeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Linseeds",
+      "name": "Linseeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Almond",
+    "Sesame",
+    "Sulphites"
+  ],
+  "nutrition": {
+    "energy_kj": 571.0,
+    "protein_g": 4.1,
+    "fat_g": 5.9,
+    "sat_fat_g": 1.8,
+    "carb_g": 18.1,
+    "sugar_g": 5.3,
+    "fibre_g": 4.0,
+    "sodium_mg": 44.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

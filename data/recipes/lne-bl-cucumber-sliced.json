@@ -1,0 +1,41 @@
+{
+  "id": "lne-bl-cucumber-sliced",
+  "title": "Cucumber Sliced",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1590796368",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "40 g",
+  "servings": 1,
+  "serving_grams": 40.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cucumber",
+      "name": "Cucumber",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 20.0,
+    "protein_g": 0.3,
+    "fat_g": 0.0,
+    "sat_fat_g": 0.0,
+    "carb_g": 0.5,
+    "sugar_g": 0.5,
+    "fibre_g": 0.6,
+    "sodium_mg": 4.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

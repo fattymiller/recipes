@@ -1,0 +1,58 @@
+{
+  "id": "lne-bl-savoury-nut-mix",
+  "title": "Savoury Nut Mix",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#2107138279",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "24 g",
+  "servings": 1,
+  "serving_grams": 24.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Noodles (Chickpea Flour, Yellow Pea Flour, Rice Flour, Potato Flour, Tapioca Flour, Sunflower Oil, Salt, Chilli, Spice)",
+      "name": "Noodles (Chickpea Flour, Yellow Pea Flour, Rice Flour, Potato Flour, Tapioca Flour, Sunflower Oil, Salt, Chilli, Spice)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Peanuts (32%) ( Peanuts , Peanut Oil, Salt)",
+      "name": "Peanuts",
+      "percent": 32.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cashews (24%)",
+      "name": "Cashews",
+      "percent": 24.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Peanut",
+    "Cashew"
+  ],
+  "nutrition": {
+    "energy_kj": 556.0,
+    "protein_g": 4.7,
+    "fat_g": 9.0,
+    "sat_fat_g": 1.3,
+    "carb_g": 7.8,
+    "sugar_g": 0.9,
+    "fibre_g": 1.6,
+    "sodium_mg": 10.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

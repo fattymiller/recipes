@@ -1,0 +1,85 @@
+{
+  "id": "lne-bl-yoghurt-blueberry-chia",
+  "title": "Yoghurt, Blueberry Chia",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999348",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "150 g",
+  "servings": 1,
+  "serving_grams": 150.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Yoghurt ( Milk , Water, Milk Solids, Sugar, Thickener (Pectin), Cultures ( Milk ))",
+      "name": "Yoghurt ( Milk , Water, Milk Solids, Sugar, Thickener (Pectin), Cultures ( Milk ))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Blueberry (9%)",
+      "name": "Blueberry",
+      "percent": 9.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chia Seeds (4%)",
+      "name": "Chia Seeds",
+      "percent": 4.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Starch",
+      "name": "Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Flavour",
+      "name": "Flavour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Acidity Regulator (Sodium Citrate)",
+      "name": "Acidity Regulator (Sodium Citrate)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 630.0,
+    "protein_g": 7.5,
+    "fat_g": 3.0,
+    "sat_fat_g": 1.5,
+    "carb_g": 23.0,
+    "sugar_g": 22.4,
+    "fibre_g": 0.2,
+    "sodium_mg": 30.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "lne-bl-smoothie-base-strawberry-raspberry",
+  "title": "Smoothie Base, Strawberry & Raspberry",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999891",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "180 g",
+  "servings": 1,
+  "serving_grams": 180.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Fruit Purees (Pear (61%), Strawberry (17%), Raspberry (5%))",
+      "name": "Fruit Purees (Pear",
+      "percent": 61.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Flavour",
+      "name": "Flavour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Colour (163)",
+      "name": "Colour (163)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Food Acid (Citric)",
+      "name": "Food Acid (Citric)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 369.0,
+    "protein_g": 0.5,
+    "fat_g": 0.2,
+    "sat_fat_g": 0.2,
+    "carb_g": 18.9,
+    "sugar_g": 12.6,
+    "fibre_g": 4.0,
+    "sodium_mg": 5.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

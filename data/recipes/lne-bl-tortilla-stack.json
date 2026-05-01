@@ -1,0 +1,143 @@
+{
+  "id": "lne-bl-tortilla-stack",
+  "title": "Tortilla Stack",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999786",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "215 g",
+  "servings": 1,
+  "serving_grams": 215.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Salsa (19%) (Tomato (Tomato, Food Acid (Citric Acid), Firming Agent (Calcium Chloride)), Onion, Capsicum, Tomato Paste (Tomato, Food Acid (Citric Acid)), Water, Vinegar, Jalapeno, Sugar, Salt, Citrus Fibre, Garlic, Coriander, Spices)",
+      "name": "Salsa",
+      "percent": 19.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Chickpeas (13%) (Chickpeas, Water, Salt)",
+      "name": "Cooked Chickpeas",
+      "percent": 13.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Kidney Beans (12%) (Kidney Beans, Water, Salt)",
+      "name": "Cooked Kidney Beans",
+      "percent": 12.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato (11%)",
+      "name": "Tomato",
+      "percent": 11.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lavash Bread (9%) ( Wheat Flour ( Wheat Flour, Folate, Thiamin), Water, Salt)",
+      "name": "Lavash Bread",
+      "percent": 9.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Refried Beans (Pinto Beans, Water, Vegetable Oil, Onion, Salt)",
+      "name": "Refried Beans (Pinto Beans, Water, Vegetable Oil, Onion, Salt)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sour Cream ( Milk , Cream ( Milk ), Skim Milk Powder, Culture)",
+      "name": "Sour Cream ( Milk , Cream ( Milk ), Skim Milk Powder, Culture)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cheese (Contains Milk )",
+      "name": "Cheese (Contains Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Paste (Contains Acidity Regulator (Citric Acid))",
+      "name": "Tomato Paste (Contains Acidity Regulator (Citric Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Olive Oil",
+      "name": "Olive Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chilli",
+      "name": "Chilli",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 1000.0,
+    "protein_g": 12.2,
+    "fat_g": 7.1,
+    "sat_fat_g": 3.3,
+    "carb_g": 27.8,
+    "sugar_g": 6.3,
+    "fibre_g": 7.7,
+    "sodium_mg": 469.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

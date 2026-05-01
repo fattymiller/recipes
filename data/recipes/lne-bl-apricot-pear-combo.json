@@ -1,0 +1,83 @@
+{
+  "id": "lne-bl-apricot-pear-combo",
+  "title": "Apricot & Pear Combo",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1290463470",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "158 g",
+  "servings": 1,
+  "serving_grams": 158.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Apricots (47%) (Apricots, Fruit Juice (Pear, Apple, Grape, Peach), Firming Agent (509))",
+      "name": "Apricots",
+      "percent": 47.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pear (38%) (Pear, Fruit Juice (Apple, Grape, Peach, Pear), Food Acid (Citric Acid))",
+      "name": "Pear",
+      "percent": 38.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pineapple Juice (Reconstituted Pineapple Juice (99.8%), Food Acid (Citric), Stabiliser (Pectin), Flavour)",
+      "name": "Pineapple Juice (Reconstituted Pineapple Juice",
+      "percent": 99.8,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sultanas",
+      "name": "Sultanas",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Honey",
+      "name": "Honey",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lemon Juice",
+      "name": "Lemon Juice",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vanilla Flavour",
+      "name": "Vanilla Flavour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 348.0,
+    "protein_g": 0.7,
+    "fat_g": 0.1,
+    "sat_fat_g": 0.1,
+    "carb_g": 17.8,
+    "sugar_g": 10.8,
+    "fibre_g": 1.2,
+    "sodium_mg": 8.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

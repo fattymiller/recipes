@@ -1,0 +1,166 @@
+{
+  "id": "lne-dinner-17015-three-cheese-ravioli-lasagne",
+  "title": "17015 Three Cheese Ravioli Lasagne",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999529",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "384 g",
+  "servings": 1,
+  "serving_grams": 384.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Tomato Pulp (30%) (Tomato, Citric Acid)",
+      "name": "Tomato Pulp",
+      "percent": 30.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ravioli (30%) (Pasta ( Wheat Flour, Water, Eggs , Durum Wheat Semolina, Vegetable Oil, Salt, Colour (Carotene)), Filling (Ricotta (Whey ( Milk ), Milk , Salt, Acidity Regulator (Acetic Acid)), Roast Cauliflower, Water, Potato Flakes (Potatoes, Emulsifier (471), Stabiliser (450), Preservative (222), Antioxidant (330, 304)), Cheddar (Contains Milk , Preservative (Sorbic Acid)), Parmesan (Contains Milk , Preservative (Sorbic Acid)), Stabilisers (Maltodextrin, Cultured Dextrose, Cellulose, Guar), Sesame Seed Paste, Parsley, Salt, Vinegar, Sugar, Vegetable Protein, Pepper, Nutmeg))",
+      "name": "Ravioli",
+      "percent": 30.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Beef (11%)",
+      "name": "Beef",
+      "percent": 11.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cheese (6%) ( Milk , Salt, Culture, Enzyme (Non-animal Rennet), Anticaking Agent (Cellulose), Preservative (200))",
+      "name": "Cheese",
+      "percent": 6.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Milk Powder",
+      "name": "Milk Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Paste (Contains Acidity Regulator (Citric Acid))",
+      "name": "Tomato Paste (Contains Acidity Regulator (Citric Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion Extract",
+      "name": "Onion Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract (Contains Barley )",
+      "name": "Yeast Extract (Contains Barley )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Olive Oil",
+      "name": "Olive Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Egg",
+    "Milk",
+    "Sesame"
+  ],
+  "nutrition": {
+    "energy_kj": 2000.0,
+    "protein_g": 30.7,
+    "fat_g": 15.2,
+    "sat_fat_g": 7.8,
+    "carb_g": 51.1,
+    "sugar_g": 13.2,
+    "fibre_g": 5.8,
+    "sodium_mg": 1600.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

@@ -1,0 +1,151 @@
+{
+  "id": "lne-bl-bread-roll-long",
+  "title": "Bread Roll, Long",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1729730452",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "85 g",
+  "servings": 1,
+  "serving_grams": 85.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Wheat Flour ( Wheat Flour, Thiamine, Folic Acid)",
+      "name": "Wheat Flour ( Wheat Flour, Thiamine, Folic Acid)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wholemeal Flour ( Wheat Flour, Coarse Bran, Thiamine, Folic Acid)",
+      "name": "Wholemeal Flour ( Wheat Flour, Coarse Bran, Thiamine, Folic Acid)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Grains (11%) ( Wheat , Corn, Rye , Malted Wheat , Linseed)",
+      "name": "Grains",
+      "percent": 11.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rye Flour",
+      "name": "Rye Flour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast (Vegetable Oil, Potato Starch)",
+      "name": "Yeast (Vegetable Oil, Potato Starch)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Iodised Salt",
+      "name": "Iodised Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Improver ( Wheat Flour, Soya Flour, Malted Wheat Flour, Enzymes, Flour Treatment Agent (300))",
+      "name": "Improver ( Wheat Flour, Soya Flour, Malted Wheat Flour, Enzymes, Flour Treatment Agent (300))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Butter",
+      "name": "Butter",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Oats",
+      "name": "Oats",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Poppy Seeds",
+      "name": "Poppy Seeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Barley",
+      "name": "Barley",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Gluten",
+      "name": "Wheat Gluten",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chia Seeds",
+      "name": "Chia Seeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Seeds",
+      "name": "Sunflower Seeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pumpkin Seeds ( Milk )",
+      "name": "Pumpkin Seeds ( Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Milk",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 961.0,
+    "protein_g": 8.2,
+    "fat_g": 3.1,
+    "sat_fat_g": 0.8,
+    "carb_g": 38.0,
+    "sugar_g": 1.2,
+    "fibre_g": 4.8,
+    "sodium_mg": 322.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

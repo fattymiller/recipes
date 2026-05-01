@@ -1,0 +1,55 @@
+{
+  "id": "lne-bl-beef-corned",
+  "title": "Beef, Corned",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999982",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "45 g",
+  "servings": 1,
+  "serving_grams": 45.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Beef",
+      "name": "Beef",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cure (Contains Acidity Regulator (500), Antioxidant (316), Preservative (250))",
+      "name": "Cure (Contains Acidity Regulator (500), Antioxidant (316), Preservative (250))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 208.0,
+    "protein_g": 8.8,
+    "fat_g": 1.4,
+    "sat_fat_g": 0.1,
+    "carb_g": 0.5,
+    "sugar_g": 0.5,
+    "fibre_g": 0.3,
+    "sodium_mg": 424.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

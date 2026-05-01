@@ -1,0 +1,50 @@
+{
+  "id": "lne-bl-peaches-in-yoghurt",
+  "title": "Peaches in Yoghurt",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#559002844",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "150 g",
+  "servings": 1,
+  "serving_grams": 150.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Peach (67%) (Peaches, Fruit Juice (Pear, Apple, Grape, Peach), Food Acid (Citric))",
+      "name": "Peach",
+      "percent": 67.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yoghurt (33%) ( Milk , Water, Milk Solids, Sugar, Thickener (Pectin), Vanilla Flavour, Cultures ( Milk ))",
+      "name": "Yoghurt",
+      "percent": 33.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 368.0,
+    "protein_g": 3.6,
+    "fat_g": 1.4,
+    "sat_fat_g": 1.0,
+    "carb_g": 14.6,
+    "sugar_g": 12.8,
+    "fibre_g": 1.2,
+    "sodium_mg": 15.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

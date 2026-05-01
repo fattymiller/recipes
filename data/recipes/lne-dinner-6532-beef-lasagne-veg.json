@@ -1,0 +1,67 @@
+{
+  "id": "lne-dinner-6532-beef-lasagne-veg",
+  "title": "6532 Beef Lasagne & Veg",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999317",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "390 g",
+  "servings": 1,
+  "serving_grams": 390.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Beef Lasagne (72%) (Beef, Tomato Pulp (Tomato, Citric Acid), Water, Cooked Pasta (Water, Wheat Flour, Egg ), Cheese ( Milk , Salt, Culture, Enzyme (Non-animal Rennet)), Onion, Milk Powder, Corn Starch, Breadcrumbs (Contains Wheat ), Tomato Paste (Contains Acidity Regulator (Citric Acid)), Cheese (Contains Milk ), Salt, Garlic, Sugar, Onion Extract, Yeast Extract (Contains Barley ), Olive Oil, Spices, Herbs, Pepper, Herbs)",
+      "name": "Beef Lasagne",
+      "percent": 72.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Broccoli (10%)",
+      "name": "Broccoli",
+      "percent": 10.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cauliflower (10%)",
+      "name": "Cauliflower",
+      "percent": 10.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot (8%)",
+      "name": "Carrot",
+      "percent": 8.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Egg",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 1590.0,
+    "protein_g": 32.2,
+    "fat_g": 10.9,
+    "sat_fat_g": 5.8,
+    "carb_g": 34.9,
+    "sugar_g": 13.2,
+    "fibre_g": 5.6,
+    "sodium_mg": 1050.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

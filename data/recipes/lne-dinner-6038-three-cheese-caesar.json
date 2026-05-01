@@ -1,0 +1,159 @@
+{
+  "id": "lne-dinner-6038-three-cheese-caesar",
+  "title": "6038 Three Cheese & Caesar",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999322",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "375 g",
+  "servings": 1,
+  "serving_grams": 375.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Salad With Caesar Dressing (Tomato, Egg ( Egg , Food Acids (Acetic Acid, Citric Acid)), Lettuce, Caesar Dressing (Water, Vinegar, Canola Oil, Sugar, Vegetarian Worcestershire Sauce, Salt, Parmesan Cheese Powder (Contains Milk ), Mustard Powder, Thickener (Xanthan Gum), Citrus Fibre, Onion, Garlic, Spice))",
+      "name": "Salad With Caesar Dressing (Tomato, Egg ( Egg , Food Acids (Acetic Acid, Citric Acid)), Lettuce, Caesar Dressing (Water, Vinegar, Canola Oil, Sugar, Vegetarian Worcestershire Sauce, Salt, Parmesan Cheese Powder (Contains Milk ), Mustard Powder, Thickener (Xanthan Gum), Citrus Fibre, Onion, Garlic, Spice))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Pulp (Tomato, Citric Acid)",
+      "name": "Tomato Pulp (Tomato, Citric Acid)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ravioli ( Wheat Flour, Ricotta (Whey, Milk , Salt, Food Acid (Acetic)), Cauliflower, Water, Egg , Semolina, Potato Flake, Cheddar (Contains Milk ), Parmesan (Contains Milk , Flavour Enhancer (1104)), Tahini ( Sesame ), Salt, Vegetable Oil, Herbs, Sugar, Vinegar, Vegetable Protein, Pepper, Spice)",
+      "name": "Ravioli ( Wheat Flour, Ricotta (Whey, Milk , Salt, Food Acid (Acetic)), Cauliflower, Water, Egg , Semolina, Potato Flake, Cheddar (Contains Milk ), Parmesan (Contains Milk , Flavour Enhancer (1104)), Tahini ( Sesame ), Salt, Vegetable Oil, Herbs, Sugar, Vinegar, Vegetable Protein, Pepper, Spice)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "White Wine",
+      "name": "White Wine",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Parmesan Cheese (Contains Milk )",
+      "name": "Parmesan Cheese (Contains Milk )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Paste (Contains Acidity Regulator (Citric Acid))",
+      "name": "Tomato Paste (Contains Acidity Regulator (Citric Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Balsamic Vinegar",
+      "name": "Balsamic Vinegar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion Extract",
+      "name": "Onion Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Olive Oil",
+      "name": "Olive Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Basil (Contains Antioxidant (Ascorbic Acid))",
+      "name": "Basil (Contains Antioxidant (Ascorbic Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Egg",
+    "Milk",
+    "Sesame"
+  ],
+  "nutrition": {
+    "energy_kj": 1570.0,
+    "protein_g": 16.7,
+    "fat_g": 15.2,
+    "sat_fat_g": 4.6,
+    "carb_g": 40.0,
+    "sugar_g": 15.9,
+    "fibre_g": 5.5,
+    "sodium_mg": 1040.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

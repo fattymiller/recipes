@@ -1,0 +1,99 @@
+{
+  "id": "lne-bl-pizza-topping-mediterranean-vegetable",
+  "title": "Pizza Topping, Mediterranean Vegetable",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099998910",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "130 g",
+  "servings": 1,
+  "serving_grams": 130.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Vegetables (67%) (Pumpkin, Capsicum, Semi Dried Tomatoes, Onion)",
+      "name": "Vegetables",
+      "percent": 67.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Napoli Sauce (Tomato, Salt, Sugar, Onion, Herbs, Spices)",
+      "name": "Napoli Sauce (Tomato, Salt, Sugar, Onion, Herbs, Spices)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pine Nuts",
+      "name": "Pine Nuts",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Olive Oil",
+      "name": "Olive Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Basil (Contains Antioxidant (Ascorbic Acid))",
+      "name": "Basil (Contains Antioxidant (Ascorbic Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Pine Nut"
+  ],
+  "nutrition": {
+    "energy_kj": 386.0,
+    "protein_g": 3.3,
+    "fat_g": 4.3,
+    "sat_fat_g": 0.3,
+    "carb_g": 8.5,
+    "sugar_g": 6.5,
+    "fibre_g": 3.2,
+    "sodium_mg": 425.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

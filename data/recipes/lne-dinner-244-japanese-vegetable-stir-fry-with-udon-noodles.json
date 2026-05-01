@@ -1,0 +1,186 @@
+{
+  "id": "lne-dinner-244-japanese-vegetable-stir-fry-with-udon-noodles",
+  "title": "244 Japanese Vegetable Stir Fry with Udon Noodles",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999016",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "405 g",
+  "servings": 1,
+  "serving_grams": 405.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cauliflower (16%)",
+      "name": "Cauliflower",
+      "percent": 16.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Hokkien Noodles (15%) ( Wheat Flour, Water, Canola Oil, Wheat Gluten, Salt, Emulsifying Salts (451, 450), Potato Starch, Lye Water, Thickener (Xanthan Gum), Preservative (202), Colours (160b, 100, 160a), Raising Agents (500, 450, 341))",
+      "name": "Hokkien Noodles",
+      "percent": 15.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mushroom (10%)",
+      "name": "Mushroom",
+      "percent": 10.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Soybeans (9%)",
+      "name": "Soybeans",
+      "percent": 9.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Choy Sum (7%)",
+      "name": "Choy Sum",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Broccoli (7%)",
+      "name": "Broccoli",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum (7%)",
+      "name": "Capsicum",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Soy Sauce (Water, Soybean , Wheat , Salt, Alcohol, Sugar, Food Acid (262, 270, 260))",
+      "name": "Soy Sauce (Water, Soybean , Wheat , Salt, Alcohol, Sugar, Food Acid (262, 270, 260))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Peanuts (3%)",
+      "name": "Peanuts",
+      "percent": 3.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mirin",
+      "name": "Mirin",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Miso Paste (1%) (Contains Soybean )",
+      "name": "Miso Paste",
+      "percent": 1.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ginger",
+      "name": "Ginger",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sake",
+      "name": "Sake",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chilli",
+      "name": "Chilli",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract",
+      "name": "Yeast Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Peanut",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 1750.0,
+    "protein_g": 21.3,
+    "fat_g": 11.4,
+    "sat_fat_g": 1.8,
+    "carb_g": 51.8,
+    "sugar_g": 21.3,
+    "fibre_g": 9.9,
+    "sodium_mg": 1200.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

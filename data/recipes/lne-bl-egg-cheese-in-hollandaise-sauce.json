@@ -1,0 +1,72 @@
+{
+  "id": "lne-bl-egg-cheese-in-hollandaise-sauce",
+  "title": "Egg & Cheese In Hollandaise Sauce",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#428616505",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "93 g",
+  "servings": 1,
+  "serving_grams": 93.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Egg (54%) ( Egg , Food Acids (Acetic Acid, Citric Acid))",
+      "name": "Egg",
+      "percent": 54.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Hollandaise Sauce (22%) (Water, Canola Oil, Butter (Cream ( Milk ), Water, Salt), Egg Yolk ( Egg Yolk, Salt), Lemon Juice, Milk Solids, Corn Starch, Salt, Vegetable Gum (Xanthan), Food Acid (Citric), Pepper, Colour (Carotene), Spice Extract)",
+      "name": "Hollandaise Sauce",
+      "percent": 22.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cheese (19%) ( Milk , Salt, Culture, Enzyme (Non-animal Rennet))",
+      "name": "Cheese",
+      "percent": 19.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Egg",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 704.0,
+    "protein_g": 12.0,
+    "fat_g": 12.9,
+    "sat_fat_g": 4.8,
+    "carb_g": 1.2,
+    "sugar_g": 0.5,
+    "fibre_g": 0.1,
+    "sodium_mg": 379.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

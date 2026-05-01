@@ -1,0 +1,187 @@
+{
+  "id": "lne-dinner-234-chicken-katsu-curry",
+  "title": "234 Chicken Katsu Curry",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099998987",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "420 g",
+  "servings": 1,
+  "serving_grams": 420.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Carrot (18%)",
+      "name": "Carrot",
+      "percent": 18.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Rice (17%) (Water, Rice)",
+      "name": "Cooked Rice",
+      "percent": 17.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Crumbed Chicken (17%) (Chicken, Wheat Flour, Canola Oil, Water, Wheat Gluten, Salt, Starches ( Wheat , Maize), Dehydrated Vegetables, Fibre ( Wheat , Plant, Vegetable), Egg White, Yeast, Flavour, Sugar, Seaweed Extract, Yeast Extract, Herb Extract, Colours (Turmeric, Paprika), Processing Aid ( Wheat ))",
+      "name": "Crumbed Chicken",
+      "percent": 17.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pumpkin (9%)",
+      "name": "Pumpkin",
+      "percent": 9.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Soybeans (7%)",
+      "name": "Soybeans",
+      "percent": 7.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Beans (5%)",
+      "name": "Beans",
+      "percent": 5.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Daikon",
+      "name": "Daikon",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Honey",
+      "name": "Honey",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato Sauce (Contains Food Acid (Acetic, Citric), Flavours)",
+      "name": "Tomato Sauce (Contains Food Acid (Acetic, Citric), Flavours)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Wheat Flour",
+      "name": "Wheat Flour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract (Contains Barley )",
+      "name": "Yeast Extract (Contains Barley )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Soy Sauce (Contains Soy , Wheat )",
+      "name": "Soy Sauce (Contains Soy , Wheat )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Worcestershire Sauce (Contains Barley , Fish , Flavours)",
+      "name": "Worcestershire Sauce (Contains Barley , Fish , Flavours)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ginger",
+      "name": "Ginger",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Egg",
+    "Fish",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 1670.0,
+    "protein_g": 21.4,
+    "fat_g": 9.2,
+    "sat_fat_g": 1.1,
+    "carb_g": 52.4,
+    "sugar_g": 13.7,
+    "fibre_g": 9.3,
+    "sodium_mg": 1050.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

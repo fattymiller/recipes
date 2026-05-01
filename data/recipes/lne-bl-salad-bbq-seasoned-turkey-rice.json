@@ -1,0 +1,111 @@
+{
+  "id": "lne-bl-salad-bbq-seasoned-turkey-rice",
+  "title": "Salad, BBQ Seasoned Turkey & Rice",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999483",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "255 g",
+  "servings": 1,
+  "serving_grams": 255.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cooked Brown Rice (23%) (Water, Brown Rice, Sunflower Oil)",
+      "name": "Cooked Brown Rice",
+      "percent": 23.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Turkey (23%) (Turkey Breast, Flavour, Maize Starch, Salt, Dextrose, Vinegar, Yeast Extracts, Fibres, Thickener (407a))",
+      "name": "Turkey",
+      "percent": 23.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Kidney Beans (Kidney Beans, Water, Salt)",
+      "name": "Cooked Kidney Beans (Kidney Beans, Water, Salt)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Celery",
+      "name": "Celery",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn (Corn, Sugar, Salt)",
+      "name": "Corn (Corn, Sugar, Salt)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rocket",
+      "name": "Rocket",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach",
+      "name": "Spinach",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Bbq Seasoning (0.5%) (Contains Flavour)",
+      "name": "Bbq Seasoning",
+      "percent": 0.5,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 908.0,
+    "protein_g": 18.0,
+    "fat_g": 2.4,
+    "sat_fat_g": 0.5,
+    "carb_g": 28.5,
+    "sugar_g": 4.1,
+    "fibre_g": 4.4,
+    "sodium_mg": 406.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

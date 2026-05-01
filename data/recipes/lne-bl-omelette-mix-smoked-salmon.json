@@ -1,0 +1,86 @@
+{
+  "id": "lne-bl-omelette-mix-smoked-salmon",
+  "title": "Omelette Mix, Smoked Salmon",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099998930",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "61 g",
+  "servings": 1,
+  "serving_grams": 61.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Zucchini",
+      "name": "Zucchini",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Fetta Cheese ( Milk , Brine, Culture, Enzyme (Non-animal Rennet), Food Acid (Acetic))",
+      "name": "Fetta Cheese ( Milk , Brine, Culture, Enzyme (Non-animal Rennet), Food Acid (Acetic))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Hot Smoked Salmon (Salmon ( Fish ), Salt, Woodsmoke, Spice, Pepper)",
+      "name": "Hot Smoked Salmon (Salmon ( Fish ), Salt, Woodsmoke, Spice, Pepper)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Herbs",
+      "name": "Herbs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepper",
+      "name": "Pepper",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Fish",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 338.0,
+    "protein_g": 7.6,
+    "fat_g": 5.2,
+    "sat_fat_g": 2.2,
+    "carb_g": 0.8,
+    "sugar_g": 0.6,
+    "fibre_g": 0.8,
+    "sodium_mg": 379.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

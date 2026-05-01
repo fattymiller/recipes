@@ -1,0 +1,72 @@
+{
+  "id": "teriyaki-chicken-with-homemade-teriyaki-sauce",
+  "title": "Teriyaki Chicken (With Homemade Teriyaki Sauce)",
+  "source_url": "https://www.recipetineats.com/teriyaki-chicken/",
+  "host": "recipetineats.com",
+  "image": "https://www.recipetineats.com/tachyon/2014/07/Teriyaki-Chicken-1.jpg",
+  "yields": "4 servings",
+  "servings": 4,
+  "total_time": 15,
+  "prep_time": 2,
+  "cook_time": 13,
+  "ingredients": [
+    {
+      "raw": "4 tbsp Teriyaki Sauce Marinade",
+      "quantity": 4.0,
+      "unit": "tbsp",
+      "name": "Teriyaki Sauce Marinade"
+    },
+    {
+      "raw": "4 chicken thigh fillets (, skinless and boneless (about 5oz/150g each))",
+      "quantity": 4.0,
+      "unit": null,
+      "name": "chicken thigh fillets (, skinless and boneless (about 5oz/150g each))"
+    },
+    {
+      "raw": "1 tbsp oil",
+      "quantity": 1.0,
+      "unit": "tbsp",
+      "name": "oil"
+    },
+    {
+      "raw": "2 tbsp soy sauce",
+      "quantity": 2.0,
+      "unit": "tbsp",
+      "name": "soy sauce"
+    },
+    {
+      "raw": "2 tbsp mirin",
+      "quantity": 2.0,
+      "unit": "tbsp",
+      "name": "mirin"
+    },
+    {
+      "raw": "2 tbsp Japanese cooking wine (sake)",
+      "quantity": 2.0,
+      "unit": "tbsp",
+      "name": "Japanese cooking wine (sake)"
+    },
+    {
+      "raw": "2 tbsp water",
+      "quantity": 2.0,
+      "unit": "tbsp",
+      "name": "water"
+    }
+  ],
+  "instructions": [
+    "Teriyaki Sauce Marinade (\"Marinade\")",
+    "Combine the 4 ingredients in a small saucepan over high heat.",
+    "Bring to boil, then turn heat down and simmer until it reduces by half - it should only take 5 minutes or so. The consistency should be like a light syrup. Keep your eye on it - it will start to thicken suddenly!",
+    "Bring to room temperature before using.",
+    "Chicken",
+    "Combine the Marinade with the chicken and marinate for at least 20 minutes, preferably overnight.",
+    "Remove chicken from Marinade but do not discard the Marinade liquid.",
+    "Heat oil in non stick pan over medium to medium-high heat. You don't want it too hot because otherwise the sugar in the Marinade will burn before the inside is cooked.",
+    "Place the chicken in the pan and cook the first side for around 3 minutes, checking to ensure the skin isn't cooking too quickly. If it is, remove pan from heat and turn the heat down, and add about 2 to 4 tbsp of water to the pan then return to the stovetop. The water slows down the searing process on the skin while still allowing the chicken to cook on the inside.",
+    "Turn chicken over and cook the other side. Just before the chicken is finished cooking, add 2 tbsp of water to the pan and and swirl around and mix with the marinade that has come off the chicken. This will make a dark glossy \"sauce\". Move the chicken around in the pan to coat with this sauce.",
+    "The Marinade is a strong flavour so you shouldn't need any extra sauce. But if you do want more, add equal parts of Teriyaki Sauce and water to the pan and allow to come to a simmer and let it cook until the desired consistency.",
+    "Serve with rice."
+  ],
+  "tags": "BBQ,Grilling",
+  "scraped_at": "2026-05-01T08:43:24+00:00"
+}

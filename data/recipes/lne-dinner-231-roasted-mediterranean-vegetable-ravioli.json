@@ -1,0 +1,48 @@
+{
+  "id": "lne-dinner-231-roasted-mediterranean-vegetable-ravioli",
+  "title": "231 Roasted Mediterranean Vegetable Ravioli",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999033",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "345 g",
+  "servings": 1,
+  "serving_grams": 345.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Ravioli (33%) (Pasta ( Wheat Flour, Water, Eggs , Durum Wheat Semolina, Vegetable Oil, Salt, Colour (Carotene)), Filling (Ricotta (Whey ( Milk ), Milk , Salt, Acidity Regulator (Acetic Acid)), Semi-dried Tomato (Tomato, Salt), Roasted Eggplant, Water, Breadcrumbs (Contains Wheat , Emulsifier (471)), Parmesan (Contains Milk , Preservative (Sorbic Acid)), Stabilisers (Maltodextrin, Cultured Dextrose), Cheddar Cheese (Contains Milk , Preservative (Sorbic Acid)), Pine Nut , Stabiliser (Cellulose, Guar), Vinegar, Sugar, Salt, Vegetable Protein, Basil, Pepper), Tomato Pulp (31%) (Tomato, Citric Acid), Spinach (13%), White Wine (White Wine, Salt, Preservative (220)), Onion, Sugar, Pepitas, Tomato Paste (Contains Acidity Regulator (Citric Acid)), Almonds , Balsamic Vinegar, Garlic, Corn Starch, Onion Extract, Lemon, Maple Syrup, Olive Oil, Basil (Contains Antioxidant (Ascorbic Acid)), Salt, Lime Juice, Herbs, Pepper",
+      "name": "Ravioli",
+      "percent": 33.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Egg",
+    "Milk",
+    "Almond",
+    "Pine Nut"
+  ],
+  "nutrition": {
+    "energy_kj": 1590.0,
+    "protein_g": 15.2,
+    "fat_g": 10.8,
+    "sat_fat_g": 3.6,
+    "carb_g": 51.9,
+    "sugar_g": 15.9,
+    "fibre_g": 6.9,
+    "sodium_mg": 916.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

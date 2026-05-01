@@ -1,0 +1,55 @@
+{
+  "id": "lne-bl-salad-pot-corned-beef-slaw",
+  "title": "Salad Pot, Corned Beef & Slaw",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099998928",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "95 g",
+  "servings": 1,
+  "serving_grams": 95.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Corned Beef (42%) (Beef, Water, Cure (Contains Acidity Regulator (500), Antioxidant (316), Preservative (250)))",
+      "name": "Corned Beef",
+      "percent": 42.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cabbage",
+      "name": "Cabbage",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot",
+      "name": "Carrot",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 247.0,
+    "protein_g": 8.6,
+    "fat_g": 1.2,
+    "sat_fat_g": 0.1,
+    "carb_g": 2.6,
+    "sugar_g": 2.5,
+    "fibre_g": 1.8,
+    "sodium_mg": 395.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

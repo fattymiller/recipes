@@ -1,0 +1,43 @@
+{
+  "id": "lne-bl-almonds-toasted-slivered",
+  "title": "Almonds, Toasted Slivered",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#543334130",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "10 g",
+  "servings": 1,
+  "serving_grams": 10.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Almonds",
+      "name": "Almonds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Almond"
+  ],
+  "nutrition": {
+    "energy_kj": 246.0,
+    "protein_g": 2.0,
+    "fat_g": 5.3,
+    "sat_fat_g": 0.4,
+    "carb_g": 0.5,
+    "sugar_g": 0.5,
+    "fibre_g": 1.1,
+    "sodium_mg": 0.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

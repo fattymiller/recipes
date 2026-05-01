@@ -1,0 +1,106 @@
+{
+  "id": "lne-bl-salad-chicken-waldorf-style",
+  "title": "Salad, Chicken Waldorf Style",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999735",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "205 g",
+  "servings": 1,
+  "serving_grams": 205.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Chicken Breast (29%)",
+      "name": "Chicken Breast",
+      "percent": 29.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Chickpeas (Chickpeas, Water, Salt)",
+      "name": "Cooked Chickpeas (Chickpeas, Water, Salt)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cucumber",
+      "name": "Cucumber",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Celery",
+      "name": "Celery",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cabbage",
+      "name": "Cabbage",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Baby Leaf Mix",
+      "name": "Baby Leaf Mix",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Apple (6%)",
+      "name": "Apple",
+      "percent": 6.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Walnuts (4.5%)",
+      "name": "Walnuts",
+      "percent": 4.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade (Contains Flavour)",
+      "name": "Marinade (Contains Flavour)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Walnut"
+  ],
+  "nutrition": {
+    "energy_kj": 849.0,
+    "protein_g": 21.5,
+    "fat_g": 8.1,
+    "sat_fat_g": 0.9,
+    "carb_g": 8.1,
+    "sugar_g": 3.3,
+    "fibre_g": 6.0,
+    "sodium_mg": 263.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

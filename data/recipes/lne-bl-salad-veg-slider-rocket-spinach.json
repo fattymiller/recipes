@@ -1,0 +1,78 @@
+{
+  "id": "lne-bl-salad-veg-slider-rocket-spinach",
+  "title": "Salad, Veg Slider Rocket & Spinach",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999344",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "120 g",
+  "servings": 1,
+  "serving_grams": 120.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Veggie Slider (42%) (Chickpea, Lentil, Sweet Potato, Vegetable Binder, Soy Protein Isolate, Spinach, Carrot, Soybean Oil ( Soybean Oil, Antioxidant (307b, 900a)), Potato Starch, Vegetable Booster, Garlic, Onion, Shallots, Sugar, Pepper)",
+      "name": "Veggie Slider",
+      "percent": 42.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cucumber",
+      "name": "Cucumber",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rocket (4%)",
+      "name": "Rocket",
+      "percent": 4.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach (4%)",
+      "name": "Spinach",
+      "percent": 4.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 406.0,
+    "protein_g": 4.7,
+    "fat_g": 3.2,
+    "sat_fat_g": 0.3,
+    "carb_g": 11.1,
+    "sugar_g": 3.4,
+    "fibre_g": 7.0,
+    "sodium_mg": 210.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

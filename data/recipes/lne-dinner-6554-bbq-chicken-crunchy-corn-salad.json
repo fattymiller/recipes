@@ -1,0 +1,135 @@
+{
+  "id": "lne-dinner-6554-bbq-chicken-crunchy-corn-salad",
+  "title": "6554 BBQ Chicken Crunchy Corn Salad",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099998904",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "355 g",
+  "servings": 1,
+  "serving_grams": 355.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Chicken Breast (21%)",
+      "name": "Chicken Breast",
+      "percent": 21.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn (Corn, Sugar, Salt, Food Acid (Citric Acid))",
+      "name": "Corn (Corn, Sugar, Salt, Food Acid (Citric Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Creamy Ranch Dressing (Canola Oil, Vinegar, Water, Sugar, Salt, Buttermilk Powder ( Milk ), Egg Yolk Powder, Onion, Mustard, Garlic, Herbs, Spices, Xanthan Gum, Yeast Extract, Citrus Fibre, Citric Acid)",
+      "name": "Creamy Ranch Dressing (Canola Oil, Vinegar, Water, Sugar, Salt, Buttermilk Powder ( Milk ), Egg Yolk Powder, Onion, Mustard, Garlic, Herbs, Spices, Xanthan Gum, Yeast Extract, Citrus Fibre, Citric Acid)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sweet Potato",
+      "name": "Sweet Potato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Avocado",
+      "name": "Avocado",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rocket",
+      "name": "Rocket",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach",
+      "name": "Spinach",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Bbq Seasoning (0.5%) (Contains Flavour)",
+      "name": "Bbq Seasoning",
+      "percent": 0.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade (Contains Flavour)",
+      "name": "Marinade (Contains Flavour)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Seasoning",
+      "name": "Seasoning",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Egg",
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 1790.0,
+    "protein_g": 26.0,
+    "fat_g": 23.6,
+    "sat_fat_g": 3.3,
+    "carb_g": 24.0,
+    "sugar_g": 12.7,
+    "fibre_g": 6.9,
+    "sodium_mg": 918.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

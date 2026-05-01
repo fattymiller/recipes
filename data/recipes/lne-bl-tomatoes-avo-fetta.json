@@ -1,0 +1,57 @@
+{
+  "id": "lne-bl-tomatoes-avo-fetta",
+  "title": "Tomatoes, Avo & Fetta",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099998935",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "70 g",
+  "servings": 1,
+  "serving_grams": 70.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Avocado (43%)",
+      "name": "Avocado",
+      "percent": 43.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato (43%)",
+      "name": "Tomato",
+      "percent": 43.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Fetta Cheese (14%) ( Milk , Brine, Culture, Enzyme (Non-animal Rennet), Food Acid (Acetic))",
+      "name": "Fetta Cheese",
+      "percent": 14.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 413.0,
+    "protein_g": 3.0,
+    "fat_g": 8.7,
+    "sat_fat_g": 2.6,
+    "carb_g": 1.4,
+    "sugar_g": 0.7,
+    "fibre_g": 2.1,
+    "sodium_mg": 144.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

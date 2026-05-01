@@ -1,0 +1,62 @@
+{
+  "id": "lne-bl-omelette-mix-ham-tomato",
+  "title": "Omelette Mix, Ham & Tomato",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1587420777",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "70 g",
+  "servings": 1,
+  "serving_grams": 70.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Tomato (46%)",
+      "name": "Tomato",
+      "percent": 46.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Ham (29%) (Pork, Water, Salt, Potato Starch, Sugar, Bamboo Fibre, Flavours, Preservative (250), Smoke)",
+      "name": "Ham",
+      "percent": 29.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 133.0,
+    "protein_g": 4.8,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.2,
+    "carb_g": 1.9,
+    "sugar_g": 1.6,
+    "fibre_g": 1.1,
+    "sodium_mg": 129.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

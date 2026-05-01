@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Meal Prep Planner</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1>Meal Prep Planner</h1>
+    <p class="tagline">5 days · 4 meals/day · one shared shopping list</p>
+    <nav>
+      <button class="tab active" data-view="recipes">Recipes</button>
+      <button class="tab" data-view="planner">Weekly Plan</button>
+      <button class="tab" data-view="shopping">Shopping List</button>
+      <button class="tab" data-view="liteneasy">Lite n' Easy</button>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Recipes -->
+    <section id="view-recipes" class="view active">
+      <div class="toolbar">
+        <input id="search" type="search" placeholder="Search recipes or ingredients…" />
+        <span class="count" id="recipe-count"></span>
+      </div>
+      <ul id="recipe-list" class="recipe-list"></ul>
+    </section>
+
+    <!-- Planner -->
+    <section id="view-planner" class="view">
+      <div class="toolbar">
+        <span>Pick 2 mid-morning + 2 mid-afternoon meals per day. Any recipe in any slot.</span>
+        <button id="clear-plan" class="danger">Clear plan</button>
+      </div>
+      <div id="planner-grid" class="planner-grid"></div>
+    </section>
+
+    <!-- Shopping -->
+    <section id="view-shopping" class="view">
+      <div class="toolbar">
+        <span id="shopping-summary"></span>
+        <button id="copy-shopping">Copy</button>
+      </div>
+      <ul id="shopping-list" class="shopping-list"></ul>
+    </section>
+
+    <!-- Lite n' Easy -->
+    <section id="view-liteneasy" class="view">
+      <div class="lne-layout">
+        <aside class="lne-sidebar">
+          <div class="panel">
+            <h3>Your taste profile</h3>
+            <p class="hint" id="lne-summary">No ratings yet.</p>
+            <div class="profile-actions">
+              <button id="lne-export" title="Copy ratings + ingredient prefs to clipboard">Export</button>
+              <button id="lne-reset" class="danger">Reset</button>
+            </div>
+          </div>
+
+          <div class="panel">
+            <h3>Liked ingredients</h3>
+            <form id="lne-liked-form" class="chip-form">
+              <input type="text" placeholder="e.g. tomato, basil…" autocomplete="off" />
+              <button type="submit">Add</button>
+            </form>
+            <div id="lne-liked-chips" class="chips"></div>
+          </div>
+
+          <div class="panel">
+            <h3>Disliked ingredients</h3>
+            <form id="lne-disliked-form" class="chip-form">
+              <input type="text" placeholder="e.g. coriander, mushrooms…" autocomplete="off" />
+              <button type="submit">Add</button>
+            </form>
+            <div id="lne-disliked-chips" class="chips"></div>
+            <label class="checkbox-row">
+              <input type="checkbox" id="lne-hide-disliked" />
+              <span>Hide meals containing any disliked ingredient</span>
+            </label>
+          </div>
+        </aside>
+
+        <div class="lne-main">
+          <div class="toolbar lne-toolbar">
+            <input id="lne-search" type="search" placeholder="Search Lite n' Easy meals…" />
+            <div class="seg" role="tablist" aria-label="Category">
+              <button class="seg-btn active" data-cat="all">All</button>
+              <button class="seg-btn" data-cat="breakfast-lunch">Breakfast &amp; Lunch</button>
+              <button class="seg-btn" data-cat="dinner">Dinner</button>
+            </div>
+            <div class="seg" role="tablist" aria-label="Rating filter">
+              <button class="seg-btn active" data-rating="any">All</button>
+              <button class="seg-btn" data-rating="unrated">Unrated</button>
+              <button class="seg-btn" data-rating="up">👍</button>
+              <button class="seg-btn" data-rating="down">👎</button>
+            </div>
+            <span class="count" id="lne-count"></span>
+          </div>
+
+          <div id="lne-loading" class="loading hidden">Loading Lite n' Easy meals…</div>
+
+          <section id="lne-suggestions-wrap" class="suggestions hidden">
+            <h3>Suggested for you</h3>
+            <p class="hint">Based on the ingredients shared with meals you've liked.</p>
+            <ul id="lne-suggestions" class="lne-list"></ul>
+          </section>
+
+          <ul id="lne-list" class="lne-list"></ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Recipe detail modal -->
+  <div id="modal" class="modal hidden" role="dialog" aria-modal="true">
+    <div class="modal-card">
+      <button id="modal-close" class="modal-close" aria-label="Close">×</button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>

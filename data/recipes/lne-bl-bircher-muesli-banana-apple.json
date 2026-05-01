@@ -1,0 +1,80 @@
+{
+  "id": "lne-bl-bircher-muesli-banana-apple",
+  "title": "Bircher Muesli, Banana & Apple",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#301968390",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "150 g",
+  "servings": 1,
+  "serving_grams": 150.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Yoghurt ( Milk , Water, Milk Solids, Sugar, Thickener (Pectin), Vanilla Flavour, Cultures ( Milk ))",
+      "name": "Yoghurt ( Milk , Water, Milk Solids, Sugar, Thickener (Pectin), Vanilla Flavour, Cultures ( Milk ))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Muesli (24%) ( Oats , Sultanas (Sultanas, Sunflower Oil), Hazelnuts , Sunflower Seeds, Currants, Sugar, Vanilla, Cinnamon)",
+      "name": "Muesli",
+      "percent": 24.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Banana Puree (20%) (Banana, Food Acids (Citric, Ascorbic))",
+      "name": "Banana Puree",
+      "percent": 20.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Apple (6%) (Apple, Water, Antioxidant (Ascorbic Acid, Citric Acid))",
+      "name": "Apple",
+      "percent": 6.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Maple Syrup",
+      "name": "Maple Syrup",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vanilla Flavour",
+      "name": "Vanilla Flavour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Milk",
+    "Hazelnut"
+  ],
+  "nutrition": {
+    "energy_kj": 1030.0,
+    "protein_g": 8.2,
+    "fat_g": 5.5,
+    "sat_fat_g": 1.8,
+    "carb_g": 37.7,
+    "sugar_g": 23.4,
+    "fibre_g": 3.9,
+    "sodium_mg": 21.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

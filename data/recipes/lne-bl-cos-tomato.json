@@ -1,0 +1,48 @@
+{
+  "id": "lne-bl-cos-tomato",
+  "title": "Cos & Tomato",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999312",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "55 g",
+  "servings": 1,
+  "serving_grams": 55.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Tomato (73%)",
+      "name": "Tomato",
+      "percent": 73.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lettuce (27%)",
+      "name": "Lettuce",
+      "percent": 27.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 40.0,
+    "protein_g": 0.5,
+    "fat_g": 0.0,
+    "sat_fat_g": 0.0,
+    "carb_g": 1.5,
+    "sugar_g": 1.3,
+    "fibre_g": 0.7,
+    "sodium_mg": 4.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

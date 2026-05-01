@@ -1,0 +1,69 @@
+{
+  "id": "lne-bl-vanilla-pears",
+  "title": "Vanilla Pears",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099998504",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "159 g",
+  "servings": 1,
+  "serving_grams": 159.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Pear (82%) (Pear, Fruit Juice (Apple, Grape, Peach, Pear), Food Acid (Citric Acid))",
+      "name": "Pear",
+      "percent": 82.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Orange Juice (13%) (Orange Juice, Preservative (Potassium Sorbate))",
+      "name": "Orange Juice",
+      "percent": 13.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Dried Cranberries",
+      "name": "Dried Cranberries",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vanilla Flavour",
+      "name": "Vanilla Flavour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 391.0,
+    "protein_g": 0.5,
+    "fat_g": 0.2,
+    "sat_fat_g": 0.1,
+    "carb_g": 19.2,
+    "sugar_g": 9.4,
+    "fibre_g": 1.7,
+    "sodium_mg": 8.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "lne-bl-honey",
+  "title": "Honey",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#853292581",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "14 g",
+  "servings": 1,
+  "serving_grams": 14.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Honey",
+      "name": "Honey",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 196.0,
+    "protein_g": 0.0,
+    "fat_g": 0.0,
+    "sat_fat_g": 0.0,
+    "carb_g": 11.5,
+    "sugar_g": 11.5,
+    "fibre_g": 0.0,
+    "sodium_mg": 2.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

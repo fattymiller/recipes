@@ -1,0 +1,158 @@
+{
+  "id": "lne-dinner-125-honey-soy-chicken",
+  "title": "125 Honey Soy Chicken",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099999039",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "390 g",
+  "servings": 1,
+  "serving_grams": 390.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Chicken Thigh (18%)",
+      "name": "Chicken Thigh",
+      "percent": 18.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Long Grain Rice (18%) (Water, Long Grain Rice)",
+      "name": "Cooked Long Grain Rice",
+      "percent": 18.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Broccoli (9%)",
+      "name": "Broccoli",
+      "percent": 9.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum (9%)",
+      "name": "Capsicum",
+      "percent": 9.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot (9%)",
+      "name": "Carrot",
+      "percent": 9.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Baby Corn (8%) (Corn, Salt, Citric Acid)",
+      "name": "Baby Corn",
+      "percent": 8.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cauliflower (8%)",
+      "name": "Cauliflower",
+      "percent": 8.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Honey (2%)",
+      "name": "Honey",
+      "percent": 2.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sweet Soy Sauce (2%) (Contains Soy , Wheat )",
+      "name": "Sweet Soy Sauce",
+      "percent": 2.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Soy Sauce (1.5%) (Contains Soy , Wheat )",
+      "name": "Soy Sauce",
+      "percent": 1.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Starch",
+      "name": "Corn Starch",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Oyster Sauce (Contains Mollusc )",
+      "name": "Oyster Sauce (Contains Mollusc )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Garlic",
+      "name": "Garlic",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Marinade",
+      "name": "Marinade",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Yeast Extract",
+      "name": "Yeast Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Mollusc",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 1580.0,
+    "protein_g": 24.9,
+    "fat_g": 7.8,
+    "sat_fat_g": 2.3,
+    "carb_g": 48.3,
+    "sugar_g": 20.6,
+    "fibre_g": 5.5,
+    "sodium_mg": 911.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

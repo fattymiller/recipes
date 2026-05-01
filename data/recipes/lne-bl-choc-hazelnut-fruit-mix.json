@@ -1,0 +1,59 @@
+{
+  "id": "lne-bl-choc-hazelnut-fruit-mix",
+  "title": "Choc Hazelnut & Fruit Mix",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1246341660",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "25 g",
+  "servings": 1,
+  "serving_grams": 25.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Raisins (48%) (Raisins, Sunflower Oil)",
+      "name": "Raisins",
+      "percent": 48.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Hazelnuts (28%)",
+      "name": "Hazelnuts",
+      "percent": 28.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Milk Chocolate (24%) (Sugar, Milk Powder, Cocoa Butter, Cocoa Mass, Emulisifier ( Soy Lecithin))",
+      "name": "Milk Chocolate",
+      "percent": 24.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk",
+    "Soy",
+    "Hazelnut"
+  ],
+  "nutrition": {
+    "energy_kj": 483.0,
+    "protein_g": 1.8,
+    "fat_g": 6.3,
+    "sat_fat_g": 1.4,
+    "carb_g": 12.3,
+    "sugar_g": 11.9,
+    "fibre_g": 1.5,
+    "sodium_mg": 5.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

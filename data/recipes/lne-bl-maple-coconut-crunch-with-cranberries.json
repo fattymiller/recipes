@@ -1,0 +1,72 @@
+{
+  "id": "lne-bl-maple-coconut-crunch-with-cranberries",
+  "title": "Maple Coconut Crunch with Cranberries",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#2018450405",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "25 g",
+  "servings": 1,
+  "serving_grams": 25.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cashews",
+      "name": "Cashews",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Almonds",
+      "name": "Almonds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cranberries (24%) (Cranberries, Sugar)",
+      "name": "Cranberries",
+      "percent": 24.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coconut (12%)",
+      "name": "Coconut",
+      "percent": 12.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Maple Syrup (4%)",
+      "name": "Maple Syrup",
+      "percent": 4.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Almond",
+    "Cashew"
+  ],
+  "nutrition": {
+    "energy_kj": 518.0,
+    "protein_g": 3.2,
+    "fat_g": 9.6,
+    "sat_fat_g": 2.5,
+    "carb_g": 5.3,
+    "sugar_g": 4.2,
+    "fibre_g": 1.9,
+    "sodium_mg": 4.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

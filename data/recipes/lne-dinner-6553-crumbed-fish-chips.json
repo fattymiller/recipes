@@ -1,0 +1,88 @@
+{
+  "id": "lne-dinner-6553-crumbed-fish-chips",
+  "title": "6553 Crumbed Fish & Chips",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Dinners.html#-2099998992",
+  "host": "ww2.liteneasy.com.au",
+  "category": "dinner",
+  "image": null,
+  "yields": "340 g",
+  "servings": 1,
+  "serving_grams": 340.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Crumbed Fish (38%) ( Fish (Hoki), Wheat Flour, Water, Canola Oil, Wheat Gluten, Maize Starch, Wheat Starch, Salt, Yeast, Sugar, Dehydrated Vegetables, Wheat Fibre, Egg White, Colours (Turmeric, Paprika), Flavour, Processing Aid ( Wheat ))",
+      "name": "Crumbed Fish",
+      "percent": 38.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Potato (34%)",
+      "name": "Potato",
+      "percent": 34.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Broccoli",
+      "name": "Broccoli",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Zucchini",
+      "name": "Zucchini",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Dill Mayo (Water, Canola Oil, Egg , White Vinegar, Corn Starch, Herbs, Garlic Puree, Salt, Mustard, Liquid Sugar, Lemon Juice, Dijon Mustard, Vegetable Gum (Xanthan))",
+      "name": "Dill Mayo (Water, Canola Oil, Egg , White Vinegar, Corn Starch, Herbs, Garlic Puree, Salt, Mustard, Liquid Sugar, Lemon Juice, Dijon Mustard, Vegetable Gum (Xanthan))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sunflower Oil",
+      "name": "Sunflower Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Seasoning",
+      "name": "Seasoning",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Egg",
+    "Fish"
+  ],
+  "nutrition": {
+    "energy_kj": 1940.0,
+    "protein_g": 28.5,
+    "fat_g": 18.5,
+    "sat_fat_g": 2.0,
+    "carb_g": 41.9,
+    "sugar_g": 2.6,
+    "fibre_g": 7.0,
+    "sodium_mg": 585.0
+  },
+  "tags": [
+    "dinner",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

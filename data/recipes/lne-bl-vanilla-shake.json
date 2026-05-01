@@ -1,0 +1,92 @@
+{
+  "id": "lne-bl-vanilla-shake",
+  "title": "Vanilla Shake",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999436",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "100 g",
+  "servings": 1,
+  "serving_grams": 100.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Protein Blend (46%) ( Milk , Whey ( Milk ))",
+      "name": "Protein Blend",
+      "percent": 46.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Inulin",
+      "name": "Inulin",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Milk Solids ( Soy )",
+      "name": "Milk Solids ( Soy )",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Natural Flavour",
+      "name": "Natural Flavour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coconut Mct Powder",
+      "name": "Coconut Mct Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vegetable Gum (Xanthan Gum)",
+      "name": "Vegetable Gum (Xanthan Gum)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk",
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 1580.0,
+    "protein_g": 42.1,
+    "fat_g": 3.2,
+    "sat_fat_g": 2.3,
+    "carb_g": 39.4,
+    "sugar_g": 36.7,
+    "sodium_mg": 90.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

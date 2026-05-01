@@ -1,0 +1,92 @@
+{
+  "id": "lne-bl-turkey-cranberry-walnut-salad",
+  "title": "Turkey, Cranberry & Walnut Salad",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999486",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "190 g",
+  "servings": 1,
+  "serving_grams": 190.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Turkey (37%) (Turkey Breast, Flavour, Maize Starch, Salt, Dextrose, Vinegar, Yeast Extracts, Fibres, Thickener (407a))",
+      "name": "Turkey",
+      "percent": 37.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Baby Leaf Mix",
+      "name": "Baby Leaf Mix",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cabbage",
+      "name": "Cabbage",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot",
+      "name": "Carrot",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Dried Cranberries (2.5%)",
+      "name": "Dried Cranberries",
+      "percent": 2.5,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Walnuts (2.5%)",
+      "name": "Walnuts",
+      "percent": 2.5,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Walnut"
+  ],
+  "nutrition": {
+    "energy_kj": 636.0,
+    "protein_g": 17.9,
+    "fat_g": 4.6,
+    "sat_fat_g": 0.5,
+    "carb_g": 7.9,
+    "sugar_g": 7.0,
+    "fibre_g": 3.4,
+    "sodium_mg": 254.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

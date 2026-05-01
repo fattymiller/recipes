@@ -1,0 +1,107 @@
+{
+  "id": "lne-bl-oats-creamy-cranberry-apple",
+  "title": "Oats, Creamy Cranberry & Apple",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1761027899",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "35 g",
+  "servings": 1,
+  "serving_grams": 35.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Oats (46%)",
+      "name": "Oats",
+      "percent": 46.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Red Apple Chips (10%)",
+      "name": "Red Apple Chips",
+      "percent": 10.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Dried Cranberries (9%) (Cranberries, Sugar, Sunflower Oil)",
+      "name": "Dried Cranberries",
+      "percent": 9.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pepitas",
+      "name": "Pepitas",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Barley",
+      "name": "Barley",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Almonds",
+      "name": "Almonds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Currants",
+      "name": "Currants",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Vanilla Powder",
+      "name": "Vanilla Powder",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Almond"
+  ],
+  "nutrition": {
+    "energy_kj": 578.0,
+    "protein_g": 3.9,
+    "fat_g": 3.9,
+    "sat_fat_g": 0.7,
+    "carb_g": 20.0,
+    "sugar_g": 8.0,
+    "fibre_g": 3.9,
+    "sodium_mg": 3.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

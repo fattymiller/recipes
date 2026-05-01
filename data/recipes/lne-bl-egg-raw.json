@@ -1,0 +1,43 @@
+{
+  "id": "lne-bl-egg-raw",
+  "title": "Egg, Raw",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1158521474",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "50 g",
+  "servings": 1,
+  "serving_grams": 50.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Egg",
+      "name": "Egg",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Egg"
+  ],
+  "nutrition": {
+    "energy_kj": 267.0,
+    "protein_g": 6.3,
+    "fat_g": 4.3,
+    "sat_fat_g": 1.1,
+    "carb_g": 0.2,
+    "sugar_g": 0.2,
+    "fibre_g": 0.0,
+    "sodium_mg": 75.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

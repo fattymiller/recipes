@@ -1,0 +1,76 @@
+{
+  "id": "lne-bl-smoothie-base-tropical-fruit-blend",
+  "title": "Smoothie Base, Tropical Fruit Blend",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999763",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "180 g",
+  "servings": 1,
+  "serving_grams": 180.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Banana Puree (66%) (Banana, Food Acids (Citric, Ascorbic))",
+      "name": "Banana Puree",
+      "percent": 66.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Mango Puree (18%)",
+      "name": "Mango Puree",
+      "percent": 18.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Water",
+      "name": "Water",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Pineapple Juice Concentrate (5%)",
+      "name": "Pineapple Juice Concentrate",
+      "percent": 5.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Food Acid (Citric)",
+      "name": "Food Acid (Citric)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Plant Extract",
+      "name": "Plant Extract",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 790.0,
+    "protein_g": 1.4,
+    "fat_g": 0.2,
+    "sat_fat_g": 0.0,
+    "carb_g": 42.1,
+    "sugar_g": 35.8,
+    "fibre_g": 5.4,
+    "sodium_mg": 5.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

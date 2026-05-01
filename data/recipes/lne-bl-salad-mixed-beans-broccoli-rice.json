@@ -1,0 +1,118 @@
+{
+  "id": "lne-bl-salad-mixed-beans-broccoli-rice",
+  "title": "Salad, Mixed Beans, Broccoli & Rice",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1076689908",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "275 g",
+  "servings": 1,
+  "serving_grams": 275.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cooked Turmeric Rice (26%) (Water, Long Grain Rice, Sunflower Oil, Spice)",
+      "name": "Cooked Turmeric Rice",
+      "percent": 26.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Black Beans (16%) (Black Beans, Water, Salt)",
+      "name": "Cooked Black Beans",
+      "percent": 16.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Chickpeas (16%) (Chickpeas, Water, Salt)",
+      "name": "Cooked Chickpeas",
+      "percent": 16.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Broccoli (15%)",
+      "name": "Broccoli",
+      "percent": 15.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn",
+      "name": "Corn",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Lemon Juice (Contains Preservative (223), Antioxidant (Ascorbic Acid))",
+      "name": "Lemon Juice (Contains Preservative (223), Antioxidant (Ascorbic Acid))",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Olive Oil",
+      "name": "Olive Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Coriander",
+      "name": "Coriander",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 1170.0,
+    "protein_g": 13.0,
+    "fat_g": 4.1,
+    "sat_fat_g": 0.5,
+    "carb_g": 41.5,
+    "sugar_g": 3.0,
+    "fibre_g": 11.0,
+    "sodium_mg": 328.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

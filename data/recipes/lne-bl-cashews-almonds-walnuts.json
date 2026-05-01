@@ -1,0 +1,66 @@
+{
+  "id": "lne-bl-cashews-almonds-walnuts",
+  "title": "Cashews Almonds & Walnuts",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#629042511",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "40 g",
+  "servings": 1,
+  "serving_grams": 40.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cashews (50%)",
+      "name": "Cashews",
+      "percent": 50.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Almonds (30%)",
+      "name": "Almonds",
+      "percent": 30.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Walnuts (20%)",
+      "name": "Walnuts",
+      "percent": 20.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Almond",
+    "Cashew",
+    "Walnut"
+  ],
+  "nutrition": {
+    "energy_kj": 1060.0,
+    "protein_g": 6.5,
+    "fat_g": 22.6,
+    "sat_fat_g": 3.2,
+    "carb_g": 5.2,
+    "sugar_g": 2.0,
+    "fibre_g": 3.1,
+    "sodium_mg": 118.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

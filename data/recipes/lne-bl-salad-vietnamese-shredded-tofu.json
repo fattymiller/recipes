@@ -1,0 +1,85 @@
+{
+  "id": "lne-bl-salad-vietnamese-shredded-tofu",
+  "title": "Salad, Vietnamese & Shredded Tofu",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999798",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "155 g",
+  "servings": 1,
+  "serving_grams": 155.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Fried Tofu (39%) ( Soybeans , Water, Sunflower Oil, Mineral Salt (511))",
+      "name": "Fried Tofu",
+      "percent": 39.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Carrot",
+      "name": "Carrot",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cabbage",
+      "name": "Cabbage",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chinese Cabbage",
+      "name": "Chinese Cabbage",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach",
+      "name": "Spinach",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Daikon",
+      "name": "Daikon",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Shallots",
+      "name": "Shallots",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Soy"
+  ],
+  "nutrition": {
+    "energy_kj": 479.0,
+    "protein_g": 11.1,
+    "fat_g": 3.8,
+    "sat_fat_g": 0.6,
+    "carb_g": 6.2,
+    "sugar_g": 3.0,
+    "fibre_g": 5.7,
+    "sodium_mg": 36.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

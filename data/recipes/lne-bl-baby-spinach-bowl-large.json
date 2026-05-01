@@ -1,0 +1,41 @@
+{
+  "id": "lne-bl-baby-spinach-bowl-large",
+  "title": "Baby Spinach Bowl, Large",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999479",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "30 g",
+  "servings": 1,
+  "serving_grams": 30.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Spinach",
+      "name": "Spinach",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 20.0,
+    "protein_g": 0.8,
+    "fat_g": 0.0,
+    "sat_fat_g": 0.0,
+    "carb_g": 0.0,
+    "sugar_g": 0.0,
+    "fibre_g": 0.8,
+    "sodium_mg": 27.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

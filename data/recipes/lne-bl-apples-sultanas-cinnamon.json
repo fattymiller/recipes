@@ -1,0 +1,55 @@
+{
+  "id": "lne-bl-apples-sultanas-cinnamon",
+  "title": "Apples Sultanas & Cinnamon",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#2028590593",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "60 g",
+  "servings": 1,
+  "serving_grams": 60.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Apple (58%) (Apple, Water, Antioxidant (Ascorbic Acid, Citric Acid))",
+      "name": "Apple",
+      "percent": 58.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sultanas (42%)",
+      "name": "Sultanas",
+      "percent": 42.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [],
+  "nutrition": {
+    "energy_kj": 341.0,
+    "protein_g": 0.8,
+    "fat_g": 0.1,
+    "sat_fat_g": 0.0,
+    "carb_g": 18.4,
+    "sugar_g": 17.7,
+    "fibre_g": 1.5,
+    "sodium_mg": 4.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

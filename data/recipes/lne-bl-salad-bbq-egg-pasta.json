@@ -1,0 +1,122 @@
+{
+  "id": "lne-bl-salad-bbq-egg-pasta",
+  "title": "Salad, BBQ Egg & Pasta",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999329",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "260 g",
+  "servings": 1,
+  "serving_grams": 260.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cooked Pasta (22%) (Durum Wheat Semolina, Water)",
+      "name": "Cooked Pasta",
+      "percent": 22.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Egg (17%) ( Egg , Food Acids (Acetic Acid, Citric Acid))",
+      "name": "Egg",
+      "percent": 17.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Tomato",
+      "name": "Tomato",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Capsicum",
+      "name": "Capsicum",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cooked Kidney Beans (Kidney Beans, Water, Salt)",
+      "name": "Cooked Kidney Beans (Kidney Beans, Water, Salt)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn (Corn, Sugar, Salt)",
+      "name": "Corn (Corn, Sugar, Salt)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Zucchini",
+      "name": "Zucchini",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rocket",
+      "name": "Rocket",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach",
+      "name": "Spinach",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Bbq Seasoning (1%) (Contains Flavour)",
+      "name": "Bbq Seasoning",
+      "percent": 1.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Olive Oil",
+      "name": "Olive Oil",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Egg"
+  ],
+  "nutrition": {
+    "energy_kj": 989.0,
+    "protein_g": 13.0,
+    "fat_g": 5.9,
+    "sat_fat_g": 1.5,
+    "carb_g": 30.2,
+    "sugar_g": 4.8,
+    "fibre_g": 4.7,
+    "sodium_mg": 437.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

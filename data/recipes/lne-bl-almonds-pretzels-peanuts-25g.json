@@ -1,0 +1,61 @@
+{
+  "id": "lne-bl-almonds-pretzels-peanuts-25g",
+  "title": "Almonds, Pretzels & Peanuts 25g",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1814031474",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "25 g",
+  "servings": 1,
+  "serving_grams": 25.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Pretzels (50%) ( Wheat Flour, Salt, Corn Oil, Canola Oil, Soybean Oil, Corn Syrup, Raising Agent (500), Yeast)",
+      "name": "Pretzels",
+      "percent": 50.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Almonds (25%)",
+      "name": "Almonds",
+      "percent": 25.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Peanuts (25%) ( Peanuts , Peanut Oil, Salt)",
+      "name": "Peanuts",
+      "percent": 25.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Peanut",
+    "Soy",
+    "Almond"
+  ],
+  "nutrition": {
+    "energy_kj": 539.0,
+    "protein_g": 4.8,
+    "fat_g": 7.8,
+    "sat_fat_g": 0.8,
+    "carb_g": 8.8,
+    "sugar_g": 0.7,
+    "fibre_g": 2.4,
+    "sodium_mg": 104.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

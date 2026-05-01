@@ -1,0 +1,129 @@
+{
+  "id": "lne-bl-cereal-nut-cluster-crunch",
+  "title": "Cereal, Nut Cluster Crunch",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#745971062",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "35 g",
+  "servings": 1,
+  "serving_grams": 35.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Oats",
+      "name": "Oats",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Purple Wheat Flakes",
+      "name": "Purple Wheat Flakes",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sultanas (Sultanas, Sunflower Oil)",
+      "name": "Sultanas (Sultanas, Sunflower Oil)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Sugar",
+      "name": "Sugar",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Red Apple Chips (Apple, Ascorbic Acid)",
+      "name": "Red Apple Chips (Apple, Ascorbic Acid)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Almonds (6%)",
+      "name": "Almonds",
+      "percent": 6.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Rice Syrup",
+      "name": "Rice Syrup",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Linseeds",
+      "name": "Linseeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chia Seeds",
+      "name": "Chia Seeds",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Honey",
+      "name": "Honey",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Brown Rice Puffs",
+      "name": "Brown Rice Puffs",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spices",
+      "name": "Spices",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Corn Flour",
+      "name": "Corn Flour",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Gluten",
+    "Wheat",
+    "Almond"
+  ],
+  "nutrition": {
+    "energy_kj": 578.0,
+    "protein_g": 4.0,
+    "fat_g": 4.2,
+    "sat_fat_g": 0.4,
+    "carb_g": 19.2,
+    "sugar_g": 8.9,
+    "fibre_g": 3.9,
+    "sodium_mg": 21.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

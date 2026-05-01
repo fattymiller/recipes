@@ -1,0 +1,64 @@
+{
+  "id": "lne-bl-omelette-mix-mushroom-spinach-fetta",
+  "title": "Omelette Mix, Mushroom Spinach & Fetta",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1989663671",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "75 g",
+  "servings": 1,
+  "serving_grams": 75.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Mushroom (40%)",
+      "name": "Mushroom",
+      "percent": 40.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Fetta Cheese (27%) ( Milk , Brine, Culture, Enzyme (Non-animal Rennet), Food Acid (Acetic))",
+      "name": "Fetta Cheese",
+      "percent": 27.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach (20%)",
+      "name": "Spinach",
+      "percent": 20.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Onion",
+      "name": "Onion",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 243.0,
+    "protein_g": 6.0,
+    "fat_g": 3.4,
+    "sat_fat_g": 2.2,
+    "carb_g": 0.8,
+    "sugar_g": 0.5,
+    "fibre_g": 1.4,
+    "sodium_mg": 298.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

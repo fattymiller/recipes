@@ -1,0 +1,50 @@
+{
+  "id": "lne-bl-salad-pot-salmon-spinach",
+  "title": "Salad Pot, Salmon & Spinach",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#-2099999594",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "40 g",
+  "servings": 1,
+  "serving_grams": 40.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Hot Smoked Salmon (Salmon ( Fish ), Salt, Woodsmoke, Spice, Pepper)",
+      "name": "Hot Smoked Salmon (Salmon ( Fish ), Salt, Woodsmoke, Spice, Pepper)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Spinach (38%)",
+      "name": "Spinach",
+      "percent": 38.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Fish"
+  ],
+  "nutrition": {
+    "energy_kj": 273.0,
+    "protein_g": 6.6,
+    "fat_g": 4.3,
+    "sat_fat_g": 0.8,
+    "carb_g": 0.0,
+    "sugar_g": 0.0,
+    "fibre_g": 0.4,
+    "sodium_mg": 203.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

@@ -1,0 +1,146 @@
+{
+  "id": "tempeh-burrito-bowls",
+  "title": "Tempeh Burrito Bowls",
+  "source_url": "https://www.budgetbytes.com/tempeh-burrito-bowls/",
+  "host": "budgetbytes.com",
+  "image": "https://www.budgetbytes.com/wp-content/uploads/2019/04/Tempeh-Burrito-Bowls-close.jpg",
+  "yields": "4 servings",
+  "servings": 4,
+  "total_time": 35,
+  "prep_time": 15,
+  "cook_time": 20,
+  "ingredients": [
+    {
+      "raw": "1 sweet potato (about 1 lb.) ($1.47)",
+      "quantity": 1.0,
+      "unit": null,
+      "name": "sweet potato (about 1 lb.) ($1.47)"
+    },
+    {
+      "raw": "1 Tbsp cooking oil ($0.04)",
+      "quantity": 1.0,
+      "unit": "tbsp",
+      "name": "cooking oil ($0.04)"
+    },
+    {
+      "raw": "8 oz. tempeh ($2.49)",
+      "quantity": 8.0,
+      "unit": "oz",
+      "name": "tempeh ($2.49)"
+    },
+    {
+      "raw": "1 cup water ($0.00)",
+      "quantity": 1.0,
+      "unit": "cup",
+      "name": "water ($0.00)"
+    },
+    {
+      "raw": "1 Tbsp cooking oil ($0.04)",
+      "quantity": 1.0,
+      "unit": "tbsp",
+      "name": "cooking oil ($0.04)"
+    },
+    {
+      "raw": "1 Tbsp tomato paste ($0.05)",
+      "quantity": 1.0,
+      "unit": "tbsp",
+      "name": "tomato paste ($0.05)"
+    },
+    {
+      "raw": "2 tsp chili powder ($0.20)",
+      "quantity": 2.0,
+      "unit": "tsp",
+      "name": "chili powder ($0.20)"
+    },
+    {
+      "raw": "1/2 tsp smoked paprika ($0.05)",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "name": "smoked paprika ($0.05)"
+    },
+    {
+      "raw": "1/2 tsp cumin ($0.05)",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "name": "cumin ($0.05)"
+    },
+    {
+      "raw": "1/8 tsp cayenne ($0.02)",
+      "quantity": 0.125,
+      "unit": "tsp",
+      "name": "cayenne ($0.02)"
+    },
+    {
+      "raw": "1/4 tsp oregano ($0.03)",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "name": "oregano ($0.03)"
+    },
+    {
+      "raw": "1/4 tsp garlic powder ($0.03)",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "name": "garlic powder ($0.03)"
+    },
+    {
+      "raw": "1/2 tsp salt ($0.02)",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "name": "salt ($0.02)"
+    },
+    {
+      "raw": "freshly cracked pepper ($0.03)",
+      "quantity": null,
+      "unit": null,
+      "name": "freshly cracked pepper ($0.03)"
+    },
+    {
+      "raw": "4 cups cooked rice ($0.47)",
+      "quantity": 4.0,
+      "unit": "cups",
+      "name": "cooked rice ($0.47)"
+    },
+    {
+      "raw": "1/2 cup salsa ($0.50)",
+      "quantity": 0.5,
+      "unit": "cup",
+      "name": "salsa ($0.50)"
+    },
+    {
+      "raw": "1 cup frozen corn kernels, thawed ($0.30)",
+      "quantity": 1.0,
+      "unit": "cup",
+      "name": "frozen corn kernels, thawed ($0.30)"
+    },
+    {
+      "raw": "1 jalapeño ($0.18)",
+      "quantity": 1.0,
+      "unit": null,
+      "name": "jalapeño ($0.18)"
+    },
+    {
+      "raw": "1 avocado ($1.19)",
+      "quantity": 1.0,
+      "unit": null,
+      "name": "avocado ($1.19)"
+    },
+    {
+      "raw": "1/4 cup sour cream ($0.11)",
+      "quantity": 0.25,
+      "unit": "cup",
+      "name": "sour cream ($0.11)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400ºF. Peel and dice the sweet potato into 1/2-inch cubes. Spread the cubes out onto a baking sheet, drizzle with oil, then toss to coat. Season with a pinch of salt.",
+    "Roast the sweet potatoes in the preheated oven for 20 minutes, stirring half way through. Once roasted, set aside.",
+    "While the sweet potatoes are roasting, prepare the seasoned tempeh. Crumble the brick of tempeh into a skillet. Add the water, oil, tomato paste, chili powder, smoked paprika, cumin, cayenne, oregano, garlic powder, salt, and some freshly cracked pepper (about 10 cranks of a pepper mill). Stir briefly to combine.",
+    "Place a lid on the skillet and turn the heat on to medium. Allow the skillet to come up to a simmer. Let the tempeh simmer, stirring every few minutes, for about 10 minutes total, or until the liquid reduces to a thick sauce.",
+    "While the tempeh is simmering, slice the avocado and jalapeño.",
+    "To build the bowls, place 1 cup cooked rice in the bottom of each bowl. Divide the seasoned tempeh, roasted sweet potatoes, corn, and avocado between all four bowls. Top each bowl with 1 to 2 tablespoons of salsa, 1 tablespoon of sour cream, and a few slices of jalapeño. Eat immediately or refrigerate for up to 4 days."
+  ],
+  "tags": [
+    "meal prep"
+  ],
+  "scraped_at": "2026-05-01T08:43:30+00:00"
+}

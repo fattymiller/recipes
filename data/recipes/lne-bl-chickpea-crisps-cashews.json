@@ -1,0 +1,50 @@
+{
+  "id": "lne-bl-chickpea-crisps-cashews",
+  "title": "Chickpea Crisps & Cashews",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#1149206567",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "20 g",
+  "servings": 1,
+  "serving_grams": 20.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Cashews (50%)",
+      "name": "Cashews",
+      "percent": 50.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Chickpea Crisps (50%) (Chickpea, Yellow Pea, Rice, Potato Starch, Tapioca Starch, Sunflower Oil, Salt, Chilli Powder, Spice, Ajwain Seeds)",
+      "name": "Chickpea Crisps",
+      "percent": 50.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Cashew"
+  ],
+  "nutrition": {
+    "energy_kj": 481.0,
+    "protein_g": 3.0,
+    "fat_g": 8.1,
+    "sat_fat_g": 1.2,
+    "carb_g": 7.1,
+    "sugar_g": 0.8,
+    "fibre_g": 0.9,
+    "sodium_mg": 82.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

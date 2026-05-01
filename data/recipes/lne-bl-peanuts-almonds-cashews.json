@@ -1,0 +1,59 @@
+{
+  "id": "lne-bl-peanuts-almonds-cashews",
+  "title": "Peanuts, Almonds & Cashews",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#269189243",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "25 g",
+  "servings": 1,
+  "serving_grams": 25.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Peanuts (50%) ( Peanuts , Peanut Oil)",
+      "name": "Peanuts",
+      "percent": 50.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Almonds (25%)",
+      "name": "Almonds",
+      "percent": 25.0,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Cashews (25%) ( Cashews , Salt)",
+      "name": "Cashews",
+      "percent": 25.0,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Peanut",
+    "Almond",
+    "Cashew"
+  ],
+  "nutrition": {
+    "energy_kj": 653.0,
+    "protein_g": 5.4,
+    "fat_g": 13.4,
+    "sat_fat_g": 1.8,
+    "carb_g": 3.1,
+    "sugar_g": 1.2,
+    "fibre_g": 1.8,
+    "sodium_mg": 43.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}

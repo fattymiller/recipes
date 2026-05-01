@@ -1,0 +1,78 @@
+{
+  "id": "lne-bl-cheese-pizza",
+  "title": "Cheese, Pizza",
+  "source": "liteneasy",
+  "source_url": "https://ww2.liteneasy.com.au/library/ingredients/Breakfast-Lunch-139.html#365008128",
+  "host": "ww2.liteneasy.com.au",
+  "category": "breakfast-lunch",
+  "image": null,
+  "yields": "15 g",
+  "servings": 1,
+  "serving_grams": 15.0,
+  "total_time": null,
+  "prep_time": null,
+  "cook_time": null,
+  "ingredients": [
+    {
+      "raw": "Milk",
+      "name": "Milk",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Salt",
+      "name": "Salt",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Starter Culture",
+      "name": "Starter Culture",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Non-animal Rennet",
+      "name": "Non-animal Rennet",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Anti-caking Agent (Tapioca Starch)",
+      "name": "Anti-caking Agent (Tapioca Starch)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "raw": "Preservative (202)",
+      "name": "Preservative (202)",
+      "percent": null,
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "instructions": [],
+  "allergens": [
+    "Milk"
+  ],
+  "nutrition": {
+    "energy_kj": 222.0,
+    "protein_g": 4.2,
+    "fat_g": 3.8,
+    "sat_fat_g": 2.7,
+    "carb_g": 0.5,
+    "sugar_g": 0.2,
+    "fibre_g": 0.0,
+    "sodium_mg": 101.0
+  },
+  "tags": [
+    "breakfast-lunch",
+    "liteneasy"
+  ],
+  "scraped_at": "2026-05-01T08:43:33+00:00"
+}
