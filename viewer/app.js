@@ -62,6 +62,7 @@ async function init() {
   renderPlanner();
   renderShopping();
   lneInit();
+  ensureLneLoaded();
 }
 
 function switchView(view) {
