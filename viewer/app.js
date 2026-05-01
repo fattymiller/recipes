@@ -62,7 +62,12 @@ async function init() {
   renderPlanner();
   renderShopping();
   lneInit();
-  ensureLneLoaded();
+
+  // LNE is the default active tab, so kick off its data load on first paint.
+  const activeTab = document.querySelector(".tab.active");
+  if (activeTab && activeTab.dataset.view === "liteneasy") {
+    ensureLneLoaded();
+  }
 }
 
 function switchView(view) {
